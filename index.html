@@ -141,6 +141,32 @@ layout: default
     position: relative;
     top: -1px;
   }
+
+  .copy-link-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+    font-size: 0.65rem;
+    font-weight: 500;
+    padding: 0.12rem 0.45rem;
+    color: var(--text-muted);
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.01em;
+    font-family: inherit;
+  }
+  .copy-link-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .copy-link-btn.copied {
+    border-color: var(--relevance);
+    color: var(--relevance);
+    background: var(--relevance-light);
+  }
 </style>
 
 <header class="site-header">
@@ -156,11 +182,12 @@ layout: default
       {% assign current_date = post_date %}
       <li class="date-marker">{{ current_date }}</li>
     {% endif %}
-    <li class="bookmark-entry">
+    <li class="bookmark-entry" id="{{ post.slug }}">
       <div class="bookmark-entry-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
       <div class="bookmark-entry-meta">
         {% if post.author %}<span>{{ post.author }}</span>{% endif %}
         {% if post.url_source %}<a href="{{ post.url_source }}" class="source-link">source ↗</a>{% endif %}
+        <button class="copy-link-btn" onclick="copyLink('{{ post.slug }}', this)">copy link</button>
       </div>
       {% if post.snippet %}
         <div class="bookmark-snippet">{{ post.snippet }}</div>
@@ -171,3 +198,21 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
+<script>
+function copyLink(slug, btn) {
+  var url = location.origin + location.pathname + '#' + slug;
+  navigator.clipboard.writeText(url).then(function() {
+    btn.textContent = 'copied!';
+    btn.classList.add('copied');
+    setTimeout(function() {
+      btn.textContent = 'copy link';
+      btn.classList.remove('copied');
+    }, 1500);
+  });
+}
+if (location.hash) {
+  var el = document.getElementById(location.hash.slice(1));
+  if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+}
+</script>
