@@ -8,6 +8,62 @@ layout: default
 </header>
 
 <style>
+  .month-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.75rem 0;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+  .month-nav-label {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .month-nav-count {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-left: 0.5rem;
+    font-weight: 400;
+  }
+  .month-nav-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 0.3rem 0.7rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: all 0.15s;
+  }
+  .month-nav-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .month-nav-btn:disabled { opacity: 0.3; cursor: default; }
+  .month-nav-btn:disabled:hover { border-color: var(--border); color: var(--text-muted); }
+  .month-nav-buttons { display: flex; gap: 0.4rem; }
+  .month-selector {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    padding: 0.5rem 0 1rem;
+  }
+  .month-pill {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.55rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    text-decoration: none;
+  }
+  .month-pill:hover, .month-pill.active { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+
   .bookmark-list { list-style: none; }
 
   .date-group {
@@ -16,7 +72,7 @@ layout: default
     color: var(--accent);
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    padding: 2rem 0 0.75rem;
+    padding: 1.75rem 0 0.75rem;
     border-bottom: 1px solid var(--border);
     margin-bottom: 0;
   }
@@ -83,17 +139,35 @@ layout: default
     letter-spacing: 0.04em;
     margin-right: 0.3rem;
   }
+
+  .hidden { display: none !important; }
 </style>
 
-<ul class="bookmark-list">
+<div class="month-nav">
+  <div class="month-nav-buttons">
+    <button class="month-nav-btn" id="prev-btn" onclick="navigate(-1)">&larr; Older</button>
+  </div>
+  <div>
+    <span class="month-nav-label" id="month-label"></span>
+    <span class="month-nav-count" id="month-count"></span>
+  </div>
+  <div class="month-nav-buttons">
+    <button class="month-nav-btn" id="next-btn" onclick="navigate(1)">Newer &rarr;</button>
+  </div>
+</div>
+
+<div class="month-selector" id="month-selector"></div>
+
+<ul class="bookmark-list" id="bookmark-list">
   {% assign current_date = "" %}
   {% for post in site.posts %}
     {% assign post_date = post.date | date: "%B %-d, %Y" %}
+    {% assign post_month = post.date | date: "%Y-%m" %}
     {% if post_date != current_date %}
       {% assign current_date = post_date %}
-      <li class="date-group">{{ current_date }}</li>
+      <li class="date-group" data-month="{{ post_month }}">{{ current_date }}</li>
     {% endif %}
-    <li class="bookmark-card">
+    <li class="bookmark-card" data-month="{{ post_month }}">
       <div class="bookmark-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
       <div class="bookmark-meta">
         {% if post.author %}{{ post.author }}{% endif %}
@@ -108,3 +182,69 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+
+<script>
+(function() {
+  const items = document.querySelectorAll('#bookmark-list > li[data-month]');
+  const monthSet = new Set();
+  items.forEach(el => monthSet.add(el.dataset.month));
+  const months = Array.from(monthSet).sort().reverse();
+
+  if (months.length === 0) return;
+
+  let currentIdx = 0;
+
+  const monthNames = {
+    '01':'January','02':'February','03':'March','04':'April',
+    '05':'May','06':'June','07':'July','08':'August',
+    '09':'September','10':'October','11':'November','12':'December'
+  };
+
+  function monthLabel(ym) {
+    const [y, m] = ym.split('-');
+    return monthNames[m] + ' ' + y;
+  }
+
+  // Build month pills
+  const selector = document.getElementById('month-selector');
+  months.forEach((m, i) => {
+    const pill = document.createElement('span');
+    pill.className = 'month-pill';
+    pill.textContent = monthLabel(m);
+    pill.onclick = () => showMonth(i);
+    pill.dataset.idx = i;
+    selector.appendChild(pill);
+  });
+
+  function showMonth(idx) {
+    currentIdx = idx;
+    const active = months[idx];
+    items.forEach(el => {
+      el.classList.toggle('hidden', el.dataset.month !== active);
+    });
+
+    const count = document.querySelectorAll('.bookmark-card[data-month="'+active+'"]:not(.hidden)').length;
+    document.getElementById('month-label').textContent = monthLabel(active);
+    document.getElementById('month-count').textContent = count + ' bookmarks';
+    document.getElementById('prev-btn').disabled = (idx >= months.length - 1);
+    document.getElementById('next-btn').disabled = (idx <= 0);
+
+    selector.querySelectorAll('.month-pill').forEach((p, i) => {
+      p.classList.toggle('active', i === idx);
+    });
+
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function navigate(dir) {
+    const next = currentIdx - dir;
+    if (next >= 0 && next < months.length) showMonth(next);
+  }
+  window.navigate = navigate;
+
+  // Check URL hash for month
+  const hash = window.location.hash.replace('#', '');
+  const hashIdx = months.indexOf(hash);
+  showMonth(hashIdx >= 0 ? hashIdx : 0);
+})();
+</script>
