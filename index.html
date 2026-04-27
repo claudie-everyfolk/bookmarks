@@ -27,18 +27,11 @@ layout: default
     border-bottom: 1px solid #1c2128;
   }
 
-  .bookmark-header {
-    display: flex;
-    align-items: baseline;
-    gap: 0.5rem;
-    margin-bottom: 0.5rem;
-    flex-wrap: wrap;
-  }
-
   .bookmark-title {
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.35;
+    margin-bottom: 0.3rem;
   }
   .bookmark-title a { color: var(--text); }
   .bookmark-title a:hover { color: var(--accent); text-decoration: none; }
@@ -46,57 +39,50 @@ layout: default
   .bookmark-meta {
     font-size: 0.75rem;
     color: var(--text-muted);
-    flex-shrink: 0;
+    margin-bottom: 0.5rem;
   }
   .bookmark-meta a { color: var(--text-muted); }
   .bookmark-meta a:hover { color: var(--accent); }
 
-  .bookmark-snippet {
-    background: var(--surface);
-    border-left: 3px solid #30363d;
-    padding: 0.65rem 0.9rem;
-    margin: 0.4rem 0 0.6rem;
-    border-radius: 0 6px 6px 0;
-    font-size: 0.85rem;
-    line-height: 1.55;
-    color: #b1bac4;
-  }
-
-  .bookmark-relevance {
-    font-size: 0.82rem;
-    line-height: 1.55;
-    color: var(--text-muted);
-  }
-  .bookmark-relevance strong,
-  .bookmark-relevance b {
-    color: #d2a8ff;
-    font-weight: 500;
-  }
-
-  .bookmark-expand {
-    display: none;
-  }
-  .bookmark-toggle {
-    font-size: 0.75rem;
-    color: var(--accent);
-    cursor: pointer;
-    margin-top: 0.35rem;
-    display: inline-block;
-  }
-  .bookmark-toggle:hover { text-decoration: underline; }
-
   .source-badge {
     display: inline-block;
     font-size: 0.65rem;
-    padding: 0.15rem 0.45rem;
+    padding: 0.1rem 0.4rem;
     background: #1c2128;
     border: 1px solid var(--border);
     border-radius: 4px;
     color: var(--text-muted);
     text-decoration: none;
-    vertical-align: middle;
+    vertical-align: baseline;
+    margin-left: 0.3rem;
   }
   .source-badge:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+
+  .bookmark-snippet {
+    background: var(--surface);
+    border-left: 3px solid #30363d;
+    padding: 0.6rem 0.85rem;
+    margin-bottom: 0.5rem;
+    border-radius: 0 6px 6px 0;
+    font-size: 0.84rem;
+    line-height: 1.55;
+    color: #b1bac4;
+  }
+
+  .bookmark-relevance {
+    font-size: 0.8rem;
+    line-height: 1.55;
+    color: #8b949e;
+    padding-left: 0.15rem;
+  }
+  .relevance-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: #7c6fad;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-right: 0.3rem;
+  }
 </style>
 
 <ul class="bookmark-list">
@@ -107,49 +93,17 @@ layout: default
       {% assign current_date = post_date %}
       <li class="date-group">{{ current_date }}</li>
     {% endif %}
-    <li class="bookmark-card" id="bookmark-{{ forloop.index }}">
-      <div class="bookmark-header">
-        <span class="bookmark-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
-        <span class="bookmark-meta">
-          {% if post.author %}{{ post.author }}{% endif %}
-          {% if post.url_source %} <a href="{{ post.url_source }}" class="source-badge">source ↗</a>{% endif %}
-        </span>
+    <li class="bookmark-card">
+      <div class="bookmark-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div class="bookmark-meta">
+        {% if post.author %}{{ post.author }}{% endif %}
+        {% if post.url_source %}<a href="{{ post.url_source }}" class="source-badge">source ↗</a>{% endif %}
       </div>
-
-      {% assign raw_content = post.content %}
-
-      {% comment %}Extract blockquote as snippet{% endcomment %}
-      {% if raw_content contains '<blockquote>' %}
-        {% assign bq_split = raw_content | split: '<blockquote>' %}
-        {% if bq_split.size > 1 %}
-          {% assign bq_rest = bq_split[1] | split: '</blockquote>' %}
-          {% assign snippet_html = bq_rest[0] | strip_html | truncatewords: 50 %}
-          <div class="bookmark-snippet">{{ snippet_html }}</div>
-        {% endif %}
-      {% else %}
-        {% comment %}No blockquote — use first paragraph after the H1 as snippet{% endcomment %}
-        {% assign excerpt_text = post.excerpt | strip_html | strip | truncatewords: 40 %}
-        {% if excerpt_text.size > 20 %}
-          <div class="bookmark-snippet">{{ excerpt_text }}</div>
-        {% endif %}
+      {% if post.snippet %}
+        <div class="bookmark-snippet">{{ post.snippet }}</div>
       {% endif %}
-
-      {% comment %}Extract "Why it's relevant" or "Relevance" section{% endcomment %}
-      {% if raw_content contains '<h2 id="why-its-relevant">' %}
-        {% assign rel_split = raw_content | split: '<h2 id="why-its-relevant">' %}
-        {% assign rel_rest = rel_split[1] | split: '<h2' %}
-        {% assign relevance_html = rel_rest[0] | remove: "Why it's relevant</h2>" | strip_html | truncatewords: 60 %}
-        <div class="bookmark-relevance">{{ relevance_html }}</div>
-      {% elsif raw_content contains '<h2 id="relevance">' %}
-        {% assign rel_split = raw_content | split: '<h2 id="relevance">' %}
-        {% assign rel_rest = rel_split[1] | split: '<h2' %}
-        {% assign relevance_html = rel_rest[0] | remove: "Relevance</h2>" | strip_html | truncatewords: 60 %}
-        <div class="bookmark-relevance">{{ relevance_html }}</div>
-      {% elsif raw_content contains '<h2 id="why-its-relevant-to-every">' %}
-        {% assign rel_split = raw_content | split: '<h2 id="why-its-relevant-to-every">' %}
-        {% assign rel_rest = rel_split[1] | split: '<h2' %}
-        {% assign relevance_html = rel_rest[0] | strip_html | truncatewords: 60 %}
-        <div class="bookmark-relevance">{{ relevance_html }}</div>
+      {% if post.relevance %}
+        <div class="bookmark-relevance"><span class="relevance-label">Why it matters:</span> {{ post.relevance }}</div>
       {% endif %}
     </li>
   {% endfor %}

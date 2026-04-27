@@ -4,8 +4,9 @@ title: "slopcop — Package Legitimacy Checker for AI-Hallucinated Dependencies"
 layout: post
 author: "Larsen Cundric (@larsencc)"
 url_source: "https://x.com/larsencc/status/2040165621628027354"
+snippet: "Built a tool for exactly this. \"slopcop check <package>\" tells you if a package is legit before you install it. Checks registry age, download count, postinstall scripts, and name similarity to popular packages. \"slopcop scan\" runs through your entire package.json or requirements.txt. If your AI hallucinated a package name and someone registered it with malware, slopcop catches it. Pro Tip:..."
+relevance: "AI Security — This addresses a real supply chain attack vector: AI models hallucinate package names, attackers register those names with malicious code. slopcop can be set up as a Claude Code hook to automatically check packages before installation. Directly relevant to the team's security posture and could be recommended to consulting clients who use AI coding tools. ---"
 ---
-
 # slopcop — Package Legitimacy Checker for AI-Hallucinated Dependencies
 
 **Author:** Larsen Cundric (@larsencc)

@@ -4,8 +4,9 @@ title: "OpenAI Codex Plugin for Claude Code — Multi-Agent Setup"
 layout: post
 author: "Ksenia_TuringPost (@TheTuringPost)"
 url_source: "https://x.com/TheTuringPost/status/2044561927905677558"
+snippet: "OpenAI has released a plugin that lets you call Codex directly within Anthropic's Claude Code environment It turns Claude Code into a multi-agent setup with Codex as a specialized coding assistant This gives you: - High-quality code reviews - Delegation of real tasks (debugging, fixing, investigating) - Async workflows with background jobs + status tracking - A seamless handoff: you..."
+relevance: "Multi-model agent orchestration is becoming a production pattern. OpenAI officially integrating Codex into Claude Code's environment signals: 1. The harness (Claude Code) is winning the IDE battle — even competitors want to plug into it 2. Multi-agent setups with specialized models for different tasks are going mainstream 3. This validates our architecture of using sub-agents for parallel work Directly relevant to how we set up Claudie (multi-skill dispatch, sub-agents for..."
 ---
-
 # OpenAI Codex Plugin for Claude Code — Multi-Agent Setup
 
 **Author:** Ksenia_TuringPost (@TheTuringPost)

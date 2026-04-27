@@ -4,8 +4,9 @@ title: "Claude Voice Mode + Claude Code via AirPods — Hands-Free Coding"
 layout: post
 author: "Om Patel (@om_patel5)"
 url_source: "https://x.com/om_patel5/status/2041332038276428177"
+snippet: "THIS GUY CONNECTED CLAUDE VOICE MODE TO CLAUDE CODE AND NOW HE CODES BY TALKING INTO HIS AIRPODS he uses Apple Reminders as a bridge between the two he talks into his AirPods, voice mode puts the prompt into a reminders list, Claude Code checks every 60 seconds and picks up the task walk outside. brainstorm with voice. code writes..."
+relevance: "This is exactly the kind of creative Claude Code integration pattern we should be teaching. The Apple Reminders bridge is clever — uses native iOS infrastructure as a task queue between voice and code agent. Relevance to Every Consulting: - Directly relevant to how Claudie is set up — we already use a similar \"always-on agent picks up tasks\" pattern via Slack - Could inspire a voice-to-Claudie bridge for the..."
 ---
-
 # Claude Voice Mode + Claude Code via AirPods — Hands-Free Coding
 
 **Author:** Om Patel (@om_patel5)

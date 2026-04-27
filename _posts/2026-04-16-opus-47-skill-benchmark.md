@@ -4,8 +4,9 @@ title: "Opus 4.7 Skill Invocation Benchmark — Kun Chen (@kunchenguid)"
 layout: post
 author: "Kun Chen"
 url_source: "https://x.com/kunchenguid/status/2044813914618392804"
+snippet: "First quantifiable data point on Opus 4.7: **significantly better than Opus 4.6 at invoking the right skills for the right tasks.**"
+relevance: "We have 100+ skills in our setup and skill triggering accuracy is critical. If 4.7 is significantly better at this, it directly improves Claudie's ability to pick the right skill for the right task without manual /skill invocations. Worth monitoring our own skill hit rates after upgrading. Relevant to: Nityesh (skill architecture), the trust battery system (better skill invocation = fewer drains)"
 ---
-
 # Opus 4.7 Skill Invocation Benchmark — Kun Chen (@kunchenguid)
 
 **Date:** 2026-04-16

@@ -4,8 +4,9 @@ title: "Justin Elze: CISOs Want Enterprise Controls for Coding Agents"
 layout: post
 author: "Justin Elze (@HackingLZ)"
 url_source: "https://x.com/HackingLZ/status/2043604656933245411"
+snippet: "Surprised you all didn't lean more into securing coding agents. You linked the OWASP guide, but the lack of enterprise controls in tools like Claude is the most common conversation I have with CISOs. It's slowly getting there — settings.json control is in preview — but this is far from solved."
+relevance: "1. Enterprise security gap for coding agents is a top CISO concern. Not theoretical — this is what security leaders are actively discussing. 2. MCP servers, plugins, and packages are a new supply chain attack surface. Developer workstations running agents that pull external tools = expanded attack surface. 3. settings.json controls are acknowledged but insufficient. Anthropic is moving toward enterprise controls but it's early. 4. Directly relevant to our setup...."
 ---
-
 # Justin Elze: CISOs Want Enterprise Controls for Coding Agents
 
 **Author:** Justin Elze (@HackingLZ)

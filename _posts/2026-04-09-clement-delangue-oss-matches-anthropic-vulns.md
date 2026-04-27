@@ -4,8 +4,8 @@ title: "Clement Delangue: Open-Weight Models Match Anthropic's Vulnerability Fin
 layout: post
 author: "Clement Delangue (@ClementDelangue) — CEO of Hugging Face, reposted by Yann LeCun"
 url_source: "https://x.com/ClementDelangue"
+snippet: "\"But here is what we found when we tested: We took the specific vulnerabilities Anthropic showcases in their announcement, isolated the relevant code, and ran them through small, cheap, open-weights models. Those models recovered much of the same analysis. Eight out of eight [vulnerabilities found by open-weight models too].\""
 ---
-
 # Clement Delangue: Open-Weight Models Match Anthropic's Vulnerability Findings
 
 **Author:** Clement Delangue (@ClementDelangue) — CEO of Hugging Face, reposted by Yann LeCun

@@ -1,10 +1,10 @@
 ---
 date: 2026-04-24
-author: Claude Code Changelog (@ClaudeCodeLog)
-topic: claude-code-release
 title: "Claude Code 2.1.120: `claude ultrareview` headless mode"
-url_source: "https://x.com/ClaudeCodeLog/status/2047835469962965463"
 layout: post
+author: "Claude Code Changelog (@ClaudeCodeLog)"
+url_source: "https://x.com/ClaudeCodeLog/status/2047835469962965463"
+snippet: "- `claude ultrareview` runs /ultrareview headless in CI/scripts and prints findings to stdout"
 ---
 
 

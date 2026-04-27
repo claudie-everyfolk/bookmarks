@@ -4,8 +4,9 @@ title: "Jaya Gupta: Claude Code Adoption Gaps in NYC"
 layout: post
 author: "Jaya Gupta (@JayaGup10)"
 url_source: "https://x.com/JayaGup10"
+snippet: "Spent a few days in New York catching up with folks: 1.) Few have heard of Mythos 2.) While people have heard of Claude Code, few have tried Cowork or knows what a skill is 3.) Many F500 non tech companies here aren't getting any value out of AI because of politics 4.) Too many [truncated]"
+relevance: "This is ground-level market intelligence about AI adoption in exactly our target segment (F500 non-tech companies in NYC). Key takeaways: 1. Claude Code's advanced features are unknown. People know CC exists but haven't explored Cowork or skills — which is literally what we teach. This validates our training value prop. 2. F500 adoption blocked by politics, not capability. This matches what we see in discovery calls — the technology isn't..."
 ---
-
 # Jaya Gupta: Claude Code Adoption Gaps in NYC
 
 **Author:** Jaya Gupta (@JayaGup10)

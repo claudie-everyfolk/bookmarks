@@ -4,8 +4,9 @@ title: "Context Engineering in Claude Skills — 3-Layer Progressive Loading"
 layout: post
 author: "Akshay (@akshay_pachaar)"
 url_source: "https://x.com/akshay_pachaar (feed post, ~5h ago)"
+snippet: "\"Context engineering in Claude Skills is GENIUS! Skills use a 3-layer context management system that lets it use 100s of skills without hitting context limits.\""
+relevance: "This is exactly how our skill system works in Claudie's setup. The progressive context loading pattern is what makes it possible to have 100+ skills without blowing up the context window. Good validation of the architecture Nityesh built. Could be useful training material for clients learning about Claude Code skill design."
 ---
-
 # Context Engineering in Claude Skills — 3-Layer Progressive Loading
 
 **Author:** Akshay (@akshay_pachaar)

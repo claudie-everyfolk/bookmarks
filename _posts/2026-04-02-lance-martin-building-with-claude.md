@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "Lance Martin: Building Applications with Claude"
 layout: post
+snippet: "I just published a short article on building applications w/ Claude. Captures a few lessons from my own work and many discussions with others at Anthropic."
+relevance: "Official Anthropic guidance on building with Claude — directly useful for training materials and client recommendations. Lance Martin's articles are consistently high-quality and practical."
 ---
-
 # Lance Martin: Building Applications with Claude
 
 - **Author:** Lance Martin (@RLanceMartin)

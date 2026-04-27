@@ -1,9 +1,10 @@
 ---
-author: Bilgin Ibryam (@bibryam)
 date: 2026-04-24
 title: "Subagent vs Advisor pattern"
-url_source: "https://x.com/bibryam/status/2047696304994746651"
 layout: post
+author: "Bilgin Ibryam (@bibryam)"
+url_source: "https://x.com/bibryam/status/2047696304994746651"
+snippet: "Subagents distribute work. Advisors escalate & unblock. One scales throughput. The other scales judgment."
 ---
 
 

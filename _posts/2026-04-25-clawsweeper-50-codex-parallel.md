@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Voxyz_ai (@Voxyz_ai) quoting Peter Steinberger (@steipete)
-topic: parallel-agents-queue-triage
 title: "clawsweeper: 50 codex agents in parallel triaging issue backlog"
-url_source: "https://x.com/Voxyz_ai/status/2048077474056073241"
 layout: post
+author: "Voxyz_ai (@Voxyz_ai) quoting Peter Steinberger (@steipete)"
+url_source: "https://x.com/Voxyz_ai/status/2048077474056073241"
+snippet: "steipete has 50 codex agents running 24/7, sweeping through 4000 untouched issues. it just hit me this is really a queue triage pattern. seems to apply to any drowning inbox: resume screening, basic customer support, ..."
 ---
 
 

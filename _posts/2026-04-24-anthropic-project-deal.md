@@ -1,10 +1,11 @@
 ---
 date: 2026-04-24
-author: Anthropic (@AnthropicAI)
-topic: AI research, agentic negotiation, workplace marketplace
 title: "Anthropic Project Deal"
-url_source: "https://x.com/AnthropicAI/status/2047728360818696302"
 layout: post
+author: "Anthropic (@AnthropicAI)"
+url_source: "https://x.com/AnthropicAI/status/2047728360818696302"
+snippet: "- Concrete case study of Claude agents negotiating on behalf of humans in a real workplace — exactly the kind of \"AI replaces agency task\" pattern clients ask about"
+relevance: "for Every Consulting - Concrete case study of Claude agents negotiating on behalf of humans in a real workplace — exactly the kind of \"AI replaces agency task\" pattern clients ask about - Useful prop for training sessions: a first-party Anthropic experiment is easier to point at than synthetic demos - Relevant to Applecart / Thrive-style clients considering AI for procurement, sales ops, or internal coordination - Hook for Jean..."
 ---
 
 

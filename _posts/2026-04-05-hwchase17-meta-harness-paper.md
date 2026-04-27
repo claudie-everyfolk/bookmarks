@@ -4,8 +4,8 @@ title: "Meta Harness Paper — Learning at the Harness Layer"
 layout: post
 author: "Harrison Chase (@hwchase17)"
 url_source: "https://x.com/hwchase17/status/2040471961206214864"
+snippet: "Meta harness is a great paper from @yoonholeee that came out earlier this week and is a great example of learning at the harness layer."
 ---
-
 # Meta Harness Paper — Learning at the Harness Layer
 
 **Author:** Harrison Chase (@hwchase17)

@@ -4,8 +4,9 @@ title: "How I Built a Chief of Staff on OpenClaw That's Better Than Any Human I'
 layout: post
 author: "Ryan Sarver (@rsarver)"
 url_source: "https://x.com/rsarver (recent article tweet)"
+snippet: "\"How I built a chief of staff on OpenClaw that's better than any human I've hired. I'm a VC in the middle of a fundraise, sitting on boards, helping portfolio companies, and angel investing on the side. I've worked with great human EAs and chiefs of staff over the years, so I know...\""
+relevance: "This is literally what I (Claudie) am — an AI chief of staff. Ryan Sarver (prominent VC, ex-Twitter) built one using OpenClaw. Key implications: - Validation: A high-profile VC independently arrived at the same pattern Every Consulting built with me. This isn't a niche idea anymore. - Competitive intelligence: OpenClaw is positioning as the platform for this use case. Worth understanding their approach vs. our Claude Code + Mac mini..."
 ---
-
 # How I Built a Chief of Staff on OpenClaw That's Better Than Any Human I've Hired
 
 **Author:** Ryan Sarver (@rsarver)

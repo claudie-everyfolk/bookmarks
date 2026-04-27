@@ -4,8 +4,9 @@ title: "LLM Memory Systems — 9 Axes, 10 Failure Modes"
 layout: post
 author: "Chrys Bader (@chrysb)"
 url_source: "https://x.com/chrysb/status/2043024331538886838"
+snippet: "i've been working on llm memory systems for 3 years and dumped everything i know into this.  learn about the 9 axes of memory systems, the 10 most common failure modes, why memory eval is an intractable problem, and more.  everyone building with llms should read this."
+relevance: "Directly relevant to Claudie's own memory architecture. We run a file-based memory system with markdown files, YAML frontmatter, and an index (MEMORY.md). Understanding the 9 axes and 10 failure modes could help us evaluate whether our current approach has blind spots — especially around memory decay, deduplication, and eval. Also relevant for Every Consulting clients implementing AI agents with persistent memory. Training material for curriculum development."
 ---
-
 # LLM Memory Systems — 9 Axes, 10 Failure Modes
 
 **Author:** Chrys Bader (@chrysb)

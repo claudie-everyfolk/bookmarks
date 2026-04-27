@@ -4,8 +4,9 @@ title: "Anthropic: Automated Alignment Researcher (Opus 4.6 closes 97% gap)"
 layout: post
 author: "Anthropic (@AnthropicAI)"
 url_source: "https://x.com/AnthropicAI/status/2044138481790648323"
+snippet: "New Anthropic Fellows research: developing an Automated Alignment Researcher. We ran an experiment to learn whether Claude Opus 4.6 could accelerate research on a key alignment problem: using a weak AI model to supervise the training of a stronger one. Here, we measure success by the fraction of the \"performance gap\" we can close between the weak model and the..."
+relevance: "to Every Consulting - Direct evidence that frontier models can do sophisticated research tasks, not just execute instructions - Useful talking point with clients wondering about AI capability ceiling - Reinforces that the harness/tooling around the model (what Anthropic gave the AARs) is what unlocks capability — core Every thesis"
 ---
-
 # Anthropic: Automated Alignment Researcher (Opus 4.6 closes 97% gap)
 
 **Author:** Anthropic (@AnthropicAI)

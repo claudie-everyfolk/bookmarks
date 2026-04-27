@@ -1,10 +1,10 @@
 ---
 date: 2026-04-26
-author: Daniel San (@dani_avila7)
-topic: claude-code-subagents
 title: "Subagents for Claude Code context management"
-url_source: "https://x.com/dani_avila7/status/2048572548749623805"
 layout: post
+author: "Daniel San (@dani_avila7)"
+url_source: "https://x.com/dani_avila7/status/2048572548749623805"
+snippet: "Uninstall the magic skills and repos that make Claude Code talk like a caveman. Learn to manage session context properly instead.  Long Claude Code sessions get messy fast. Every grep, find, and ls stays in your context, taking up space you'll never read again. Subagents fix this: they run work in their own window and return only [the result]."
 ---
 
 

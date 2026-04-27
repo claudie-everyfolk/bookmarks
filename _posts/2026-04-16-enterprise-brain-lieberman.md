@@ -1,11 +1,12 @@
 ---
 date: 2026-04-16
-title: "Enterprise "Brain" Opportunity — Alex Lieberman (@businessbarista)"
+title: "Enterprise \"Brain\" Opportunity — Alex Lieberman (@businessbarista)"
 layout: post
 author: "Alex Lieberman (Morning Brew)"
 url_source: "https://x.com/businessbarista/status/2044874360280723934"
+snippet: "\"Someone is going to build a worldclass 'Brain' for enterprises & make a stupid amount of money.\""
+relevance: "This is essentially what we've built with Claudie — an enterprise brain with context spread across Google Sheets, email, Slack, meeting transcripts, and local files, all indexed by qmd. The insight that \"context is spread out\" for knowledge work vs. concentrated in git repos for coding is exactly the problem we solve for clients. Could inform how Natalia pitches our offering: \"We don't just train your teams — we help..."
 ---
-
 # Enterprise "Brain" Opportunity — Alex Lieberman (@businessbarista)
 
 **Date:** 2026-04-16

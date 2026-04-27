@@ -4,8 +4,9 @@ title: "Computer Use Platform Asymmetry — Apple & Google's Structural Advantag
 layout: post
 author: "signüll (@signulll)"
 url_source: "https://x.com/signulll/status/2044904528072659220"
+snippet: "computer use is broadly here & it's genuinely very cool, but it's worth flagging the structural asymmetry here where apple & google don't have to pipe everything through accessibility apis unlike app players.  vertical integration lets them operate deeper in the stack like the..."
+relevance: "Important strategic analysis on computer use. Apple and Google have structural advantages in agent-computer interaction because they own the OS layer. Third-party agent tools (including how we use dev-browser) are constrained to accessibility APIs. This has implications for which agent architectures will win long-term and how we should advise clients building on computer use capabilities."
 ---
-
 # Computer Use Platform Asymmetry — Apple & Google's Structural Advantage
 
 **Author:** signüll (@signulll)  

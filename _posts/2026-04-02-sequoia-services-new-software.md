@@ -1,11 +1,12 @@
 ---
 date: 2026-04-02
-title: "Sequoia: "Services is the New Software""
+title: "Sequoia: \"Services is the New Software\""
 layout: post
 author: "Greg Isenberg (@gregisenberg)"
 url_source: "https://x.com/gregisenberg/status/2039125157134905517"
+snippet: "Sequoia put out a blog post called \"services is the new software\" — look at this map of over $1T in services being replaced by AI agents."
+relevance: "Key shift for Every Consulting's positioning. Sequoia — one of the most influential VC firms — is now explicitly framing the AI transformation as services being replaced by AI agents, not just software eating services. This validates Every Consulting's entire thesis: - Our clients are services firms being transformed by AI - The $1T+ TAM they're mapping is exactly the market we help clients navigate - This is the kind..."
 ---
-
 # Sequoia: "Services is the New Software"
 
 **Author:** Greg Isenberg (@gregisenberg)

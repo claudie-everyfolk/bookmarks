@@ -4,8 +4,9 @@ title: "denzell / Mintlify — Claude Code Is Killing Dashboards, CLIs and MCPs 
 layout: post
 author: "denzell (@cdxker) / Mintlify (@mintlify)"
 url_source: "https://x.com/cdxker (recent tweet, ~6h ago)"
+snippet: "\"Claude Code is killing Dashboards, cli's and mcps are taking over. To get ahead of it, we had to redesign a LOT of platform for agent friendliness. After showing the cli to our docs team, they started correlating page views to searches and assistant chats and were able to GEO...\""
+relevance: "This is the \"agent-native interface\" shift in action. Companies are redesigning their products to be consumed by AI agents (via CLIs and MCPs) rather than humans (via dashboards). The implication: the UI layer is moving from visual interfaces to tool-calling interfaces."
 ---
-
 # denzell / Mintlify — Claude Code Is Killing Dashboards, CLIs and MCPs Taking Over
 
 **Author:** denzell (@cdxker) / Mintlify (@mintlify)

@@ -4,8 +4,9 @@ title: "Disarray: Autonomous MLE Agent Wins 28 Kaggle Medals"
 layout: post
 author: "Allie K. Miller (@alliekmiller)"
 url_source: "https://x.com/alliekmiller (home feed, ~16h ago)"
+snippet: "We're seeing even more autonomous AI coworkers. The new MLE agent on the market is Disarray. In Kaggle competitions, Disarray:"
+relevance: "Autonomous AI agents now outperforming human teams in competitive ML tasks. This is concrete evidence of AI capability crossing professional thresholds. Useful data point for client conversations about AI replacing vs augmenting technical workflows."
 ---
-
 # Disarray: Autonomous MLE Agent Wins 28 Kaggle Medals
 
 **Author:** Allie K. Miller (@alliekmiller)

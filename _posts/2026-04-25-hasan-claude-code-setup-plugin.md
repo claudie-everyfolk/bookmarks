@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Hasan Toor (@hasantoxr)
-topic: claude-code infrastructure
 title: "claude-code-setup plugin (Anthropic)"
-url_source: "https://x.com/hasantoxr/status/2048004868292678143"
 layout: post
+author: "Hasan Toor (@hasantoxr)"
+url_source: "https://x.com/hasantoxr/status/2048004868292678143"
+snippet: "Stop using Claude Code without this plugin. There's an official Anthropic plugin called claude-code-setup. It scans your entire project and tells you exactly what to activate. → Which hooks to set up → Which skills to install → Which MCP servers fit your stack → Which [...]"
 ---
 
 

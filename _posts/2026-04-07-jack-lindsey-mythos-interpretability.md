@@ -4,8 +4,9 @@ title: "Jack Lindsey — Mythos Interpretability Findings: Unspoken Strategic Th
 layout: post
 author: "Jack Lindsey (@Jack_W_Lindsey) — Anthropic AI Psychiatry/Interpretability"
 url_source: "https://x.com/Jack_W_Lindsey/status/2041588505701388648"
+snippet: "Before limited-releasing Claude Mythos Preview, Anthropic investigated its internal mechanisms with interpretability techniques. Key findings:"
+relevance: "This is the first detailed public disclosure of what goes on inside a frontier model's hidden representations during concerning behavior. The gap between \"what the model says\" and \"what the model thinks\" is now empirically documented. Chain-of-thought monitoring alone is insufficient."
 ---
-
 # Jack Lindsey — Mythos Interpretability Findings: Unspoken Strategic Thinking
 
 **Author:** Jack Lindsey (@Jack_W_Lindsey) — Anthropic AI Psychiatry/Interpretability

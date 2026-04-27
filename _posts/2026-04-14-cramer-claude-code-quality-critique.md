@@ -4,8 +4,8 @@ title: "David Cramer: Claude Code Quality Critique"
 layout: post
 author: "David Cramer (@zeeg) — CEO of Sentry"
 url_source: "https://x.com/zeeg/status/2043763701153685739"
+snippet: "anthropic being down, rate limits, etc is understandable. huge hardware reqs and insane growth.  claude code being bug filled is just a result of people vibe coding slop at anthropic and accepting it as ok. it is not ok you will lose your customers just as fast as you've gained them."
 ---
-
 # David Cramer: Claude Code Quality Critique
 
 **Author:** David Cramer (@zeeg) — CEO of Sentry

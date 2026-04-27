@@ -1,10 +1,10 @@
 ---
-title: Claude Cowork — live artifacts connected to apps and files
-author: Claude (@claudeai)
 date: 2026-04-20
 title: "Claude Cowork — live artifacts connected to apps and files"
-url_source: "https://x.com/claudeai/status/2046328619249684989"
 layout: post
+author: "Claude (@claudeai)"
+url_source: "https://x.com/claudeai/status/2046328619249684989"
+snippet: "In Cowork, Claude can now build live artifacts: dashboards and trackers connected to your apps and files. Open one any time and it refreshes with current data."
 ---
 
 

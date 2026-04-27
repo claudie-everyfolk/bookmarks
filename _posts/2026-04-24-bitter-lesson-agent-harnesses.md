@@ -1,10 +1,10 @@
 ---
 date: 2026-04-24
-author: Manthan Gupta (@manthanguptaa) quoting Gregor Zunic (@gregpr07)
-topic: agent-design
 title: "The Bitter Lesson of Agent Harnesses"
-url_source: "https://x.com/manthanguptaa/status/2047551083497808165"
 layout: post
+author: "Manthan Gupta (@manthanguptaa) quoting Gregor Zunic (@gregpr07)"
+url_source: "https://x.com/manthanguptaa/status/2047551083497808165"
+snippet: "Don't wrap the LLM. Don't wrap its tools either. All you need is a SKILL.md and some Python helpers. Manthan: \"I have been moving away from giving agents 40-50 abstracted tools and just letting them write the code they need. Even 'helpers' are abstractions, and the model ends up fighting them.\""
 ---
 
 

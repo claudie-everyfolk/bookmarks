@@ -1,10 +1,10 @@
 ---
 date: 2026-04-20
-author: Jasper Polak (@polak_jasper)
-topic: consulting, AI adoption, agentic organizations
-title: "McKinsey "Agentic Organization" piece + inside view of 75-person consulting firm stuck in pilot mode"
-url_source: "https://x.com/polak_jasper/status/2046211027721675103"
+title: "McKinsey \"Agentic Organization\" piece + inside view of 75-person consulting firm stuck in pilot mode"
 layout: post
+author: "Jasper Polak (@polak_jasper)"
+url_source: "https://x.com/polak_jasper/status/2046211027721675103"
+snippet: "McKinsey published a piece this week on \"The Agentic Organization.\" They claim most companies are stuck in pilot mode because the work itself hasn't changed.  What \"pilot mode\" looks like at a 75-person consulting firm I've seen inside: - One analyst running Claude for market [...]"
 ---
 
 

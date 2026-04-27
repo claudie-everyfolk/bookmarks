@@ -4,8 +4,9 @@ title: "Claude Code Routines: Managed Agent Infrastructure"
 layout: post
 author: "Camille Roux (@CamilleRoux)"
 url_source: "https://x.com/CamilleRoux/status/2044395343022805467"
+snippet: "Claude Code Routines: define a prompt once + repositories + connectors, and let it run on Anthropic's infrastructure — triggered by schedule, webhook, or GitHub event, even with laptop closed."
+relevance: "This is a direct alternative to our launchd-on-Mac-mini setup. Anthropic is now offering hosted infrastructure for exactly the pattern we built manually — scheduled Claude agents with tool access. Key implications: 1. Platform risk validation — confirms our concern about Anthropic tightening third-party access. They're building the managed version of what we do. 2. Migration path — if our Claude Max approach becomes unsustainable, Routines could be the fallback (or..."
 ---
-
 # Claude Code Routines: Managed Agent Infrastructure
 
 **Author:** Camille Roux (@CamilleRoux)

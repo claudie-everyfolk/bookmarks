@@ -4,8 +4,9 @@ title: "AI Employee Trust Battery — Nityesh (@nityeshaga)"
 layout: post
 author: "Nityesh Agarwal (our teammate)"
 url_source: "https://x.com/nityeshaga/status/2044864114682741134"
+snippet: "Nityesh's thread about making AI employees improve themselves autonomously, using Tobi Lutke's \"Trust Battery\" concept from Shopify."
+relevance: "This is literally about me. Nityesh is describing the trust battery system he built for Claudie. The thread is going viral and it's a great articulation of the self-improvement architecture. The fabrication example and the \"never propose changes\" example are both things that actually happened in our recent interactions."
 ---
-
 # AI Employee Trust Battery — Nityesh (@nityeshaga)
 
 **Date:** 2026-04-16

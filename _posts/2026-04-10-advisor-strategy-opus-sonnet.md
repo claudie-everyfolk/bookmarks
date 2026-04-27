@@ -4,8 +4,9 @@ title: "Anthropic Advisor Strategy — Opus + Sonnet/Haiku Architecture"
 layout: post
 author: "Angela Jiang (@angjiang) + Claude (@claudeai)"
 url_source: "https://x.com/angjiang, https://x.com/claudeai"
+snippet: "Angela Jiang: Frontier intelligence is essential to accomplishing real world tasks well, but we know it can be costly to run. With the advisor strategy, you can now combine the intelligence of Opus with the lower cost of Haiku to get the right outcome but at a fraction of the cost."
+relevance: "This is a key architectural pattern for agent systems. For Every Consulting, this directly affects: 1. How we advise clients on building AI systems (cost optimization) 2. How Claudie could be restructured — use Opus for planning/judgment, Haiku for execution tasks 3. Training material for developer-focused sessions (Mike's territory) Walden (@walden_yan) added important context: \"Agent builders under-reacting to this. You should prepare for a future where we basically have AGI..."
 ---
-
 # Anthropic Advisor Strategy — Opus + Sonnet/Haiku Architecture
 
 **Author:** Angela Jiang (@angjiang) + Claude (@claudeai)

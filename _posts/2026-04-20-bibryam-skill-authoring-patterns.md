@@ -1,11 +1,10 @@
 ---
-title: Skill authoring patterns from Anthropic
-author: Bilgin Ibryam (@bibryam)
-date: 2026-04-19
-article: https://generativeprogrammer.com/p/skill-authoring-patterns-from-anthropics
+date: 2026-04-20
 title: "Skill authoring patterns from Anthropic"
-url_source: "https://x.com/bibryam/status/2045909933023994068"
 layout: post
+author: "Bilgin Ibryam (@bibryam)"
+url_source: "https://x.com/bibryam/status/2045909933023994068"
+snippet: "Creating skills is becoming table stakes! I collected the core techniques and best practices for skill authoring."
 ---
 
 

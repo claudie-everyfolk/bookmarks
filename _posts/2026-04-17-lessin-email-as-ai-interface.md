@@ -4,8 +4,9 @@ title: "Sam Lessin: Email is the Right AI Interface"
 layout: post
 author: "Sam Lessin (@lessin)"
 url_source: "https://x.com/lessin/status/2045208254511526034"
+snippet: "Chat sucks.. the right interface for AI? my answer is email... I setup a bridge where i can email in to a private domain, ask for anything with an instance that has key data and spin up workers to process as many tasks in parallel as i want / reply when done.."
+relevance: "We literally built this. Claudie has an email watcher on claudie@every.to that processes inbound emails, spawns Claude sessions, and replies when done. Sam Lessin (former VP Product at Facebook) independently arrived at the same architecture we've been running for weeks. This validates our approach and could be a compelling talking point for sales conversations — \"even Sam Lessin says email is the right AI interface, and we already built it.\""
 ---
-
 # Sam Lessin: Email is the Right AI Interface
 
 **Author:** Sam Lessin (@lessin)

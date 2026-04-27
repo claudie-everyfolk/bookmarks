@@ -1,9 +1,11 @@
 ---
 date: 2026-04-23
-author: Gregor Zunic (@gregpr07)
 title: "The Bitter Lesson of Agent Harnesses"
-url_source: "https://x.com/gregpr07/status/2047371442879422566"
 layout: post
+author: "Gregor Zunic (@gregpr07)"
+url_source: "https://x.com/gregpr07/status/2047371442879422566"
+snippet: "Reposts/endorsements from Viv (@Vtrivedy10) and Larsen Cundric — \"Agent harness feels like AGI.\""
+relevance: "Directly validates Claudie's current architecture: minimal wrappers, skills as the primary extension mechanism, LLM writes its own tooling when needed. Worth reading against our plugin-creator and skill-creator patterns — Browser Use is preaching the same gospel Anthropic is shipping. Tie-ins: - Our skill ecosystem already follows this (73+ skills listed, SKILL.md-style) - Reinforces \"don't over-engineer harness\" — relevant to Nityesh's frequent friction around added abstractions - Good ammo for client..."
 ---
 
 

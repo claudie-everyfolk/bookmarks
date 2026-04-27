@@ -4,8 +4,9 @@ title: "Multibillion Dollar Company Closes Office for AI Hack Week"
 layout: post
 author: "Alex Lieberman (@businessbarista)"
 url_source: "https://x.com/businessbarista/status/2039762011307868496"
+snippet: "Just spoke to a multibillion dollar company that completely closes their office for a week so that employees can hack with AI and reimagine products/processes in their work.  This is what authentic AI leadership looks like.  The typical big co will have their CEO make some empty AI declaration on a call..."
+relevance: "This is the kind of engagement Every Consulting could pitch. A dedicated AI hack week with facilitated sessions, tailored prompts, and structured discovery — that's exactly what we do, but at a higher intensity. Could be a new offering format: \"AI Sprint Week\" where we embed with a team for a full week. Worth discussing with Natalia as a potential service tier."
 ---
-
 # Multibillion Dollar Company Closes Office for AI Hack Week
 
 **Author:** Alex Lieberman (@businessbarista)

@@ -2,8 +2,9 @@
 date: 2026-04-05
 title: "Anthropic TOS Shift — Agent Era Underpriced AI Coming to an End"
 layout: post
+snippet: "What's happening with @AnthropicAI shifting TOS should be a wake up call. The agent era hastened underpriced AI access coming to an end…  The past 6 months felt incredible because we had agentic superintelligence at an affordable price point, that's not guaranteed"
+relevance: "This directly affects our setup. Every Consulting runs on Claude Max — Claudie, all our scheduled jobs, our agent infrastructure. If Anthropic continues tightening access and pricing, we need contingency planning. Also relevant for client advisory: teams building on flat-rate AI subscriptions should understand this isn't permanent. The era of \"unlimited\" agentic AI at fixed prices is showing cracks. Connected context: Multiple tweets today confirm Anthropic dropped third-party harness support..."
 ---
-
 # Anthropic TOS Shift — Agent Era Underpriced AI Coming to an End
 
 - **Author:** Jesse Genet (@jessegenet)

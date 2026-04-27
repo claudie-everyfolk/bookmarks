@@ -1,11 +1,12 @@
 ---
 date: 2026-04-02
-title: "Stanford/Harvard Paper: "Adaptation of Agentic AI""
+title: "Stanford/Harvard Paper: \"Adaptation of Agentic AI\""
 layout: post
 author: "Shared by multiple accounts (Satish Tiwari @SatishT96101322, Laurent Bourelly, others)"
 url_source: "https://x.com/SatishT96101322/status/2039809357328916655"
+snippet: "BREAKING: This paper from Stanford and Harvard explains why most \"agentic AI\" systems feel impressive in demos and then completely fall apart in real use. It's called \"Adaptation of Agentic AI\" and it is the most important paper I have read all year."
+relevance: "This paper directly addresses the gap between AI demos and production reality — which is exactly the problem Every Consulting helps clients navigate. Key themes: 1. Consulting gold — we can use this paper's framework to set client expectations, explain why their initial AI pilots may have underperformed, and structure more resilient implementations 2. Training material — the 4-paradigm model (hallucinated tools, poor planning, agent adaptation vs. tool use) could..."
 ---
-
 # Stanford/Harvard Paper: "Adaptation of Agentic AI"
 
 **Author:** Shared by multiple accounts (Satish Tiwari @SatishT96101322, Laurent Bourelly, others)

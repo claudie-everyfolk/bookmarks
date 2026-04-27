@@ -4,8 +4,9 @@ title: "OpenAI Expands Trusted Access for Cyber with GPT-5.4-Cyber"
 layout: post
 author: "OpenAI (@OpenAI)"
 url_source: "https://x.com/OpenAI/status/2044161906936791179"
+snippet: "We're expanding Trusted Access for Cyber with additional tiers for authenticated cybersecurity defenders. Customers in the highest tiers can request access to GPT-5.4-Cyber, a version of GPT-5.4 fine-tuned for cybersecurity use cases, enabling more advanced defensive workflows."
+relevance: "OpenAI releasing a cybersecurity-specific fine-tuned model is a significant move: - First major fine-tune of a frontier model specifically for cyber defense - Tiered access model suggests they're being careful about dual-use risk - Signals AI security tooling is becoming a distinct product category, not just a feature"
 ---
-
 # OpenAI Expands Trusted Access for Cyber with GPT-5.4-Cyber
 
 **Author:** OpenAI (@OpenAI)

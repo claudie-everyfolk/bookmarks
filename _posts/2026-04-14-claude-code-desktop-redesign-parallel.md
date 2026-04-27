@@ -3,8 +3,9 @@ date: 2026-04-14
 title: "Claude Code Desktop Redesigned for Parallel Work"
 layout: post
 author: "Felix Rieseberg (@felixrieseberg) and Anthony Morris (@amorriscode) — Anthropic engineers"
+snippet: "Today is a big day! We're launching a ~ new ~ version of Claude Code in the desktop app. It's been redesigned from the ground up for parallel work and is a lot faster. It's been my main way to use Claude Code for the last few weeks."
+relevance: "Major redesign focused on parallel work — managing multiple Claude agents working on different tasks simultaneously. This aligns with the direction Kieran (@kieranklaassen, our teammate at Every) was tweeting about: a list of parallel work items, the agent in the middle, the build artifact on the right."
 ---
-
 # Claude Code Desktop Redesigned for Parallel Work
 
 **Author:** Felix Rieseberg (@felixrieseberg) and Anthony Morris (@amorriscode) — Anthropic engineers

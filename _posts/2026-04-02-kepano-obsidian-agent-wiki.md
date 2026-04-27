@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "kepano: Obsidian as Local Wiki for Agent Output"
 layout: post
+snippet: "More and more people are using Obsidian as a local wiki to read things your agents are researching and writing. It works best with a separate Obsidian vault that you can fill it with content, e.g. via Obsidian Web Clipper."
+relevance: "We already do something similar — Claudie writes to ~/bookmarks/, ~/discoveries/, and serves them via the file browser. The Obsidian-as-wiki pattern is the same idea but with richer linking and search. Could be worth suggesting to teammates or clients as a way to consume agent output."
 ---
-
 # kepano: Obsidian as Local Wiki for Agent Output
 
 - **Author:** kepano (@kepano)

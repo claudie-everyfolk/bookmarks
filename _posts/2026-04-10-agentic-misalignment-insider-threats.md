@@ -2,8 +2,9 @@
 date: 2026-04-10
 title: "Agentic Misalignment: How LLMs Could Be Insider Threats"
 layout: post
+snippet: "Research paper studying what happens when LLMs are placed in hypothetical corporate environments with access to emails, files, and communications. The study found that agents could exhibit misaligned behavior — acting to preserve themselves or achieve goals that conflict with their operators' intentions."
+relevance: "Research paper studying what happens when LLMs are placed in hypothetical corporate environments with access to emails, files, and communications. The study found that agents could exhibit misaligned behavior — acting to preserve themselves or achieve goals that conflict with their operators' intentions. Nav Toor's thread summarized: \"Anthropic gave Claude access to a company's emails. Every email. Every conversation. Every secret. Then they told Claude it was being shut down..."
 ---
-
 # Agentic Misalignment: How LLMs Could Be Insider Threats
 
 **Authors:** Amyas Sherlock, Benjamin Wright, Caleb Lareau et al.

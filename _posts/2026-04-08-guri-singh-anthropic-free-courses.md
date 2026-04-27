@@ -2,8 +2,9 @@
 date: 2026-04-08
 title: "Guri Singh — Anthropic's 13 Free AI Courses & Certificates"
 layout: post
+snippet: "Anthropic dropped 13 AI courses and certificates.  100% free. Covers Claude Code, MCP, Agent Skills, and the Claude API.  People are paying $500+ for worse versions of this on Udemy.  Here's the full list 👇"
+relevance: "Direct competitor/complement to our training: Anthropic now offers free courses on the exact tools we train clients on. This is both a threat (clients might think \"why pay Every?\") and an opportunity (we can recommend these as pre-work/supplementary material, and our value is the customization + hands-on application to their workflows that generic courses can't do). For Natalia: Needs to be aware of this for sales positioning. When a prospect..."
 ---
-
 # Guri Singh — Anthropic's 13 Free AI Courses & Certificates
 
 - **Author:** Guri Singh (@heygursingh)

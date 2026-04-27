@@ -4,8 +4,9 @@ title: "Linear CEO Shares AI Productivity Metrics — 80% More Releases, 84% Mor
 layout: post
 author: "Karri Saarinen (@karrisaarinen) — CEO, Linear"
 url_source: "https://x.com/karrisaarinen"
+snippet: "On a call with founders, Karri shared Linear's own Q4 2025 → Q1 2026 numbers:"
+relevance: "Hard numbers from a credible SaaS CEO quantifying AI's impact on engineering productivity. This is exactly the kind of evidence our consulting clients ask for when justifying AI adoption. This is gold for: - Sales conversations — concrete before/after from a known company - Training sessions — showing what's possible when AI is integrated into existing workflows (not replacing people, amplifying output) - Brooker's non-tech training — demonstrates AI impact..."
 ---
-
 # Linear CEO Shares AI Productivity Metrics — 80% More Releases, 84% More Bug Fixes
 
 **Date:** 2026-04-13

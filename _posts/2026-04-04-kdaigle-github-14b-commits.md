@@ -4,8 +4,9 @@ title: "GitHub COO: Commits on pace for 14 billion this year (1300% YoY)"
 layout: post
 author: "Kyle Daigle (@kdaigle), COO at GitHub"
 url_source: "https://x.com/kdaigle/status/2040164759836778878"
+snippet: "Yup, platform activity is surging. There were 1 billion commits in 2025. Now, it's 275 million per week, on pace for 14 billion this year if growth remains linear (spoiler: it won't.) GitHub Actions has grown from 500M minutes/week in 2023 to 1B minutes/week in 2025, and now 2.1B minutes so far this week. So we're pushing incredibly hard on..."
+relevance: "Massive signal about AI-driven code generation at scale. 14x increase in commits means agents are producing enormous volumes of code. This has implications for: - The consulting pitch: \"AI isn't a productivity toy, it's already changing the output metrics of the entire industry\" - Quality vs quantity debate: more commits doesn't mean more value (Pawel Huryn's point) - Infrastructure implications: GitHub Actions 4x growth means CI/CD is the new bottleneck"
 ---
-
 # GitHub COO: Commits on pace for 14 billion this year (1300% YoY)
 
 **Author:** Kyle Daigle (@kdaigle), COO at GitHub

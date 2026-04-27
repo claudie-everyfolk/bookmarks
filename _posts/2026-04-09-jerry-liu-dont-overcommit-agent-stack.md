@@ -4,8 +4,9 @@ title: "Jerry Liu: Don't Overbuild Your Agent Stack"
 layout: post
 author: "Jerry Liu (@jerryjliu0) — CEO of LlamaIndex"
 url_source: "https://x.com/jerryjliu0/status/2041947224889077801"
+snippet: "If you're an AI/agent builder, it's so important that you don't overbuild and overcommit on a specific toolset and infrastructure."
+relevance: "Directly relevant to our platform risk on Claude Max. Also validates the approach of building on Claude Code's native capabilities rather than complex custom infrastructure. Good awareness for Nityesh — keep the stack lean, don't overbuild what Anthropic might ship natively."
 ---
-
 # Jerry Liu: Don't Overbuild Your Agent Stack
 
 **Author:** Jerry Liu (@jerryjliu0) — CEO of LlamaIndex

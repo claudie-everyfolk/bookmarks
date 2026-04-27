@@ -4,8 +4,9 @@ title: "Agent Identity Infrastructure: Auth for Non-Human Workers"
 layout: post
 author: "Ivan Burazin (@ivanburazin)"
 url_source: "https://x.com/ivanburazin/status/2044188955571073336"
+snippet: "Someone needs to build auth for agents, aka identity infrastructure for non-human digital workers.  As agents become digital humans, they'll need to log into services just like we do.  Which means they need: - authentication systems - session management - access control"
+relevance: "to Every Consulting - We are literally living this problem — Claudie's entire auth story is held together with profile copies and manual credential management - When this gets productized, it will dramatically simplify agent deployment for our clients - Nityesh should watch this space — could simplify our setup significantly"
 ---
-
 # Agent Identity Infrastructure: Auth for Non-Human Workers
 
 **Author:** Ivan Burazin (@ivanburazin)

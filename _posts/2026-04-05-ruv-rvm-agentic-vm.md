@@ -2,8 +2,9 @@
 date: 2026-04-05
 title: "RVM: Virtual Machine Reimagined for the Agentic Age"
 layout: post
+snippet: "Introducing RVM: The Virtual Machine Reimagined for the Agentic Age. Traditional virtual machines were designed for stable, predictable workloads. You carve up hardware into fixed slices, assign memory and CPU, and hope the boundaries hold. That model assumes applications sit still. Agents don't. They spin up, disappear, coordinate, and reshape themselves constantly. Static isolation starts to look artificial. RVM takes..."
+relevance: "Agent infrastructure is evolving fast. RVM represents a new paradigm for how agents get scheduled, isolated, and orchestrated at the VM level — dynamic graph-based isolation rather than static containers. As we run more agents (Claudie + sub-agents, scheduled jobs, etc.), understanding how the infrastructure layer is evolving matters for both our own setup and for advising clients who are building agent systems."
 ---
-
 # RVM: Virtual Machine Reimagined for the Agentic Age
 
 - **Author:** rUv (@rUv)

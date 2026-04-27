@@ -4,8 +4,9 @@ title: "Boris Cherny Responds to Claude Code Caching Complaints"
 layout: post
 author: "Om Patel (@om_patel5), quoting Boris Cherny (Claude Code creator)"
 url_source: "https://x.com/om_patel5 (recent)"
+snippet: "The creator of Claude Code just responded to the caching complaints. Here's what Boris Cherny said: \"leaving an agent session open too long causes a full cache miss which inf...\""
+relevance: "Directly affects our Claude Max setup. Claudie runs long sessions via `claude -p` for scheduled jobs. If long sessions cause full cache misses, this explains potential token waste and performance degradation. The cache TTL reduction (1h → 5m) means our scheduled jobs that run for extended periods may be hitting cache misses more frequently. Action item: Nityesh should evaluate whether our scheduled jobs are affected and whether we need to..."
 ---
-
 # Boris Cherny Responds to Claude Code Caching Complaints
 
 **Author:** Om Patel (@om_patel5), quoting Boris Cherny (Claude Code creator)

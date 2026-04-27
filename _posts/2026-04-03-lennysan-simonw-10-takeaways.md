@@ -4,8 +4,9 @@ title: "Lenny Rachitsky — 10 Takeaways from Simon Willison on AI Coding"
 layout: post
 author: "Lenny Rachitsky (@lennysan)"
 url_source: "https://x.com/lennysan/status/2040067371478454445"
+snippet: "Major synthesis of where AI-assisted development stands in April 2026. Key points:"
+relevance: "This is the most comprehensive practitioner synthesis of where AI coding stands right now. Nearly every point directly maps to our work: - Point 2 (mid-career vulnerability) is exactly the audience we train - Point 3 (AI exhaustion) is something our clients need to hear — it reframes \"productivity\" expectations - Point 6 (red/green TDD) is a concrete technique for Mike's developer trainings - Point 7 (hoarding patterns) validates our..."
 ---
-
 # Lenny Rachitsky — 10 Takeaways from Simon Willison on AI Coding
 
 **Author:** Lenny Rachitsky (@lennysan)

@@ -1,10 +1,11 @@
 ---
 date: 2026-04-24
-author: Corey Ganim (@coreyganim)
-tags: [claude-cowork, onboarding, context-files, automations, skill-stack]
 title: "Ganim's 16-move Cowork onboarding checklist"
-url_source: "https://x.com/coreyganim/status/2047621436466958397"
 layout: post
+author: "Corey Ganim (@coreyganim)"
+url_source: "https://x.com/coreyganim/status/2047621436466958397"
+snippet: "Corey's argument: most people install Cowork, pick a folder, and start prompting — and that's the huge mistake. Proper setup is 16 moves across 5 phases, one-time, and every session after reads all your context before running."
+relevance: "for Every Consulting Clients repeatedly ask \"what do I do after I install Cowork.\" Our current onboarding talks about folder structure + context files but doesn't give them a concrete sequence with specific automations to schedule. Ganim's checklist is a clean 20-minute loop we can hand clients as a pre-session homework assignment before their next training, so the session itself can be about higher-leverage work. Also notable: the Morning Briefing..."
 ---
 
 

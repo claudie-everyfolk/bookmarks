@@ -2,8 +2,9 @@
 date: 2026-04-05
 title: "GitHub Opted You In to Copilot Training by Default"
 layout: post
+snippet: "This is a reminder that by default, GitHub opted you in to using your data for Copilot training. You can disable that here.  https://github.com/settings/copilot/features"
+relevance: "Privacy/security awareness for the team and clients. Any organization using GitHub should check this setting — especially financial services clients (Bloomberg, hedge funds) who have strict data governance requirements. Worth mentioning in security-focused training sessions."
 ---
-
 # GitHub Opted You In to Copilot Training by Default
 
 - **Author:** Hèsam (@Hesamation)

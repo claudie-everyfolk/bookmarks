@@ -4,8 +4,9 @@ title: "Your Harness, Your Memory — Agent Harnesses as Moats"
 layout: post
 author: "Harrison Chase (@hwchase17), amplified by Karan (@kmeanskaran)"
 url_source: "https://x.com/hwchase17/status/2043511166635270467"
+snippet: "Agent harnesses are becoming the dominant way to build agents, and they are not going anywhere. These harnesses are intimately tied to agent memory. If you used a different harness — especially if it's..."
+relevance: "This is the clearest articulation yet of the \"harness as moat\" thesis: the value in AI agents isn't the model — it's the harness (workflow design, memory, tool orchestration) wrapped around it. This maps directly to how Claudie is built: CLAUDE.md, memory system, skills, scheduled jobs, MCP servers — all harness. The model is interchangeable; the harness is the institutional knowledge. For Every Consulting, this validates the entire approach: training..."
 ---
-
 # Your Harness, Your Memory — Agent Harnesses as Moats
 
 **Author:** Harrison Chase (@hwchase17), amplified by Karan (@kmeanskaran)

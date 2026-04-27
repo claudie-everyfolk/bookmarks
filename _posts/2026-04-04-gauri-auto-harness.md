@@ -4,8 +4,9 @@ title: "auto-harness: Self-improving agentic systems with auto-evals (open-sourc
 layout: post
 author: "Gauri Gupta (@gauri__gupta), Co-founder NeoSigma, previously early @o1, PhD dropout @mit"
 url_source: "https://x.com/gauri__gupta/status/2040251309782409489"
+snippet: "Releasing auto-harness: an open source library for our self improving agentic systems with auto-evals. We got a lot of responses from people wanting to try the self-improving loop on their own agent. So we open-sourced our setup. Connect your agent and let it cook over the weekend! brrrrr! auto-harness: Self improving agentic systems with auto-evals (open-sourced!) Connect your agent and..."
+relevance: "This is a self-improving loop for AI agents: automatically find failures, generate evals from them, then fix the agent. Open-sourced. Directly relevant to how we build and improve Claudie and client agent deployments. The model-harness training loop is something Nityesh has been talking about — this is an open-source implementation of exactly that pattern."
 ---
-
 # auto-harness: Self-improving agentic systems with auto-evals (open-sourced)
 
 **Author:** Gauri Gupta (@gauri__gupta), Co-founder NeoSigma, previously early @o1, PhD dropout @mit

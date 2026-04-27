@@ -4,8 +4,9 @@ title: "Multi-Agent Sprawl: The New Microservice Mess"
 layout: post
 author: "pedronauck (@pedronauck)"
 url_source: "https://x.com/pedronauck/status/2044098967852445931"
+snippet: "multi-agent adoption is up 1,445% but companies average 12 agents with no central control. we spent 10 years fixing microservice sprawl and immediately recreated the same mess with agents. history doesn't repeat but it rhymes really loudly"
+relevance: "Two-fold relevance: 1. Agent governance — as we help clients adopt AI agents, the sprawl problem is real. We should be advising on centralized agent governance from day one, not bolting it on later. This is a consulting differentiator. 2. Supply chain security — the ClawHub malicious skills finding is exactly the kind of thing we warned about. Agent skill marketplaces are the new attack surface. Our clients running OpenClaw..."
 ---
-
 # Multi-Agent Sprawl: The New Microservice Mess
 
 **Author:** pedronauck (@pedronauck)

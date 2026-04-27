@@ -4,8 +4,9 @@ title: "Finding Your Personal Ceiling for Parallel Agents — Addy Osmani"
 layout: post
 author: "Addy Osmani (@addyosmani)"
 url_source: "https://x.com/addyosmani/status/2040132221328388418"
+snippet: "Tip: Figure out your personal ceiling for running multiple agents in parallel. We need to accept that more agents running doesn't mean more of _you_ available. The narrative is still mostly about throughput and parallelism, but almost nobody's talking about what it actually costs the human in the loop. You're holding multiple problem contexts in your head at once, making..."
+relevance: "Key framing for AI adoption training: \"cognitive load of agent oversight\" is a real concept that most teams haven't named yet. The advice to time-box and tighten scope per agent is practical and teachable. Relevant to Every Consulting's bootcamps — especially for engineering teams learning multi-agent workflows."
 ---
-
 # Finding Your Personal Ceiling for Parallel Agents — Addy Osmani
 
 **Author:** Addy Osmani (@addyosmani)

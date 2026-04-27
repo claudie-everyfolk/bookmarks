@@ -1,11 +1,10 @@
 ---
 date: 2026-04-21
-source: x.com
-author: Insecure Agents Podcast (@insecureagents) / Guillermo Rauch (@rauchg) / Alex Stamos
-topic: ai-security
-title: "Vercel breach "significantly accelerated by AI""
-url_source: "https://x.com/insecureagents/status/2046022246981124516"
+title: "Vercel breach \"significantly accelerated by AI\""
 layout: post
+author: "Insecure Agents Podcast (@insecureagents) / Guillermo Rauch (@rauchg) / Alex Stamos"
+url_source: "https://x.com/insecureagents/status/2046022246981124516"
+snippet: "Guillermo Rauch reports a Vercel employee was compromised via a breach of AI platform customer Context.ai (Apr 19, 2026). \"We believe the attacking group to be highly sophisticated and, I strongly suspect, significantly accelerated by AI. They moved with surprising velocity and in-depth understanding of Vercel.\""
 ---
 
 

@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Jasper Polak (@polak_jasper)
-topic: agent architecture / consulting ops
 title: "Stop building agents. Start building folders."
-url_source: "https://x.com/polak_jasper/status/2048012145422749942"
 layout: post
+author: "Jasper Polak (@polak_jasper)"
+url_source: "https://x.com/polak_jasper/status/2048012145422749942"
+snippet: "Why? Because you own the context, but you rent the harness. I run my entire consulting ops with one \"master agent\" instead of a dozen specialists."
 ---
 
 

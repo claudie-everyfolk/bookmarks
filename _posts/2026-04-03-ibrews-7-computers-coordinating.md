@@ -4,8 +4,9 @@ title: "7 Computers Coordinating via Git with Claude Code"
 layout: post
 author: "Alex Coulombe (@iBrews)"
 url_source: "https://x.com/iBrews/status/2040152159350644947"
+snippet: "I gave 7 computers Claude Code and told them to coordinate through git.  They built their own dashboard, dispatch tasks to each other via SSH, and send me Telegram updates when they're done.  No orchestration framework. No central server. Just markdown inboxes and 3 hooks."
+relevance: "This is essentially a multi-machine version of how Claudie is set up — a Claude Code agent running on a Mac mini, coordinating through files, using hooks for automation, and messaging the team when work is done. The key insight is that you don't need a complex orchestration framework. Markdown inboxes + git + hooks is sufficient for multi-agent coordination. This validates our architecture and suggests scaling paths. ---"
 ---
-
 # 7 Computers Coordinating via Git with Claude Code
 
 **Author:** Alex Coulombe (@iBrews)

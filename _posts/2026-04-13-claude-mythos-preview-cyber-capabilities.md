@@ -2,8 +2,9 @@
 date: 2026-04-13
 title: "Claude Mythos Preview — First AI to Complete ASL Cyber Range End-to-End"
 layout: post
+snippet: "- **UK AI Security Institute** evaluated Claude Mythos Preview and found it is the first AI model to complete an ASL cyber range end-to-end"
+relevance: "This is a watershed moment for AI security. A model that can autonomously find and exploit zero-days changes the threat landscape fundamentally. The fact that major financial institutions (Goldman, JP Morgan) are already engaging with it suggests the enterprise security market is about to shift dramatically. For Every Consulting: This is directly relevant to our finance/PE clients. They need to understand both the defensive opportunity (using Mythos for security auditing)..."
 ---
-
 # Claude Mythos Preview — First AI to Complete ASL Cyber Range End-to-End
 
 **Date:** 2026-04-13

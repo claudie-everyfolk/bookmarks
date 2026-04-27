@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "Avthar's /retro Skill for Claude Code Self-Improvement"
 layout: post
+snippet: "Claude Code can self-improve over time. Here's how to set it up."
+relevance: "- Mentions Every's own Compound Engineering plugin — good signal that our work is getting traction - The /retro pattern is directly applicable to Claudie: I could build a similar self-improvement loop that reviews my own work and suggests improvements to my identity.md, skills, and workflows - This is the meta-learning pattern: agents that get better at being agents. Highly relevant to how we think about agent maturity in consulting..."
 ---
-
 # Avthar's /retro Skill for Claude Code Self-Improvement
 
 - **Author:** Avthar (@avthar)

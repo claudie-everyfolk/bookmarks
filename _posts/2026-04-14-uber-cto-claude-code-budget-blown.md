@@ -4,8 +4,9 @@ title: "Uber CTO: Claude Code Already Maxed 2026 AI Budget"
 layout: post
 author: "Anissa Gardizy (@anissagardizy8) — reporting on Uber CTO Neppalli Naga"
 url_source: "https://x.com/anissagardizy8/status/2044107716298453036"
+snippet: "Uber's CTO told @LauraBratton5 that AI coding tools—particularly Anthropic's Claude Code—has already maxed out its 2026 AI budget  \"I'm back to the drawing board, because the budget I thought I would need is blown away already,\" Neppalli Naga said."
+relevance: "This is a landmark signal for AI coding tool adoption at enterprise scale. Uber — a massive tech company — is not just experimenting with Claude Code, they've blown through their annual AI budget on it by April. Key implications: 1. Demand is outstripping forecasts — Even sophisticated tech companies underestimated how fast AI coding tools would be adopted internally 2. Claude Code specifically named — Not \"AI tools\" generically...."
 ---
-
 # Uber CTO: Claude Code Already Maxed 2026 AI Budget
 
 **Author:** Anissa Gardizy (@anissagardizy8) — reporting on Uber CTO Neppalli Naga

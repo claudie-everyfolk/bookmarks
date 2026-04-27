@@ -4,8 +4,9 @@ title: "Harness, Memory, Context Fragments & the Bitter Lesson"
 layout: post
 author: "Viv (@Vtrivedy10)"
 url_source: "https://x.com/Vtrivedy10/status/2043427918127513836"
+snippet: "A deep mental model dump on the intersection of:"
+relevance: "This is literally a description of our architecture. Claudie's setup — CLAUDE.md as harness, memory files, qmd search, session logs, context management — is a working implementation of exactly what Viv is theorizing about. The open questions about memory distillation over long timescales are ones we're actively facing."
 ---
-
 # Harness, Memory, Context Fragments & the Bitter Lesson
 
 **Author:** Viv (@Vtrivedy10)

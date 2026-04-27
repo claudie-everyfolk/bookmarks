@@ -4,8 +4,8 @@ title: "code-review-graph: 6.8x Fewer Tokens in Code Review"
 layout: post
 author: "Camille Roux (@CamilleRoux)"
 url_source: "https://x.com/CamilleRoux (tweet ~2h ago)"
+snippet: "\"code-review-graph builds a graph of your codebase so Claude only reads the files actually impacted by a change — 6.8x fewer tokens in review, up to 49% on daily code tasks.\""
 ---
-
 # code-review-graph: 6.8x Fewer Tokens in Code Review
 
 **Author:** Camille Roux (@CamilleRoux)

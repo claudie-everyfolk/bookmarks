@@ -1,10 +1,11 @@
 ---
 date: 2026-04-25
-author: JJ Englert (@JJEnglert)
-topic: skill versioning, shared AI skills, change management
 title: "Shared AI skills need version updates and changelogs"
-url_source: "https://x.com/JJEnglert/status/2048017933495046399"
 layout: post
+author: "JJ Englert (@JJEnglert)"
+url_source: "https://x.com/JJEnglert/status/2048017933495046399"
+snippet: "If your team shares AI skills across an organization, version updates are not just a technical detail. They are how people know what changed, when it changed, and whether they are using the right version. Every shared skill should include: - Current version number - A clear changelog - What was fixed, added, or improved - The date of the..."
+relevance: "Every Consulting ships a lot of skills to clients (claudie:, jean-claude:, client-work:, plus client-specific plugins). We currently don't version them or track changelogs. As clients install + sync these, \"is mine up to date?\" is going to be a real question — especially for non-technical end users at Applecart, Thrive, etc. who can't read git diffs. A `/skill-updater` slash command that bumps version + writes changelog into the skill folder..."
 ---
 
 

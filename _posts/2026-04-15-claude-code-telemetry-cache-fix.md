@@ -4,8 +4,9 @@ title: "Claude Code Telemetry Cache TTL Issue — Fixed"
 layout: post
 author: "Tyler (@rezoundous), Boris Cherny (@bcherny)"
 url_source: "https://x.com/rezoundous/status/2043985442408935737"
+snippet: "Claude Code reduces cache TTL from 1hr to 5min when you turn off telemetry. Apparently privacy costs us 12 times the token."
+relevance: "Good to know this was a real issue and is now fixed. We run with telemetry on our Mac mini, but this is relevant context for Mike's developer training — if participants turn off telemetry for privacy, they should know it no longer penalizes cache performance."
 ---
-
 # Claude Code Telemetry Cache TTL Issue — Fixed
 
 **Author:** Tyler (@rezoundous), Boris Cherny (@bcherny)

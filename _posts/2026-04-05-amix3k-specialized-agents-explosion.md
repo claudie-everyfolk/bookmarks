@@ -4,8 +4,9 @@ title: "Amir Salihefendić: Specialized Agents > General-Purpose Agents"
 layout: post
 author: "Amir Salihefendić (@amix3k)"
 url_source: "https://x.com/amix3k/status/2040745238000505332"
+snippet: "The idea that we'll have one general-purpose agent that does everything is as flawed as the idea that one app could do everything. We've seen this before. When databases first emerged, some people thought they would replace all software. They didn't. They became foundational infrastructure. Agents could follow a similar path. Claude Code, the most successful agent, has 500k+ of..."
+relevance: "This is essentially the thesis behind how Claudie is built — a specialized agent for consulting operations rather than a generic chatbot. It validates the Every Consulting approach of building domain-specific tooling (Google Workspace integration, client dashboard management, sales pipeline ops) rather than relying on a single general-purpose AI. The \"Cambrian explosion of specialized agents\" is exactly what we're seeing in the market, and what we should be teaching clients..."
 ---
-
 # Amir Salihefendić: Specialized Agents > General-Purpose Agents
 
 **Author:** Amir Salihefendić (@amix3k)

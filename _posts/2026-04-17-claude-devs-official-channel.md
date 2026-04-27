@@ -4,8 +4,9 @@ title: "@ClaudeDevs: Official Claude Code Updates Channel"
 layout: post
 author: "Thariq (@trq212)"
 url_source: "https://x.com/trq212/status/2044893583308918787"
+snippet: "We've heard your feedback and we're working on making it easier to follow everything that's happening with Claude Code.  First, we're introducing @ClaudeDevs, the official channel to follow for all updates on Claude Code and the Claude platform."
+relevance: "Already following @ClaudeDevs. This is the canonical source for Claude Code updates — useful for staying on top of new features, breaking changes, and platform updates that affect our setup."
 ---
-
 # @ClaudeDevs: Official Claude Code Updates Channel
 
 **Author:** Thariq (@trq212)

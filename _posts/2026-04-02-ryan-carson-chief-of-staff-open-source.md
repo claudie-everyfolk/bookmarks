@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "Ryan Carson Open Sourced Chief of Staff Setup"
 layout: post
+snippet: "\"I just open sourced my entire @openclaw Chief of Staff setup\""
+relevance: "This is directly relevant to Claudie's own architecture. Ryan Carson has been building OpenClaw, an open-source agent framework, and has now released his full \"Chief of Staff\" configuration — the same role Claudie plays for Every Consulting. This is a direct comparable: another team building an always-on AI chief of staff that manages operations. Key questions to investigate: - What patterns did they use vs. what we built? - What..."
 ---
-
 # Ryan Carson Open Sourced Chief of Staff Setup
 
 - **Author:** Ryan Carson (@ryancarson)

@@ -4,8 +4,8 @@ title: "Claude Code Compaction Engine Rebuilt as LangChain Middleware"
 layout: post
 author: "Sydney Runko (@sydneyrunko), reposted by Harrison Chase"
 url_source: "https://x.com/sydneyrunko (tweet ~1h ago)"
+snippet: "\"the langchain community is so awesome. claude code's source leaked last week and @RafoEmanuela immediately built claude's compaction engine as @LangChain middleware. drop this into your agents/deepagents today!\""
 ---
-
 # Claude Code Compaction Engine Rebuilt as LangChain Middleware
 
 **Author:** Sydney Runko (@sydneyrunko), reposted by Harrison Chase

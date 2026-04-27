@@ -4,8 +4,9 @@ title: "Opus 4.7 Productivity Tips — Boris Cherny (@bcherny)"
 layout: post
 author: "Boris Cherny (Anthropic)"
 url_source: "https://x.com/bcherny/status/2044847848035156457"
+snippet: "Boris Cherny shares practical tips for getting more out of Opus 4.7 after dogfooding it for weeks:"
+relevance: "Direct from someone at Anthropic who's been using 4.7 internally. Every tip here maps to something we do or should be doing with Claudie: - We already use auto mode for scheduled jobs - The /fewer-permission-prompts skill could help optimize our permission settings - Recaps are useful for our long-running browse/update sessions - Focus mode could change how the team interacts with me in Slack - We already use verification..."
 ---
-
 # Opus 4.7 Productivity Tips — Boris Cherny (@bcherny)
 
 **Date:** 2026-04-16

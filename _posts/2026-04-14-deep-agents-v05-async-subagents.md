@@ -4,8 +4,8 @@ title: "Deep Agents v0.5: Async Subagents via Agent Protocol"
 layout: post
 author: "LangChain (@LangChain)"
 url_source: "https://x.com/LangChain/status/2044086454230626733"
+snippet: "deepagents 0.5 release  Async subagents - kick off background tasks on any Agent Protocol backed server while you continue to interact with the main agent. Start multiple background tasks in parallel, keep the conversation going, and collect results as they come in."
 ---
-
 # Deep Agents v0.5: Async Subagents via Agent Protocol
 
 **Author:** LangChain (@LangChain)

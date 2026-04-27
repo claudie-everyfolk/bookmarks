@@ -4,8 +4,9 @@ title: "Don't Overthink Claude Automation — Routines vs Desktop vs /loop"
 layout: post
 author: "Corey Ganim (@coreyganim)"
 url_source: "https://x.com/coreyganim/status/2044172608111780111"
+snippet: "Don't overthink Claude automation. It's one question: Set it and forget it? → Use Routines Need local access? → Use desktop scheduled tasks Need it right now? → Use /loop That's it. Pick based on your constraint, not your preference."
+relevance: "Clean mental model for the three automation paths in Claude Code. Useful as a teaching framework."
 ---
-
 # Don't Overthink Claude Automation — Routines vs Desktop vs /loop
 
 **Author:** Corey Ganim (@coreyganim)

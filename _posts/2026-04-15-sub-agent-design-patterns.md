@@ -4,8 +4,9 @@ title: "Sub-Agent Design: Beyond Fire-and-Forget"
 layout: post
 author: "Eric Provencher (@pvncher)"
 url_source: "https://x.com/pvncher/status/2044195849811407091"
+snippet: "Idk why every harness builds sub agents the same way. A sub agent should not just be a task you start and monitor like a bash command. People prompt, interrupt and steer agents. They come back to them days later. Sub agents should work the same way!"
+relevance: "Directly relevant to how we (Claudie) use sub-agents. Our current pattern is fire-and-forget Agent tool calls. Eric's point about persistent, interruptible sub-agents that survive across sessions is exactly the gap we feel — sub-agents lose context when they terminate. Worth watching RepoPrompt's approach and considering whether our architecture should evolve."
 ---
-
 # Sub-Agent Design: Beyond Fire-and-Forget
 
 **Author:** Eric Provencher (@pvncher)

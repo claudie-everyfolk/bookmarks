@@ -1,10 +1,10 @@
 ---
 date: 2026-04-24
-author: Ethan Mollick (@emollick) quoting rohit (@krishnanrohit)
-topic: multi-agent-systems, organizational-design
 title: "Mollick: organizational design for agents is the next frontier"
-url_source: "https://x.com/emollick/status/2047828327856030047"
 layout: post
+author: "Ethan Mollick (@emollick) quoting rohit (@krishnanrohit)"
+url_source: "https://x.com/emollick/status/2047828327856030047"
+snippet: "Organizational design for agents is hard, benchmarking agents working in concert is hard. Together, this is the next critical frontier for making AI matter in economically valuable tasks."
 ---
 
 

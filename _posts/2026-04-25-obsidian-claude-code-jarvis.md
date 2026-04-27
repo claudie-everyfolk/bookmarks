@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Charly Wargnier (@DataChaz) quoting cyrilXBT
-topic: personal-os-obsidian-claude
 title: "Obsidian + Claude Code as a 24/7 personal OS"
-url_source: "https://x.com/DataChaz/status/2047779317883486613"
 layout: post
+author: "Charly Wargnier (@DataChaz) quoting cyrilXBT"
+url_source: "https://x.com/DataChaz/status/2047779317883486613"
+snippet: "Invest only ONE hour tonight into Obsidian and Claude Code... the result is a 24/7 personal OS that grinds while you sleep."
 ---
 
 

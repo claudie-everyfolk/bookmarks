@@ -4,8 +4,9 @@ title: "A Pattern Language for Agentic AI Skill Design"
 layout: post
 author: "Carlos E. Perez (@IntuitMachine)"
 url_source: "https://x.com/IntuitMachine/status/2040391259504676878"
+snippet: "Introducing \"A Pattern Language for Agentic AI Skill Design.\""
+relevance: "Directly relevant to how we design skills for Claude Code. The skill architecture (SETUP, PLAN, BUILD, TEST, DEPLOY, REVIEW) maps to what we're already building. This could inform a more systematic approach to skill design for client deployments and our own agent infrastructure."
 ---
-
 # A Pattern Language for Agentic AI Skill Design
 
 **Author:** Carlos E. Perez (@IntuitMachine)

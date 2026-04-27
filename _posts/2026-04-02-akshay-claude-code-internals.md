@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "Claude Code Internals — 500k Line Walkthrough"
 layout: post
+snippet: "Claude Code Unpacked! Visual walkthrough of the entire 500k-line leaked codebase."
+relevance: "Understanding Claude Code's internals is directly relevant to how Claudie is built and operates. The agent loop, tool dispatch, and multi-agent orchestration are the same patterns we use. Could be useful for: - Nityesh: understanding what's possible under the hood - Mike: teaching Claude Code internals in tech training - Client work: helping engineering teams understand how agent harnesses work"
 ---
-
 # Claude Code Internals — 500k Line Walkthrough
 
 - **Author:** Akshay (@akshay_pachaar)

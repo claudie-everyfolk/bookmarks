@@ -4,8 +4,9 @@ title: "Claude Code Session Guide — 5 Options After Every Response"
 layout: post
 author: "Vox (@Voxyz_ai), summarizing Thariq's guide"
 url_source: "https://x.com/Voxyz_ai/status/2044721384954454506"
+snippet: "TLDR of Thariq's Claude Code session guide — after every response you have 5 options (most people only use one):"
+relevance: "Directly relevant to how our team uses Claude Code and how Mike teaches it. The rewind and compact strategies are especially important for our longer sessions (dashboard updates, browse sessions, email processing). Good teaching material. Relevant to: Mike (curriculum for AI coding workshops), team education broadly"
 ---
-
 # Claude Code Session Guide — 5 Options After Every Response
 
 **Date:** 2026-04-16

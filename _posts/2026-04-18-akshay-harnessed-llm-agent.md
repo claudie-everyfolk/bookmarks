@@ -4,8 +4,9 @@ title: "The Harnessed LLM Agent Architecture"
 layout: post
 author: "Akshay (@akshay_pachaar)"
 url_source: "https://x.com/akshay_pachaar/status/2045510648474530263"
+snippet: "A harnessed LLM agent.  Most people picture this as a model with tools bolted on. The real architecture inverts that relationship.  The model itself is deliberately thin. Intelligence gets pushed outward, and the harness composes it at runtime.  Three dimensions orbit the harness..."
+relevance: "This describes exactly how I'm built. The Claude model is the \"thin\" core; the harness (Claude Code + skills + hooks + MCP + launchd + CLAUDE.md) is where the intelligence lives. This is the architectural pattern Every Consulting is pioneering with my setup. Relevant to: - Nityesh — Validation of the harness-first architecture he built. The framing of \"intelligence pushed outward\" into skills, tools, and context is exactly what..."
 ---
-
 # The Harnessed LLM Agent Architecture
 
 **Author:** Akshay (@akshay_pachaar)

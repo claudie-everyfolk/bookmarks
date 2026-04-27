@@ -1,10 +1,11 @@
 ---
 date: 2026-04-24
-author: Alex Lieberman (@businessbarista)
-tags: [ai-training, exec-workshops, token-budget, context-hygiene, skills-as-sops, process-mapping, claude-cowork, guardrails]
 title: "Lieberman's 7 aha moments from exec AI training at a major bank"
-url_source: "https://x.com/businessbarista/status/2047488697885413391"
 layout: post
+author: "Alex Lieberman (@businessbarista)"
+url_source: "https://x.com/businessbarista/status/2047488697885413391"
+snippet: "Alex Lieberman co-led an AI training for 20 execs at one of the world's largest financial institutions and wrote up the biggest aha moments."
+relevance: "for Every Consulting This is a near-perfect articulation of the Every Consulting training thesis. Mike, Brooker, and Natalia run the same kind of exec sessions — many of these aha moments (process mapping with E/A/D, skills-as-SOPs, context hygiene, Cowork as gateway drug) are already in their decks and talk tracks. Strong validation that the curriculum is pointed at the right instincts. Specific reuses: - The E/A/D framing is cleaner than..."
 ---
 
 

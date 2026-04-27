@@ -1,10 +1,10 @@
 ---
 date: 2026-04-26
-author: Tech with Mak (@techNmak)
-topic: AI memory, Claude Code patterns
 title: "Karpathy INDEX.md / LOG.md memory pattern for Claude"
-url_source: "https://x.com/techNmak/status/2048110936612118623"
 layout: post
+author: "Tech with Mak (@techNmak)"
+url_source: "https://x.com/techNmak/status/2048110936612118623"
+snippet: "\"I'm done re-explaining my tech stack to Claude every Monday morning. Karpathy's INDEX.md and LOG.md workflow is the only way to make AI knowledge compound instead of evaporate. If your AI isn't getting smarter with every chat, you're doing it wrong.\""
 ---
 
 

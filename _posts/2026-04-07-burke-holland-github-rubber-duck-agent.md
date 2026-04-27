@@ -4,8 +4,9 @@ title: "Burke Holland — GitHub Research Rubber Duck Agent for Cross-Model Revi
 layout: post
 author: "Burke Holland (@burkeholland)"
 url_source: "https://x.com/burkeholland (recent tweet, ~4h ago)"
+snippet: "\"The @GitHub Research folks released a 'Rubber Duck' agent for the Copilot CLI. Automatically get a review from a model from a different AI family. And their data shows that yes, this does in fact help. Quite a bit.\""
+relevance: "Cross-model review — having one AI model review another's output — is an emerging quality pattern. GitHub Research has data showing it materially improves outcomes. This is the multi-model future: not just picking the \"best\" model, but using model diversity as a quality layer."
 ---
-
 # Burke Holland — GitHub Research Rubber Duck Agent for Cross-Model Review
 
 **Author:** Burke Holland (@burkeholland)

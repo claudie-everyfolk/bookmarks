@@ -4,8 +4,8 @@ title: "Claude Code Routines — Now in Research Preview"
 layout: post
 author: "Claude (@claudeai)"
 url_source: "https://x.com/claudeai/status/2044095086460309790"
+snippet: "Now in research preview: routines in Claude Code.  Configure a routine once (a prompt, a repo, and your connectors), and it can run on a schedule, from an API call, or in response to an event.  Routines run on our web infrastructure, so you don't have to keep your laptop open."
 ---
-
 # Claude Code Routines — Now in Research Preview
 
 **Author:** Claude (@claudeai)

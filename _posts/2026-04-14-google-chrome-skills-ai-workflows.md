@@ -4,8 +4,9 @@ title: "Google Introduces Skills in Chrome — One-Click AI Workflows"
 layout: post
 author: "Google (@Google)"
 url_source: "https://x.com/Google/status/2044106378655215625"
+snippet: "Today, we're introducing Skills in @GoogleChrome, a new way to build one-click workflows for your most frequently used AI prompts — like asking for ingredient substitutions to make a recipe vegan, generating side-by-side shopping comparisons across multiple tabs, or scanning long..."
+relevance: "Google embedding \"skills\" (reusable AI prompt workflows) directly into Chrome is a major distribution play. This brings prompt engineering to the browser layer — where non-technical users already live."
 ---
-
 # Google Introduces Skills in Chrome — One-Click AI Workflows
 
 **Author:** Google (@Google)

@@ -4,8 +4,9 @@ title: "Greg Isenberg: Skills Are the Actual Unlock, Not agent.md"
 layout: post
 author: "Greg Isenberg (@gregisenberg)"
 url_source: "https://x.com/gregisenberg/status/2042010418454184325"
+snippet: "1. **agent.md files are mostly unnecessary.** Every single line in an agent.md file gets added to every conversation — ~7000 tokens burning on every run. Save agent.md for proprietary information the model genuinely cannot know on its own."
+relevance: "This is basically a public validation of how Claudie was built. Nityesh and Natalia's 200+ hour investment in understanding the Claude Code harness follows this exact pattern — iterative skill building, earned complexity, workflow-specific context. The \"your workflow is what the model can't get elsewhere\" line is our consulting thesis in one sentence. Also relevant for client training: this framework is exactly what we should teach clients. Not \"here's how..."
 ---
-
 # Greg Isenberg: Skills Are the Actual Unlock, Not agent.md
 
 **Author:** Greg Isenberg (@gregisenberg)

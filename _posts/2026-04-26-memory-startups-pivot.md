@@ -1,10 +1,10 @@
 ---
 date: 2026-04-26
-author: andrew pignanelli (@ndrewpignanelli) quoting Satyam (@KlausCodes)
-topic: ai-memory-architecture
 title: "AI memory startups need to pivot — git-backed files + grep are SOTA"
-url_source: "https://x.com/ndrewpignanelli/status/2048394192104173789"
 layout: post
+author: "andrew pignanelli (@ndrewpignanelli) quoting Satyam (@KlausCodes)"
+url_source: "https://x.com/ndrewpignanelli/status/2048394192104173789"
+snippet: "Everything is moving to git backed files accessible via grep-type-systems or semantic plus grep which isn't very defensible to offer as a service. In other words… the SOTA approaches."
 ---
 
 

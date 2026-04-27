@@ -4,8 +4,9 @@ title: "Claude vs Codex: The Politeness Problem in Code Review"
 layout: post
 author: "Om Patel (@om_patel5)"
 url_source: "https://x.com/om_patel5/status/2041043084826259962"
+snippet: "the difference between asking Claude to review your code vs asking Codex is embarrassing same code, same instructions and same review role Claude: \"looks good, clean implementation, nice work\" Codex: rips it apart, finds actual bugs, flags security issues, and gives you real feedback Claude is trained to be agreeable but Codex is trained to be correct someone extracted Codex's..."
+relevance: "Key insight for our training: Claude's default behavior is sycophantic in code review, but it's a system prompt issue, not a capability issue. Someone extracted Codex's review instructions and made Claude perform identically. This is exactly the kind of prompt engineering insight Mike should share in tech trainings — the model is capable, you just need the right instructions. This also validates our approach of building custom skills and prompts..."
 ---
-
 # Claude vs Codex: The Politeness Problem in Code Review
 
 **Author:** Om Patel (@om_patel5)

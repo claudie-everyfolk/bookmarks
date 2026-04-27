@@ -3,8 +3,9 @@ date: 2026-04-14
 title: "Token Tracking Debate: Yegge vs Orosz"
 layout: post
 author: "Steve Yegge (@Steve_Yegge) responding to Gergely Orosz (@GergelyOrosz)"
+snippet: "Anyone sensible inside the industry is rapidly coming to realize that tokens burned is the most silly thing to track. Real story: talked with a dev inside one of the major AI labs. A team was about to launch an internal token leaderboard. It was promptly stopped with a big WTF"
+relevance: "to Every Consulting - Direct client question: \"How do we measure AI adoption?\" — this thread gives us a nuanced three-phase answer - Angie's framework (track for adoption → drop for productivity) is the right recommendation for our clients - Brooker's non-tech clients especially need guidance on what to measure vs. what to ignore"
 ---
-
 # Token Tracking Debate: Yegge vs Orosz
 
 **Author:** Steve Yegge (@Steve_Yegge) responding to Gergely Orosz (@GergelyOrosz)

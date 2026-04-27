@@ -1,9 +1,10 @@
 ---
 date: 2026-04-02
-title: "Kun Chen's "gnhf" — Overnight Agent Work Pattern"
+title: "Kun Chen's \"gnhf\" — Overnight Agent Work Pattern"
 layout: post
+snippet: "Sharing a pretty important primitive in my agentic engineering setup."
+relevance: "This is exactly what Claudie does — scheduled overnight work (email sweeps, pipeline refreshes, browsing). The \"gnhf\" pattern is a good framing for client training: the idea that you can queue up agent work before leaving and wake up to results. Validates our approach and gives us language for it."
 ---
-
 # Kun Chen's "gnhf" — Overnight Agent Work Pattern
 
 - **Author:** Kun Chen (@kunchenguid)

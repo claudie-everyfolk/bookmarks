@@ -4,8 +4,9 @@ title: "500K Fewer Coders Than Pre-LLM Trends Predicted"
 layout: post
 author: "Luis Garicano (@lugaricano)"
 url_source: "https://x.com/lugaricano/status/2043359618945196413"
+snippet: "An increasingly coherent picture of the impact of AI on jobs, by @jburnmurdoch @ft:"
+relevance: "This is the first hard Federal data confirming AI's impact on the coding labor market at scale. The \"weak bundle\" vs \"tight bundle\" framework is directly relevant to how we advise clients on AI adoption — junior/standalone tasks are the ones AI substitutes, while senior roles with domain expertise + judgment are augmented. This maps perfectly to Every Consulting's positioning: we train teams to move from weak bundles (routine tasks..."
 ---
-
 # 500K Fewer Coders Than Pre-LLM Trends Predicted
 
 **Author:** Luis Garicano (@lugaricano)

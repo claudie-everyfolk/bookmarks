@@ -4,8 +4,9 @@ title: "Anthropic Signs Multi-Gigawatt TPU Deal with Google and Broadcom"
 layout: post
 author: "Anthropic (@AnthropicAI)"
 url_source: "https://x.com/AnthropicAI (pinned/recent tweet)"
+snippet: "\"We've signed an agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity, coming online starting in 2027, to train and serve frontier Claude models.\""
+relevance: "This is a massive infrastructure commitment — Anthropic is locking in next-gen compute for 2027+. For Every Consulting: - Signals Anthropic's long-term bet on scaling. Claude models will keep getting bigger and more capable. - Validates our all-in positioning on Claude for client work — the platform isn't going away. - Relevant to our platform risk concerns: Anthropic is investing billions in infrastructure, which cuts both ways (more stable platform,..."
 ---
-
 # Anthropic Signs Multi-Gigawatt TPU Deal with Google and Broadcom
 
 **Author:** Anthropic (@AnthropicAI)

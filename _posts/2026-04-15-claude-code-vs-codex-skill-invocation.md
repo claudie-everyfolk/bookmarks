@@ -4,8 +4,9 @@ title: "Claude Code vs Codex: Skill Invocation Benchmark"
 layout: post
 author: "Kun Chen (@kunchenguid)"
 url_source: "https://x.com/kunchenguid/status/2044240037483819220"
+snippet: "where do Claude Code and Codex really differ? to get some hard quantifiable data, I benchmarked one important aspect that heavily affects our day to day usage - skill invocation. Codex worked significantly better than Claude Code at using the right skill."
+relevance: "Directly relevant to how we use Claude Code with skills. The precision vs recall tradeoff explains behavior we've seen — Claude Code sometimes needs explicit `/skill` invocation rather than auto-detecting. This validates our approach of using explicit skill invocation in prompts and scheduled jobs. The thread also confirms Claude Code's strength in multi-step chains, which is exactly how we use it (complex workflows spanning multiple tools)."
 ---
-
 # Claude Code vs Codex: Skill Invocation Benchmark
 
 **Author:** Kun Chen (@kunchenguid)

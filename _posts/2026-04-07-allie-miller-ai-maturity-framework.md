@@ -4,8 +4,9 @@ title: "Allie K. Miller - AI Maturity Framework for Hiring"
 layout: post
 author: "Allie K. Miller (@alliekmiller)"
 url_source: "https://x.com/alliekmiller/status/2041577000804991485"
+snippet: "I stole this framework, and it has genuinely been one of the most helpful hiring and onboarding guides my team uses. Being AI-first means nothing without solving real business problems. It's not enough to just use AI. I know plenty of folks using AI dozens of times a day, 7 days a week, who are still working at a Level..."
+relevance: "- Directly applicable to consulting: This 5-level AI maturity framework maps cleanly to how we assess clients during discovery. Level 1-2 = surface users, Level 3 = solution-oriented, Level 4 = action-oriented with tradeoff awareness, Level 5 = full ownership. - For Natalia: Could be adapted into our discovery framework or client assessment rubric. When we do intake, we're essentially trying to figure out where teams sit on this spectrum...."
 ---
-
 # Allie K. Miller - AI Maturity Framework for Hiring
 
 **Author:** Allie K. Miller (@alliekmiller)

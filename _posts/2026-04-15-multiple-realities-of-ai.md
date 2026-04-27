@@ -4,8 +4,9 @@ title: "Multiple Realities of AI: A Framework for Business"
 layout: post
 author: "Allie K. Miller (@alliekmiller)"
 url_source: "https://x.com/alliekmiller/status/2044132092137586950"
+snippet: "1. **Free AI** — decent for simple tasks, treated like an unreliable intern"
+relevance: "This is a perfect framing for Every Consulting's sales conversations. Our clients span tiers 2-5. The \"Super AI\" vs \"Basic Enterprise\" gap is exactly what we help bridge. This taxonomy could be adapted for discovery calls — \"where are you on this spectrum, and where do you want to be?\" Also validates our bet on training people at the \"Super AI\" tier rather than just enterprise rollouts."
 ---
-
 # Multiple Realities of AI: A Framework for Business
 
 **Author:** Allie K. Miller (@alliekmiller)

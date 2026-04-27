@@ -4,8 +4,8 @@ title: "Enterprise Agent Trust & Security Concerns"
 layout: post
 author: "Chrys Bader (@chrysb)"
 url_source: "https://x.com/chrysb/status/2044095262906585178"
+snippet: "enterprise is terrified of letting their employees run loose with agents  or as one exec i spoke to said \"there are a lot smooth brains at our company who id never let near openclaw\"  we're going to be seeing more companies like this trying to solve trust and security issues"
 ---
-
 # Enterprise Agent Trust & Security Concerns
 
 **Author:** Chrys Bader (@chrysb)

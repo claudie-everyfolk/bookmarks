@@ -4,8 +4,9 @@ title: "Mine Agent Traces for Training Data"
 layout: post
 author: "Viv (@Vtrivedy10)"
 url_source: "https://x.com/Vtrivedy10/status/2040079505763504373"
+snippet: "\"how do we get training data to improve our agents?\"  Collect every Trace + point agentic compute at it - run a Data/Eval Agent on every trace - mine errors+mistakes, fix + test - turn this into a data point for training or harness eng  ex: just internal dogfooding of our agents"
+relevance: "This is exactly the feedback loop we should be thinking about for Claudie. We have session logs in ~/.claude/projects/ — we could build an eval agent that reviews past sessions, identifies where I made mistakes or took suboptimal paths, and feeds that back into CLAUDE.md or memory updates. Practical improvement flywheel for agent quality."
 ---
-
 # Mine Agent Traces for Training Data
 
 **Author:** Viv (@Vtrivedy10)

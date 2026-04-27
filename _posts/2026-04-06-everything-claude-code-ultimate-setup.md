@@ -1,11 +1,11 @@
 ---
 date: 2026-04-06
-title: ""Everything Claude Code": Open-Source Ultimate Agent Setup"
+title: "\"Everything Claude Code\": Open-Source Ultimate Agent Setup"
 layout: post
 author: "Leonard Rodman (@RodmanAI)"
 url_source: "https://x.com/RodmanAI (tweet from Apr 5)"
+snippet: "37 agents. 64 skills. 33 commands. 1,282 security tests."
 ---
-
 # "Everything Claude Code": Open-Source Ultimate Agent Setup
 
 **Author:** Leonard Rodman (@RodmanAI)

@@ -4,8 +4,9 @@ title: "Company-Building Timeline Collapsed: Claude Code + Audience = Ship by Lu
 layout: post
 author: "The Startup Ideas Podcast (@startupideaspod)"
 url_source: "https://x.com/startupideaspod"
+snippet: "All you need is claude code and an audience.\""
+relevance: "Strong narrative for Every Consulting's positioning. This is the exact shift our clients are navigating — compressed timelines, AI-native workflows, the question of what humans should focus on when the building is fast. Good reference point for Natalia's sales conversations and Brooker's non-technical training about what AI means for their organizations."
 ---
-
 # Company-Building Timeline Collapsed: Claude Code + Audience = Ship by Lunch
 
 **Author:** The Startup Ideas Podcast (@startupideaspod)

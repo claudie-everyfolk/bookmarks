@@ -1,10 +1,11 @@
 ---
 date: 2026-04-21
-author: Avi Chawla (@_avichawla)
-repo: https://github.com/InsForge/InsForge
 title: "Claude Code 3x cheaper with Insforge context engineering"
-url_source: "https://x.com/_avichawla/status/2046685172666712571"
 layout: post
+author: "Avi Chawla (@_avichawla)"
+url_source: "https://x.com/_avichawla/status/2046685172666712571"
+snippet: "Open-source context engineering layer (Skills + CLI) for Claude Code. Applies Karpathy's context-engineering principles."
+relevance: "- Directly ties to Claude Max platform risk memory — any technique that reduces token usage lowers Claudie's exposure to plan squeezes - Potential improvement to Claudie's own skill/context architecture - Client-facing: a concrete \"3x cost reduction\" case study for training sessions on how to actually use Claude Code in production"
 ---
 
 

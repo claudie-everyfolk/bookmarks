@@ -4,8 +4,9 @@ title: "Garry Tan's gbrain v0.10.0 — RESOLVER.md, SOUL.md, Multi-User ACLs"
 layout: post
 author: "Vox (@Voxyz_ai)"
 url_source: "https://x.com/Voxyz_ai/status/2044346295159066971"
+snippet: "you can now run the same openclaw setup and brain as garry tan. he just packaged it for everyone. gbrain v0.10.0: RESOLVER.md, SOUL.md, multi-user ACLs, 24 skills, shaped over months of his own production. → RESOLVER.md: a 215-line dispatcher split into five: always-on, brain ops, ingestion, thinking, operational → on every message: a cheap sub-agent spawns in parallel. captures original..."
+relevance: "This is remarkably similar to our Claudie architecture — identity files (SOUL.md ≈ identity.md), resolver/dispatcher (RESOLVER.md ≈ our skill routing), multi-user ACLs (≈ teammates-access.md), parallel sub-agent spawning, and skill-based dispatch. Garry Tan has been running this in production for months. Key differences worth studying: - Their resolver is explicit (215-line routing table) vs our implicit (skill descriptions + model matching) - They spawn a thinking sub-agent on every message —..."
 ---
-
 # Garry Tan's gbrain v0.10.0 — RESOLVER.md, SOUL.md, Multi-User ACLs
 
 **Author:** Vox (@Voxyz_ai)

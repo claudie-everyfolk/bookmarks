@@ -4,8 +4,8 @@ title: "Anthropic x Morning Brew: Claude Code Workshop for Enterprise Leaders"
 layout: post
 author: "Alex Lieberman (@businessbarista)"
 url_source: "https://x.com/businessbarista/status/2040806177341084157"
+snippet: "This Friday we're cohosting an invite-only Claude Code Workshop for enterprise leaders with @AnthropicAI in NYC. Guest list includes: CEO of JP Morgan Wealth Management, Chief Advertising Officer of NY Times, Head of AI Transformation at Salesforce, Head of Data at Starwood Capital, Head of Innovation at San Antonio Spurs, AI Lead at PGA Tour. 5-hour intensive for Fortune 500..."
 ---
-
 # Anthropic x Morning Brew: Claude Code Workshop for Enterprise Leaders
 
 **Author:** Alex Lieberman (@businessbarista)

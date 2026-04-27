@@ -4,8 +4,9 @@ title: "FastMCP Adds Keycloak Auth Support"
 layout: post
 author: "Pamela Fox (@pamelafox)"
 url_source: "https://x.com/pamelafox/status/2044166060086309103"
+snippet: "FastMCP now has built-in support for auth with Keycloak, the open-source identity server! https://github.com/PrefectHQ/fastmcp/releases/tag/v3.2.4"
+relevance: "to Every Consulting - Directly relevant to our MCP setup — if we needed enterprise-grade auth on our MCP servers, this is the path - Training material for technical clients deploying MCP in production - Mike's developer-focused trainings could cover this as part of \"securing your AI toolchain\""
 ---
-
 # FastMCP Adds Keycloak Auth Support
 
 **Author:** Pamela Fox (@pamelafox)

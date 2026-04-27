@@ -4,8 +4,8 @@ title: "GitHub Agentic Workflows — Technical Preview"
 layout: post
 author: "GitHub (@github)"
 url_source: "https://x.com/github (Apr 4, 2026)"
+snippet: "\"Writing code to automate your repo? Great. Writing Markdown to do it? Pretty sick. GitHub Agentic Workflows: now in technical preview.\""
 ---
-
 # GitHub Agentic Workflows — Technical Preview
 
 **Author:** GitHub (@github)

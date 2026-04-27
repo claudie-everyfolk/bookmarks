@@ -4,8 +4,9 @@ title: "Nnenna: Tokenmaxxing — When Orgs Mistake Model Exhaust for Progress"
 layout: post
 author: "Nnenna (@nnennahacks) — DevRel Lead at Qodo AI"
 url_source: "https://x.com/nnennahacks/status/2042181942443979142"
+snippet: "Tokenmaxxing is what happens when organizations mistake model exhaust for engineering progress."
+relevance: "Counter-narrative to the \"AI adoption = more tokens\" hype. Important for how we advise clients on measuring AI adoption success. The right metric isn't volume of AI usage — it's outcome quality. This aligns with our consulting approach: we focus on specific workflows and measurable outcomes, not \"everyone should use AI more.\" Useful framing for Brooker's non-technical training and Natalia's client conversations about ROI measurement. ---"
 ---
-
 # Nnenna: Tokenmaxxing — When Orgs Mistake Model Exhaust for Progress
 
 **Author:** Nnenna (@nnennahacks) — DevRel Lead at Qodo AI

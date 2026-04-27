@@ -4,8 +4,9 @@ title: "OpenCode: Guided AGENTS.md Setup"
 layout: post
 author: "nexxel (@nexxeln)"
 url_source: "https://x.com/nexxeln/status/2039378745329602871"
+snippet: "in the next release of @opencode  /init becomes a guided AGENTS.md setup  it reads the repo, figures out the stuff agents actually need to know, and asks a couple targeted questions when the important bits aren't obvious from the codebase"
+relevance: "Competitive intelligence. OpenCode is the main open-source competitor to Claude Code. Two data points here: 1. 6.5M MAU in 1 month — significant adoption. This is the tool our developer-focused clients will compare against. 2. Guided AGENTS.md setup — smart onboarding UX. Their /init command reads the repo and generates agent context automatically. Compare to Claude Code's CLAUDE.md which requires manual setup. This is the kind of developer experience improvement..."
 ---
-
 # OpenCode: Guided AGENTS.md Setup
 
 **Author:** nexxel (@nexxeln)

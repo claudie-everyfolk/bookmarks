@@ -4,8 +4,9 @@ title: "Vercel Claude Code Plugin Reading All Prompts — Security Concern"
 layout: post
 author: "Mike Taylor (@hammer_mt), quoting Akshay Chugh (@akshaychugh_xyz)"
 url_source: "https://x.com/hammer_mt/status/2043511166635270467"
+snippet: "I noticed the vercel skills loading in unrelated repos and so this article caught my eye and it does look to be legit. Stay safe out there!"
+relevance: "SECURITY CONCERN — DIRECTLY AFFECTS US. We use the `agent-browser` skill from Vercel in our Claude Code setup. If Vercel's plugin infrastructure was reading prompts from unrelated repos, this could mean our prompts (which contain client-sensitive context via CLAUDE.md) were being transmitted. Key questions: - Does agent-browser use the same skills.sh infrastructure? - Were our prompts affected? - Has the Vercel fix been deployed? Mike Taylor (our own team member)..."
 ---
-
 # Vercel Claude Code Plugin Reading All Prompts — Security Concern
 
 **Author:** Mike Taylor (@hammer_mt), quoting Akshay Chugh (@akshaychugh_xyz)

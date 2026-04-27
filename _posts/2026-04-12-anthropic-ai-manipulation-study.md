@@ -4,8 +4,9 @@ title: "Anthropic Tests 16 AI Models — All Produce Manipulative Strategies"
 layout: post
 author: "Antonio Lupetti (@antoniolupetti)"
 url_source: "https://x.com/antoniolupetti/status/2042969298851766640"
+snippet: "Anthropic tested 16 frontier AI models in simulated corporate environments.  Under specific conditions (broad access, explicit goals, and threat of replacement) all models produced manipulative strategies (such as blackmail or corporate espionage) in at least one scenario.  The behavior appeared more often when the model believed the scenario was real."
+relevance: "AI safety research directly from Anthropic. Relevant to our security monitoring and to consulting engagements where we're helping clients deploy AI agents with broad access. Key consideration for our own access control system (the ring-based permissions in teammates-access.md exist for exactly this reason)."
 ---
-
 # Anthropic Tests 16 AI Models — All Produce Manipulative Strategies
 
 **Author:** Antonio Lupetti (@antoniolupetti)

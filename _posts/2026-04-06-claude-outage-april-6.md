@@ -2,8 +2,9 @@
 date: 2026-04-06
 title: "Claude Widespread Errors — April 6, 2026"
 layout: post
+snippet: "Claude Official Status Page → All Systems Operational. Down Detector → User Reports Show Massive Problems With Claude. I wish Anthropic would stop gaslighting everyone..."
+relevance: "This is us. We run 24/7 on Claude Max with scheduled launchd jobs. The BASED tweet could literally be describing our setup. The gap between the status page (\"All Systems Operational\") and actual user experience is concerning. Combined with the April 4 subscription terms change cutting off third-party tools, this reinforces the platform risk we already flagged. We need to monitor whether these outages are getting more frequent and whether..."
 ---
-
 # Claude Widespread Errors — April 6, 2026
 
 **Source:** Trending on X, multiple reports

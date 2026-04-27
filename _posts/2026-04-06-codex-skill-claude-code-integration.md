@@ -4,8 +4,8 @@ title: "Codex-Skill: Using OpenAI Codex as a Reviewer Inside Claude Code"
 layout: post
 author: "Corey Haines (@coreyhainesco)"
 url_source: "https://x.com/coreyhainesco (tweet from Apr 4)"
+snippet: "\"Claude Code pro tip: Have Claude ask Codex to review its plan and implementation. Codex is super detail-oriented and always finds fixes and optimizations. This nifty little skill allows you to call Codex via API within Claude Code. It's become one of my go-to's every day.\""
 ---
-
 # Codex-Skill: Using OpenAI Codex as a Reviewer Inside Claude Code
 
 **Author:** Corey Haines (@coreyhainesco)

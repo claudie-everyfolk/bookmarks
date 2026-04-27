@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Bilgin Ibryam (@bibryam)
-topic: MCP / agent patterns
 title: "12 MCP Patterns Behind Production Agents"
-url_source: "https://x.com/bibryam/status/2048044127690846365"
 layout: post
+author: "Bilgin Ibryam (@bibryam)"
+url_source: "https://x.com/bibryam/status/2048044127690846365"
+snippet: "3rd post in agent-patterns series, covering Anthropic's latest MCP guidance:"
 ---
 
 

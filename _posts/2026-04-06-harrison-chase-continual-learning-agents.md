@@ -4,8 +4,8 @@ title: "Continual Learning for AI Agents — Harrison Chase"
 layout: post
 author: "Harrison Chase (@hwchase17)"
 url_source: "https://x.com/hwchase17 (thread from Apr 4)"
+snippet: "Harrison Chase (LangChain founder) published a comparison framework for continual learning in AI agents across three layers: Model, Harness, and Context."
 ---
-
 # Continual Learning for AI Agents — Harrison Chase
 
 **Author:** Harrison Chase (@hwchase17)

@@ -4,8 +4,9 @@ title: "Anthropic Project Glasswing: Claude Mythos Preview for Vulnerability Dis
 layout: post
 author: "Anthropic (@AnthropicAI)"
 url_source: "https://x.com/AnthropicAI/status/2041578392852517128"
+snippet: "Introducing Project Glasswing: an urgent initiative to help secure the world's most critical software.  It's powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans."
+relevance: "Dario Amodei quote (via @cgtwts): \"We haven't trained it specifically to be good at cyber, we trained it to be good at code. But as a side effect of being good at code it's good at cyber too.\" Cloudflare stock ($NET) dropped 13% on the day of announcement, down 22% in 4 days — market interpreting this as AI models being able to replace traditional security SaaS."
 ---
-
 # Anthropic Project Glasswing: Claude Mythos Preview for Vulnerability Discovery
 
 **Author:** Anthropic (@AnthropicAI)

@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: ericosiu (@ericosiu)
-topic: agent quality / judgment
 title: "Your AI agents waste your time because they lack a system for judgment"
-url_source: "https://x.com/ericosiu/status/2047796648768946373"
 layout: post
+author: "ericosiu (@ericosiu)"
+url_source: "https://x.com/ericosiu/status/2047796648768946373"
+snippet: "Anecdote: agent shipped a blog post at 2am that hit every SEO benchmark — keywords, structure, internal links — but the take was wrong. Author killed it before it went live. Argues for an explicit judgment layer beyond mechanical rubrics."
 ---
 
 

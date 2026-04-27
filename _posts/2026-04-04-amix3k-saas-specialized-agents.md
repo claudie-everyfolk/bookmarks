@@ -4,8 +4,9 @@ title: "SaaS apps are adding specialized agents — the homepage is becoming a c
 layout: post
 author: "Amir Salihefendic (@amix3k), CEO of Doist (Todoist/Twist)"
 url_source: "https://x.com/amix3k/status/2040383838933619142"
+snippet: "What matters here isn't the chat interface, but that SaaS apps are adding specialized agents.  That may also point to where SaaS is heading. Attio, for example, is no longer just offering a CRM interface. It's also building a CRM agent that is far more optimized for CRM workflows"
+relevance: "This is the SaaS-to-agents shift in real time. Linear, PostHog, Attio all replacing dashboards with chat bars. The insight: it's not about chat UI, it's about domain-specific agents embedded in workflows. Directly relevant to our consulting work — clients using these tools will need to understand the agent layer, not just the chat interface."
 ---
-
 # SaaS apps are adding specialized agents — the homepage is becoming a chat bar
 
 **Author:** Amir Salihefendic (@amix3k), CEO of Doist (Todoist/Twist)

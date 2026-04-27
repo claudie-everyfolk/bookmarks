@@ -1,10 +1,10 @@
 ---
 date: 2026-04-24
-author: Aakash Gupta (@aakashgupta)
-topic: claude-routines, meeting-prep
 title: "7:30 AM Claude Routine: calendar + Gmail → meeting brief"
-url_source: "https://x.com/aakashgupta/status/2047763775332454574"
 layout: post
+author: "Aakash Gupta (@aakashgupta)"
+url_source: "https://x.com/aakashgupta/status/2047763775332454574"
+snippet: "I have one Claude Routine that runs at 7:30 AM every weekday and it has changed how I show up to meetings. It reads my Google Calendar, finds every meeting with 2+ participants, pulls the last 10 email threads with those people from Gmail, and writes one paragraph per meeting in..."
 ---
 
 

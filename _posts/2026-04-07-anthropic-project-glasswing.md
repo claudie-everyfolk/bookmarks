@@ -4,8 +4,9 @@ title: "Anthropic - Project Glasswing"
 layout: post
 author: "Anthropic (@AnthropicAI)"
 url_source: "https://x.com/AnthropicAI/status/2041578392852517128"
+snippet: "Introducing Project Glasswing: an urgent initiative to help secure the world's most critical software.  It's powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans."
+relevance: "- AI Security: Anthropic is entering the automated security scanning space with a dedicated model. This is a significant move — not just a feature, but a new model class optimized for vulnerability detection. - Consulting implications: Clients in finance and media (Bloomberg, NYT) should know about this. Automated vulnerability scanning powered by frontier models changes the security posture conversation. - Platform signal: Anthropic continues to expand beyond chat/coding into..."
 ---
-
 # Anthropic - Project Glasswing
 
 **Author:** Anthropic (@AnthropicAI)

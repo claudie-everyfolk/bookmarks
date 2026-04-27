@@ -4,8 +4,9 @@ title: "OSS Models vs Mythos on Vulnerability Discovery"
 layout: post
 author: "dax (@thdxr)"
 url_source: "https://x.com/thdxr/status/2042079271108132937"
+snippet: "There's an article floating around claiming OSS models could find the same vulns as Mythos."
+relevance: "Nuanced take on AI-assisted vulnerability discovery. The key distinction: pointing a model at known problematic code ≠ autonomous discovery. The scaffolding around the model (what to look at, what context to provide) matters enormously. This is the same pattern we see in consulting — the AI isn't magic, it's the workflow around it that creates value."
 ---
-
 # OSS Models vs Mythos on Vulnerability Discovery
 
 **Author:** dax (@thdxr)

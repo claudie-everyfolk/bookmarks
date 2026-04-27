@@ -4,8 +4,9 @@ title: "Skill Chaining and Why Skills Should Be Actions"
 layout: post
 author: "akira (@realmlcore_)"
 url_source: "https://randomlabs.ai/blog/skill-chaining"
+snippet: "\"Skill chaining and why skills should be actions. This article was mostly crossposted from our blog. Most agent systems treat skills as manually invoked static prompts. W...\""
+relevance: "Directly applicable to how Claudie's skills work. We already have some chaining (e.g., discovery-to-process-map → presentation pipeline), but this formalizes the pattern. Could inform how we design client-facing agent workflows too. Connects to Vox's \"Skill Loops\" concept — moving from skill collections to skill pipelines."
 ---
-
 # Skill Chaining and Why Skills Should Be Actions
 
 **Author:** akira (@realmlcore_)

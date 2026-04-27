@@ -4,8 +4,9 @@ title: "How Long It Takes to Teach People AI Agents"
 layout: post
 author: "Allie K. Miller (@alliekmiller)"
 url_source: "https://x.com/alliekmiller/status/[from feed]"
+snippet: "Let me break down exactly how long it takes me to teach people AI agents.  Give business professionals their first big wow moment in under 2 minutes Teach them meaningful use in under 17 Teach them deep personalization in under 55 Full superuser powers in under 4 hours"
+relevance: "Direct competitor intelligence for our training practice. Allie K. Miller is one of the most visible AI trainers in the market. Her timeline benchmarks are useful for calibrating our own bootcamp and training session pacing: - 2 min to wow moment → aligns with our discovery demo approach - 17 min to meaningful use → our bootcamps should hit this or beat it - 4 hours to \"superuser\" → our..."
 ---
-
 # How Long It Takes to Teach People AI Agents
 
 **Author:** Allie K. Miller (@alliekmiller)

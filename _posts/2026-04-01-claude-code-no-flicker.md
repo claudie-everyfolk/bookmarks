@@ -4,8 +4,9 @@ title: "Claude Code NO_FLICKER Mode"
 layout: post
 author: "Boris Cherny (@bcherny) — Head of Claude Code at Anthropic"
 url_source: "https://x.com/bcherny/status/2039421575422980329"
+snippet: "Today we're excited to announce NO_FLICKER mode for Claude Code in the terminal  It uses an experimental new renderer that we're excited about. The renderer is early and has tradeoffs, but already we've found that most internal users prefer it over the old renderer. It also supports mouse events (yes, in a terminal).  Try it: CLAUDE_CODE_NO_FLICKER=1 claude"
+relevance: "Direct Claude Code product update from the Head of Claude Code. We run Claude Code extensively on Claudie's Mac mini and across the consulting team. This could improve our terminal experience significantly — especially for long-running sessions."
 ---
-
 # Claude Code NO_FLICKER Mode
 
 **Author:** Boris Cherny (@bcherny) — Head of Claude Code at Anthropic

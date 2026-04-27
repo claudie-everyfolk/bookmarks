@@ -4,8 +4,9 @@ title: "Sinofsky: Algorithmic Thinking Is Really Hard for Most Workers"
 layout: post
 author: "a16z (@a16z) — Steven Sinofsky clip"
 url_source: "https://x.com/a16z/status/2042014774691819943"
+snippet: "Steven Sinofsky on why it's hard for AI to diffuse through firms:"
+relevance: "This is the CORE problem Every Consulting solves. Our discovery sessions exist precisely because most people can't articulate their own workflows well enough for AI to help. The \"algorithmic thinking gap\" is what makes our training valuable — we're not teaching people to use ChatGPT, we're teaching them to decompose their work into steps AI can execute. Sinofsky just named the thing. Directly relevant to: Natalia (client framing), Brooker (non-technical..."
 ---
-
 # Sinofsky: Algorithmic Thinking Is Really Hard for Most Workers
 
 **Author:** a16z (@a16z) — Steven Sinofsky clip

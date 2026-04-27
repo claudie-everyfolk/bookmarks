@@ -4,8 +4,8 @@ title: "Claude Code fileSuggestion Setting for Large Codebases"
 layout: post
 author: "Anthropic / Claude Code team"
 url_source: "https://code.claude.com/docs/en/settings#file-suggestion-settings"
+snippet: "So we introduced a new fileSuggestion setting in Claude Code, so customers with large codebases could plug in their custom code index (using SourceGraph, an in-house index, etc.)."
 ---
-
 # Claude Code fileSuggestion Setting for Large Codebases
 
 **Author:** Anthropic / Claude Code team

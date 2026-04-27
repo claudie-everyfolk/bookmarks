@@ -4,8 +4,9 @@ title: "Org Design in the Age of AI"
 layout: post
 author: "Freda Duan (@FredaDuan)"
 url_source: "https://x.com/FredaDuan/status/2043129404101218510"
+snippet: "Org Design in the Age of AI — Freda Duan has spent months talking to companies (startups to megacaps) about how AI is changing how they work. Key insight: everyone is adding AI to workflows, almost no one is asking why the workflow looks that way in the first place."
+relevance: "This is the theoretical framework behind what Every Consulting sells. Our clients are in the \"adding AI to workflows\" stage — this piece articulates why that's not enough and what the next stage looks like. Direct ammunition for discovery calls, training sessions, and proposals."
 ---
-
 # Org Design in the Age of AI
 
 **Author:** Freda Duan (@FredaDuan)

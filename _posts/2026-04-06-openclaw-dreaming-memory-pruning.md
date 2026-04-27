@@ -1,11 +1,11 @@
 ---
 date: 2026-04-06
-title: "OpenClaw 4.5: Agent "Dreaming" for Memory Consolidation"
+title: "OpenClaw 4.5: Agent \"Dreaming\" for Memory Consolidation"
 layout: post
 author: "Vox (@Voxyz_ai) and OpenClaw (@openclaw)"
 url_source: "https://x.com/Voxyz_ai (tweet ~4h ago)"
+snippet: "Vox: \"openclaw 4.5 added dreaming. agent memory only grows, nothing gets pruned. your brain does it in your sleep. your agent doesn't.\""
 ---
-
 # OpenClaw 4.5: Agent "Dreaming" for Memory Consolidation
 
 **Author:** Vox (@Voxyz_ai) and OpenClaw (@openclaw)

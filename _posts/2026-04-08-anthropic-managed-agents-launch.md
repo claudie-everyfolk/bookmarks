@@ -4,8 +4,9 @@ title: "Anthropic Launches Claude Managed Agents — Public Beta"
 layout: post
 author: "Claude (@claudeai)"
 url_source: "https://x.com/claudeai/status/2041927687460024721"
+snippet: "Introducing Claude Managed Agents: everything you need to build and deploy agents at scale. It pairs an agent harness tuned for performance with production infrastructure, so you can go from prototype to launch in days. Now in public beta on the Claude Platform."
+relevance: "This is the biggest Anthropic platform announcement in months. Managed Agents is Anthropic's play to become an agent platform, not just a model provider. Key details from the ecosystem reaction: - Diptanu Choudhury (@diptanu) broke down the architecture: the harness should NOT run in a sandbox, and externalizing it in a durable execution framework allows separate state for session progress — meaning harnesses can restart from where they left off...."
 ---
-
 # Anthropic Launches Claude Managed Agents — Public Beta
 
 **Author:** Claude (@claudeai)

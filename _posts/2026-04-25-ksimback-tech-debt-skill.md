@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Kevin Simback (@KSimback)
-topic: claude-code-skills
 title: "/tech-debt-skill — file-cited tech debt review"
-url_source: "https://x.com/KSimback/status/2048166748575203593"
 layout: post
+author: "Kevin Simback (@KSimback)"
+url_source: "https://x.com/KSimback/status/2048166748575203593"
+snippet: "Weekends are for building... I am publishing a skill I made... it's one command /tech-debt-skill — and you'll get back a very thorough review file with everything that needs to be addressed.  https://github.com/ksimback/tech-debt-skill"
 ---
 
 

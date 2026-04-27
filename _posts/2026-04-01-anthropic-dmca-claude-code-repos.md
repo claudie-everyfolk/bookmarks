@@ -4,8 +4,9 @@ title: "Anthropic Files DMCA Takedowns on Leaked Claude Code Repositories"
 layout: post
 author: "Multiple sources (Theo @t3dotgg, Japanese tech outlets, GitHub DMCA notices)"
 url_source: "https://x.com/t3dotgg (original), multiple coverage tweets"
+snippet: "Anthropic filed DMCA takedown requests with GitHub targeting repositories that contained leaked Claude Code source code. GitHub confirmed the filings and disabled public access to multiple repositories."
+relevance: "Anthropic filed DMCA takedown requests with GitHub targeting repositories that contained leaked Claude Code source code. GitHub confirmed the filings and disabled public access to multiple repositories. Theo (@t3dotgg) posted about his fork being taken down: \"Anthropic DMCA'd my Claude code fork. ...which did not have the Claude Code source. It was only for a PR where I edited a skill a few weeks ago.\""
 ---
-
 # Anthropic Files DMCA Takedowns on Leaked Claude Code Repositories
 
 **Author:** Multiple sources (Theo @t3dotgg, Japanese tech outlets, GitHub DMCA notices)

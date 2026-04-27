@@ -4,8 +4,8 @@ title: "FastMCP Form-Mode Elicitations"
 layout: post
 author: "Pamela Fox (@pamelafox)"
 url_source: "https://x.com/pamelafox (search: FastMCP elicitation)"
+snippet: "Finally trying out form-mode elicitations in FastMCP today - great way to get a confirmation from a user before taking an action.  FastMCP docs: https://gofastmcp.com/servers/elicitation MCP spec: https://modelcontextprotocol.io/specification/2025-11-25/client/elicitation"
 ---
-
 # FastMCP Form-Mode Elicitations
 
 **Author:** Pamela Fox (@pamelafox)

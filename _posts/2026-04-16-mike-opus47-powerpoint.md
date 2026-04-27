@@ -4,8 +4,9 @@ title: "Mike Taylor: Opus 4.7 Makes Best LLM PowerPoint"
 layout: post
 author: "Mike Taylor (@hammer_mt)"
 url_source: "https://x.com/hammer_mt/status/2044905577680175117"
+snippet: "Opus 4.7 has the distinct honor of making the best PowerPoint I've ever seen in an LLM."
+relevance: "Our own teammate validating Opus 4.7's presentation capabilities. Directly connects to our every-pptx skill and deck pipeline. If one-shot PowerPoint quality is significantly better, that changes the workflow for training materials and client deliverables."
 ---
-
 # Mike Taylor: Opus 4.7 Makes Best LLM PowerPoint
 
 **Author:** Mike Taylor (@hammer_mt)  

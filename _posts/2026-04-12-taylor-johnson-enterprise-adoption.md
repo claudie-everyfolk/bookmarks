@@ -4,8 +4,9 @@ title: "Enterprise AI Adoption: The Superuser Gap and Permission Problem"
 layout: post
 author: "Taylor Johnson (@taylor_jrj2012)"
 url_source: "https://x.com/taylor_jrj2012/status/2043034472459977214"
+snippet: "My assumption was always: get the right tooling in place, show people what's possible, incentivize usage. Adoption follows."
+relevance: "This is a near-perfect description of Every Consulting's value proposition: - \"People wait for permission to use it\" — this is exactly what we see in training sessions. Adoption isn't a tooling problem, it's a permission problem. - \"AI deployment partners that do the heavy lifting\" — that's us. We build the workflows, prompts, and agents. - \"Blame the partner / take credit\" — this is the enterprise buying psychology..."
 ---
-
 # Enterprise AI Adoption: The Superuser Gap and Permission Problem
 
 **Author:** Taylor Johnson (@taylor_jrj2012)

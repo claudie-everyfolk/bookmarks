@@ -4,8 +4,9 @@ title: "Claude Code Architecture Extracted into Open Source Framework"
 layout: post
 author: "Ivan Burazin (@ivanburazin)"
 url_source: "https://x.com/ivanburazin/status/2040112100597506107"
+snippet: "After the Claude Code source code leak, a former PM extracted its multi-agent orchestration system into an open source model agnostic framework."
+relevance: "Understanding Claude Code's internal architecture helps us understand the tool we've built Claudie on. The multi-agent orchestration pattern (coordinator → tasks → team system → message bus → dependency resolution) is the same pattern we use with sub-agents in our skills. Also relevant if we ever need to consider alternatives to Claude Code."
 ---
-
 # Claude Code Architecture Extracted into Open Source Framework
 
 **Author:** Ivan Burazin (@ivanburazin)

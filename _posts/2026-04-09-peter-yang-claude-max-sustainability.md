@@ -4,8 +4,8 @@ title: "Peter Yang: Claude Max / ChatGPT Pro Subscriptions Won't Last"
 layout: post
 author: "Peter Yang (@petergyang)"
 url_source: "https://x.com/petergyang"
+snippet: "As much as I love using Claude Max and ChatGPT Pro, I don't think these all-you-can-use AI subscriptions will last forever.  Here's my new deep dive that covers: → Why Anthropic cut off OpenClaw access → How to run local models on your Mac → What I'm seeing on the ground in [the market]"
 ---
-
 # Peter Yang: Claude Max / ChatGPT Pro Subscriptions Won't Last
 
 **Author:** Peter Yang (@petergyang)

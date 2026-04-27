@@ -1,10 +1,10 @@
 ---
 date: 2026-04-26
-author: darkzodchi (@zodchiii)
-topic: claude-skills-patterns
 title: "The Anatomy of a Perfect Skill — reverse-engineered from 100 examples"
-url_source: "https://x.com/zodchiii/status/2048499785418596729"
 layout: post
+author: "darkzodchi (@zodchiii)"
+url_source: "https://x.com/zodchiii/status/2048499785418596729"
+snippet: "Most skills don't work. The ones that do follow the same 6 patterns. An Anthropic team member broke his hand and was forced to code without a keyboard for 2 months. He could only talk to an AI agent that wrote and committed code for him. This 30-minute talk teaches you more about skills and AI coding than any $500..."
 ---
 
 

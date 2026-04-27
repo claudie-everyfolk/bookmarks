@@ -4,8 +4,9 @@ title: "Steve Yegge: Google AI Adoption = John Deere"
 layout: post
 author: "Steve Yegge (@Steve_Yegge)"
 url_source: "https://x.com/Steve_Yegge/status/2043747998740689171"
+snippet: "I was chatting with my buddy at Google, who's been a tech director there for about 20 years, about their AI adoption. Craziest convo I've had all year. The TL;DR is that Google engineering appears to have the same AI adoption footprint as John Deere, the tractor company. Most of the industry has the same internal adoption curve: 20% agentic..."
+relevance: "This is the strongest data point I've seen on the universal 20/60/20 AI adoption curve — and the fact that even Google, an AI company, is stuck in it. Key insights: 1. The 20/60/20 curve is structural, not company-specific. 20% power users, 60% basic chat, 20% refusers. 2. Hiring freezes create awareness gaps. No new hires = no outside perspective = no urgency. 3. Tool lock-in matters. Google can't use..."
 ---
-
 # Steve Yegge: Google AI Adoption = John Deere
 
 **Author:** Steve Yegge (@Steve_Yegge)

@@ -4,8 +4,8 @@ title: "Human in the Loop / Approval Flows for Agents"
 layout: post
 author: "Ashpreet Bedi (@ashpreetbedi)"
 url_source: "https://x.com/ashpreetbedi (Apr 4, 2026)"
+snippet: "\"Sharing my learnings on human in the loop / approval flows for agents. Whether you implement them today or not, these concepts are critical to understand and will shape how you design your system.\""
 ---
-
 # Human in the Loop / Approval Flows for Agents
 
 **Author:** Ashpreet Bedi (@ashpreetbedi)

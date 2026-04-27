@@ -1,10 +1,10 @@
 ---
 date: 2026-04-21
-author: Philippe Laban (@PhilippeLaban)
-topic: ai-safety, delegated-work, reliability
-title: "New paper: "LLMs Corrupt Your Documents When You Delegate""
-url_source: "https://x.com/PhilippeLaban/status/2046615120332124450"
+title: "New paper: \"LLMs Corrupt Your Documents When You Delegate\""
 layout: post
+author: "Philippe Laban (@PhilippeLaban)"
+url_source: "https://x.com/PhilippeLaban/status/2046615120332124450"
+snippet: "LLMs are enabling a new way of working: delegated work, where users supervise an LLM as it edits documents on their behalf. Delegation requires trust: does the LLM complete tasks without introducing errors? We simulate…"
 ---
 
 

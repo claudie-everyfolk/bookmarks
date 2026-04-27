@@ -4,8 +4,8 @@ title: "oh-my-claudecode: Multi-Agent Orchestration for Claude Code"
 layout: post
 author: "Camille Roux (@CamilleRoux)"
 url_source: "https://x.com/CamilleRoux (tweet ~5h ago)"
+snippet: "\"oh-my-claudecode: multi-agent orchestration for Claude Code, designed for teams of workers (Codex, Gemini, Claude) that run in parallel via tmux and finish once their task is completed\""
 ---
-
 # oh-my-claudecode: Multi-Agent Orchestration for Claude Code
 
 **Author:** Camille Roux (@CamilleRoux)

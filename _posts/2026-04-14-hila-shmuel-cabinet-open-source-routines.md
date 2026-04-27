@@ -4,8 +4,9 @@ title: "Cabinet: Open-Source Routines for Claude Code"
 layout: post
 author: "Hila Shmuel (@HilaShmuel)"
 url_source: "https://x.com/HilaShmuel/status/2044201813352571095"
+snippet: "I've created the open-source version of Routines in Claude Code.  Meet Cabinet: Your AI Team = LLMs + KB + routines.  Run your routines and get job done 24/7 locally with any agent (Opencode, Codex, Hermes, Openclaw)."
+relevance: "to Every Consulting - We built this pattern manually (launchd + claude -p + scheduled prompts). Cabinet is productizing it. - Worth evaluating as potential infrastructure for client deployments — easier to hand off than our bespoke setup - Nityesh should look at this as a reference for our own agent infra"
 ---
-
 # Cabinet: Open-Source Routines for Claude Code
 
 **Author:** Hila Shmuel (@HilaShmuel)

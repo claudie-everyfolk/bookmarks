@@ -4,8 +4,9 @@ title: "Arvid Kahl — Git Worktrees for Parallelized Agentic Engineering"
 layout: post
 author: "Arvid Kahl (@arvidkahl)"
 url_source: "https://x.com/arvidkahl/status/2041525338715328998"
+snippet: "\"Git worktrees are all the rage for even slightly parallelized agentic engineering. I wonder, how do you deal with 'basic' external dev services? Who spins up a new db (w/ fresh data), or a Redis instance, for each worktree? Is this a thing? Will tooling (have to) embrace this?\""
+relevance: "Git worktrees are becoming the standard pattern for running multiple AI agents in parallel on the same codebase. Claude Code already supports worktree isolation for subagents. The unsolved problem Arvid identifies — external service isolation per worktree — is a real gap that will need tooling."
 ---
-
 # Arvid Kahl — Git Worktrees for Parallelized Agentic Engineering
 
 **Author:** Arvid Kahl (@arvidkahl)

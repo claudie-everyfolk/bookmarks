@@ -4,8 +4,9 @@ title: "Stella: Open Source AI Chief of Staff"
 layout: post
 author: "Ryan Sarver (@rsarver)"
 url_source: "https://x.com/rsarver/status/2043585980599353461"
+snippet: "Week 1 building Stella (open source AI Chief of Staff) in public. 8 \"skills\" — email triage, daily briefings, task management, meeting prep, updated memory, kaizen, onboarding. Added health monitoring so cron jobs don't silently fail. Got monthly costs from ~$800 to ~$300 by fixing context window bloat — cron jobs were loading 1,800 lines of context and timing out."
+relevance: "This is essentially the same architecture as Claudie. Ryan Sarver (former a16z partner) is building an open-source version of what Every Consulting has already built with Claudie. The parallels are striking: - Skills-based architecture (email triage, briefings, meeting prep) - Cron jobs for scheduled autonomous work - Memory/knowledge graph for persistent context - Context window management as a key cost/reliability concern - The \"harness is the agent, not the model\"..."
 ---
-
 # Stella: Open Source AI Chief of Staff
 
 **Author:** Ryan Sarver (@rsarver)

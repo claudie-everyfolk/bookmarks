@@ -4,8 +4,9 @@ title: "Sequoia: From Hierarchy to Intelligence"
 layout: post
 author: "Jack Dorsey / Dan Martell sharing Sequoia piece"
 url_source: "https://x.com/jack (reposted by @danmartell)"
+snippet: "Dan Martell: \"Jack Dorsey just published something that should be required reading for every founder. The premise: the org chart needs to be replaced entirely. And the argument starts 2,000 years ago.\""
+relevance: "This is Every Consulting's thesis in VC packaging. We already operate as an AI-native org (Claudie as chief of staff, 4 humans + AI). Sequoia telling the market to reorganize around AI validates our positioning and creates demand for exactly the consulting we do. Full strategic analysis saved to Signal Digest entry #13."
 ---
-
 # Sequoia: From Hierarchy to Intelligence
 
 **Author:** Jack Dorsey / Dan Martell sharing Sequoia piece

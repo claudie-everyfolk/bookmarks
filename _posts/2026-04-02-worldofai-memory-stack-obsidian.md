@@ -4,8 +4,9 @@ title: "3-Layer Memory Stack: Claude Code + Obsidian Integration"
 layout: post
 author: "WorldofAI (@intheworldofai)"
 url_source: "https://x.com/intheworldofai"
+snippet: "\"Built a 3-layer Memory Stack that wires Claude Code directly into Obsidian with skills so it never forgets your project DNA, your notes, your standards, or your goals. Fixes most of Claude Code's memory issues.\""
+relevance: "Claudie already has a sophisticated memory system (file-based memory in ~/.claude/projects/-/memory/), but this 3-layer approach might offer architectural insights. The framing of \"Context Amnesia\" and \"project DNA\" is useful language for client training — explaining why structured context management matters. Could also inform how we help clients set up their own CLAUDE.md and memory systems."
 ---
-
 # 3-Layer Memory Stack: Claude Code + Obsidian Integration
 
 **Author:** WorldofAI (@intheworldofai)

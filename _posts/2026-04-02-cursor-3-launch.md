@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "Cursor 3 Launch — Agent Orchestration Rewrite"
 layout: post
+snippet: "It's a complete rewrite to turn Cursor into an agent orchestration tool for dispatching, monitoring, and managing AI agents locally and in the cloud."
+relevance: "Dan (Every's CEO) posted this — it's our own team's review. Cursor 3 represents a major strategic shift: IDE → agent orchestration platform. This is the same trend as Claude Code, Codex, etc. — the tool landscape is converging on agent orchestration. Critical for Mike's training curriculum (developer tools vertical) and for understanding where the market is heading."
 ---
-
 # Cursor 3 Launch — Agent Orchestration Rewrite
 
 - **Author:** Dan Shipper (@danshipper)

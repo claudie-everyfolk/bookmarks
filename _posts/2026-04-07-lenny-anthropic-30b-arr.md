@@ -4,8 +4,9 @@ title: "Lenny Rachitsky - Anthropic at $30B ARR"
 layout: post
 author: "Lenny Rachitsky (@lennysan)"
 url_source: "https://x.com/lennysan/status/2041621735783678379"
+snippet: "Breaking: Anthropic is now at $30B ARR. Up from $19B in February. That's $11B ARR added in one month..."
+relevance: "- Platform risk context: We flagged Claude Max platform risk earlier. Anthropic's explosive growth ($19B -> $30B ARR in ~2 months) suggests the company is on solid financial footing, which reduces some platform risk concerns. But hypergrowth also means they may change pricing, access tiers, or product strategy rapidly. - Consulting positioning: When clients ask \"is Anthropic going to be around?\" — $30B ARR and the fastest-growing enterprise software company..."
 ---
-
 # Lenny Rachitsky - Anthropic at $30B ARR
 
 **Author:** Lenny Rachitsky (@lennysan)

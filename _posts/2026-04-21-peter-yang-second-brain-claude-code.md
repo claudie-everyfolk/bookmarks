@@ -1,10 +1,10 @@
 ---
 date: 2026-04-21
-author: Peter Yang (@petergyang)
-topic: claude-code, agent-infrastructure, personal-ai
-title: "Ryan (Mercury VP) 2x'd productivity with Claude Code "second brain" on 5yr work history"
-url_source: "https://x.com/petergyang/status/2046597450279125132"
+title: "Ryan (Mercury VP) 2x'd productivity with Claude Code \"second brain\" on 5yr work history"
 layout: post
+author: "Peter Yang (@petergyang)"
+url_source: "https://x.com/petergyang/status/2046597450279125132"
+snippet: "My next guest Ryan (VP @mercury) 2x'd his productivity by building a second brain in Claude Code trained on 5 years of work history. It runs locally and gets better every day."
 ---
 
 

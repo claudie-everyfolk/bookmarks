@@ -4,8 +4,9 @@ title: "DeepAgents: Subagent Deployment Support"
 layout: post
 author: "Sydney Runkle (@sydneyrunkle)"
 url_source: "https://x.com/sydneyrunkle/status/2045209395881980276"
+snippet: "we just shipped support for subagents with `deepagents deploy`! add an agents/ dir to your project with an AGENTS.md per specialized subagent. subagents are great for task delegation with isolated/optimized context"
+relevance: "The AGENTS.md pattern for subagent specialization is exactly what we do with Claudie's skill system. Each skill is essentially a specialized subagent with its own prompt and context. The \"agents/ directory\" convention is gaining traction as a standard pattern. Worth watching for convergence with Claude Code's native subagent support."
 ---
-
 # DeepAgents: Subagent Deployment Support
 
 **Author:** Sydney Runkle (@sydneyrunkle)

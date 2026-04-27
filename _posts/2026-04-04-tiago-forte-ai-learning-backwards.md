@@ -4,8 +4,9 @@ title: "Getting Better at AI by Getting Better at Thinking, Not AI"
 layout: post
 author: "Tiago Forte (@fortelabs)"
 url_source: "https://x.com/fortelabs (recent tweet)"
+snippet: "Most people think the way to get better at AI is to learn more about AI  I think that's backward"
+relevance: "This captures the exact philosophy behind Every Consulting's training approach. We don't just teach \"how to use ChatGPT\" — we teach people to think about their workflows, identify leverage points, and then apply AI there. The differentiator is the thinking, not the tool knowledge. Good validation of our methodology. Could be a useful quote for Natalia to reference in sales conversations."
 ---
-
 # Getting Better at AI by Getting Better at Thinking, Not AI
 
 **Author:** Tiago Forte (@fortelabs)

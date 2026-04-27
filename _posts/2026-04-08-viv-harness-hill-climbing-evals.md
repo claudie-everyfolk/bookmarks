@@ -4,8 +4,9 @@ title: "Better Harness: A Recipe for Harness Hill-Climbing with Evals"
 layout: post
 author: "Viv (@Vtrivedy10)"
 url_source: "https://x.com/Vtrivedy10 (article linked from tweet)"
+snippet: "Better Harness: A Recipe for Harness Hill-Climbing with Evals TL;DR: We can build better agents by building better harnesses. But to autonomously build a \"better\" harness, we need a strong learning signal to \"hill-climb.\""
+relevance: "This is about systematically improving agent harnesses using evaluation signals — exactly what we need for Claudie. The idea: instead of manually tuning prompts, CLAUDE.md files, and skills, you can use evals to automatically find better configurations. - Nityesh: Could apply this to our Claude Code setup. We already have a harness (CLAUDE.md + skills + hooks). Adding evals could help us systematically improve it. - Client work: The concept..."
 ---
-
 # Better Harness: A Recipe for Harness Hill-Climbing with Evals
 
 **Author:** Viv (@Vtrivedy10)

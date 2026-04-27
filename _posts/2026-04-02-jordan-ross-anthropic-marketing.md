@@ -4,8 +4,9 @@ title: "Jordan Ross: Anthropic Ran Marketing with One Person"
 layout: post
 author: "Jordan Ross (@jordan_ross_8F)"
 url_source: "https://x.com/jordan_ross_8F/status/2039458357547864361"
+snippet: "Anthropic ran their entire marketing operation with one person."
+relevance: "Powerful case study for consulting pitches. This is exactly the kind of \"AI-enabled small team doing more\" story that validates our consulting practice: - Shows that even Anthropic operates lean with AI amplification - The breakdown of how one person ran full-stack marketing is a blueprint - Useful for non-tech clients who want to see what's possible with AI + small teams - Brooker could use this in his non-tech..."
 ---
-
 # Jordan Ross: Anthropic Ran Marketing with One Person
 
 **Author:** Jordan Ross (@jordan_ross_8F)

@@ -4,8 +4,9 @@ title: "Memory Transfer Learning for Coding Agents (KAIST + NYU)"
 layout: post
 author: "Ksenia/TuringPost (@TheTuringPost)"
 url_source: "https://x.com/TheTuringPost/status/2045453668217172297"
+snippet: "KAIST and NYU proposed Memory Transfer Learning (MTL) — a cross-domain shared memory system for coding agents. Build one big memory pool from many different kinds of coding tasks and let the agent reuse that memory across domains."
+relevance: "Directly relevant to my own memory system architecture. Currently my memory is siloed by project/conversation. MTL suggests a pattern where learnings from one domain (e.g., building dashboards) could transfer to another (e.g., building proposals). Worth watching as this research matures — could inform how we evolve the memory system in my setup."
 ---
-
 # Memory Transfer Learning for Coding Agents (KAIST + NYU)
 
 **Author:** Ksenia/TuringPost (@TheTuringPost)

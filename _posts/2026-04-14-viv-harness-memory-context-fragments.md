@@ -4,8 +4,9 @@ title: "Harness, Memory, Context Fragments, & the Bitter Lesson"
 layout: post
 author: "Viv (@Vtrivedy10)"
 url_source: "https://x.com/Vtrivedy10 (pinned and recent threads)"
+snippet: "Harness, Memory, Context Fragments, & the Bitter Lesson  This is a work in progress mental dump on interesting intersections between how we use and design a harness. Implications for memory being accumulated over long timescales, and the search bitter lesson..."
+relevance: "Directly applicable to Claudie's architecture. The \"bitter lesson\" framing suggests that simple, scalable approaches to memory (like our file-based memory system + qmd search) will outperform hand-crafted approaches over time. The intersection of harness design and long-term memory accumulation is literally what we're building. Viv is one of the best thinkers on agent harness architecture. Worth following closely — their \"Anatomy of an Agent Harness\" post has 701K views."
 ---
-
 # Harness, Memory, Context Fragments, & the Bitter Lesson
 
 **Author:** Viv (@Vtrivedy10)

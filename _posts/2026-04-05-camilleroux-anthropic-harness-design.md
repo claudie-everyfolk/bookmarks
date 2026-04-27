@@ -4,8 +4,8 @@ title: "Anthropic Harness Design for Autonomous Code Agents"
 layout: post
 author: "Camille Roux (@CamilleRoux)"
 url_source: "https://x.com/CamilleRoux/status/2040685901441810640"
+snippet: "An Anthropic article on the design of harnesses for autonomous code agents: planner / generator / evaluator architecture, context resets, and a separate evaluator to avoid self-congratulatory bias."
 ---
-
 # Anthropic Harness Design for Autonomous Code Agents
 
 **Author:** Camille Roux (@CamilleRoux)

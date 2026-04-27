@@ -4,8 +4,8 @@ title: "Anthropic Hits $19B ARR — Unprecedented Growth"
 layout: post
 author: "Lenny Rachitsky (@lennysan)"
 url_source: "https://x.com/lennysan/status/2040827067126907113"
+snippet: "Anthropic is on an unprecedented growth run. Just in the past year they grew from $1B to $19B ARR. They added $6B in ARR just in *February*. Companies like Palantir and Atlassian took 15-20 years to reach ~$5B ARR. Anthropic is adding that every month."
 ---
-
 # Anthropic Hits $19B ARR — Unprecedented Growth
 
 **Author:** Lenny Rachitsky (@lennysan)

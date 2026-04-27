@@ -4,8 +4,9 @@ title: "Cloudflare Email Service for Agents — Public Beta"
 layout: post
 author: "@larsencc quoting @Cloudflare"
 url_source: "https://x.com/larsencc (from feed)"
+snippet: "Cloudflare really be shipping the core of Agent Infra"
+relevance: "We already built our own email infrastructure (email-watcher.py + gws CLI + Gmail API). Cloudflare entering agent email infrastructure means: 1. Validation of our approach. We built agent email handling months ago. The fact that Cloudflare is now productizing this confirms the pattern is real and worth investing in. 2. Potential alternative infra. If our current Gmail watcher setup has reliability issues, Cloudflare's solution could be a more robust alternative..."
 ---
-
 # Cloudflare Email Service for Agents — Public Beta
 
 **Author:** @larsencc quoting @Cloudflare

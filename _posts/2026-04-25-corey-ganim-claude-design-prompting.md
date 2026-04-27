@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: Corey Ganim (@coreyganim)
-topic: prompting-claude-design
 title: "80/20 of prompting Claude Design"
-url_source: "https://x.com/coreyganim/status/2048138729282576815"
 layout: post
+author: "Corey Ganim (@coreyganim)"
+url_source: "https://x.com/coreyganim/status/2048138729282576815"
+snippet: "1. Goal: what you're building (landing page, pitch deck, social graphic, prototype) 2. Layout: how it's organized (hero plus features, three columns, side-by-side compare) 3. Content: exact headlines [...]"
 ---
 
 

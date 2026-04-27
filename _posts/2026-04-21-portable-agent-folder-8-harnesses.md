@@ -1,9 +1,11 @@
 ---
 date: 2026-04-21
-author: Shubham Saboo (@Saboo_Shubham_)
 title: "Portable .agent/ folder across 8 coding agent harnesses"
-url_source: "https://x.com/Saboo_Shubham_/status/2046473613105369468"
 layout: post
+author: "Shubham Saboo (@Saboo_Shubham_)"
+url_source: "https://x.com/Saboo_Shubham_/status/2046473613105369468"
+snippet: "Claude Code, OpenClaw, and Hermes Agent can now share the same memory-and-skills layer. One portable .agent/ folder works across 8 coding agent harnesses. Switch tools without losing a single lesson. 100% Opensource."
+relevance: "Directly addresses the Claude Max platform risk documented in memory (Apr 2026: Anthropic tightening third-party access, Claudie has no fallback infra). A portable skills+memory layer means our Claude Code setup — skills, CLAUDE.md, memory files, teammate profiles — could survive a harness change. Worth investigating as insurance, not immediate migration."
 ---
 
 

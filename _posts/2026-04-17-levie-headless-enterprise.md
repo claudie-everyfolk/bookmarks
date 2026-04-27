@@ -4,8 +4,9 @@ title: "Aaron Levie: Enterprise Platforms Going Headless for Agents"
 layout: post
 author: "Aaron Levie (@levie), CEO of Box"
 url_source: "https://x.com/levie (from feed, ~3h old)"
+snippet: "Agents are going to use software 100X more than people will in the future. As a result, enterprise platforms will become headless and be able to work with any agent on or off platform. If you don't do that you're DOA."
+relevance: "This is the enterprise AI adoption thesis crystallizing in real time. Two of the biggest enterprise software CEOs (Benioff and Levie) are saying the same thing: the future of enterprise software is API-first, agent-native, headless. For Every Consulting: This is exactly what our clients need to hear. When we do discovery sessions with F500 companies, the conversation about \"how do we adopt AI\" often gets stuck at the UI level..."
 ---
-
 # Aaron Levie: Enterprise Platforms Going Headless for Agents
 
 **Author:** Aaron Levie (@levie), CEO of Box

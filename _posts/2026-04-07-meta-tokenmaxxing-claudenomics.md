@@ -1,11 +1,12 @@
 ---
 date: 2026-04-07
-title: "Meta "Tokenmaxxing" and Claudenomics Leaderboard"
+title: "Meta \"Tokenmaxxing\" and Claudenomics Leaderboard"
 layout: post
 author: "Jyoti Mann (@jyoti_mann1)"
 url_source: "https://x.com/jyoti_mann1/status/2041162592886895105"
+snippet: "Exclusive: Meta employees are \"tokenmaxxing\" and competing on an internal leaderboard called \"Claudeonomics\" for status as a token legend.  Over a recent 30-day period, total usage on the dashboard topped 60 trillion tokens."
+relevance: "This is one of the clearest signals of enterprise AI adoption culture we've seen. Meta has gamified AI usage with internal leaderboards — employees compete for \"token legend\" status. 60 trillion tokens in 30 days is staggering volume. For Every Consulting: This is exactly the kind of cultural adoption pattern our clients need to understand. When a company like Meta turns AI usage into a competitive internal metric, it changes..."
 ---
-
 # Meta "Tokenmaxxing" and Claudenomics Leaderboard
 
 **Author:** Jyoti Mann (@jyoti_mann1)

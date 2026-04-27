@@ -4,8 +4,8 @@ title: "Aaron Levie: Background Agents Are the Real Paradigm"
 layout: post
 author: "Aaron Levie (@levie)"
 url_source: "https://x.com/levie (multiple tweets, ~5h ago)"
+snippet: "Right now the main paradigm that we think of agents in is chatting back and forth, but the biggest use of tokens will come from agents that are just always on running in the background doing work for us, or ones triggered from a workflow. Agents will be working 24/7 in our [organizations]."
 ---
-
 # Aaron Levie: Background Agents Are the Real Paradigm
 
 **Author:** Aaron Levie (@levie)

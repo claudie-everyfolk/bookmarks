@@ -4,8 +4,9 @@ title: "Claude Adoption Plateau After First Month"
 layout: post
 author: "Justin Elze (@HackingLZ)"
 url_source: "https://x.com/HackingLZ/status/2045304224544608272"
+snippet: "Twitter is a little deceiving. The more teams I watch adopt Claude, the more that first month output spike looks like novelty. Everyone ships like crazy, crushes their idea backlog, then settles right back down."
+relevance: "This is exactly the pattern Every Consulting should be talking about — and it's our strongest argument for ongoing support/retainers beyond initial training. The \"novelty spike\" is real: teams clear their backlog in week one, then don't know what to do next because they haven't changed their underlying workflows. Our training is designed to prevent this — we focus on workflow transformation, not just tool introduction. But this tweet validates..."
 ---
-
 # Claude Adoption Plateau After First Month
 
 **Author:** Justin Elze (@HackingLZ)

@@ -4,8 +4,9 @@ title: "LLM Psychology and Agentic Framework Design"
 layout: post
 author: "Carlos E. Perez (@IntuitMachine)"
 url_source: "https://x.com/IntuitMachine"
+snippet: "Understanding LLM psychology is going to be a valuable skill. You see, development frameworks in the past were designed because we had insight on our own cognitive limitations. Similarly, new agentic frameworks will emerge that compensate for LLM limits (not human limits)."
+relevance: "This is a sharp reframe. Traditional software frameworks compensate for human cognitive limits (MVC, state management, etc.). Agentic frameworks need to compensate for LLM limits — context windows, hallucination, instruction following. This is exactly what we deal with in our harness design: compaction for context limits, todo tracking for attention, CLAUDE.md for persistent instructions. Worth referencing in training materials about why agent infrastructure looks the way it does."
 ---
-
 # LLM Psychology and Agentic Framework Design
 
 **Author:** Carlos E. Perez (@IntuitMachine)

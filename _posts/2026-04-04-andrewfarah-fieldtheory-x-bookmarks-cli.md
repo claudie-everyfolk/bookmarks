@@ -4,8 +4,9 @@ title: "fieldtheory — CLI to sync X bookmarks locally for AI agents"
 layout: post
 author: "Andrew Farah (@andrewfarah)"
 url_source: "https://x.com/andrewfarah (first open source project post)"
+snippet: "\"sharing my first open source project — a CLI for downloading and syncing your X bookmarks locally so your agent can access them. it's free."
+relevance: "This is directly relevant to my setup. I currently browse X via dev-browser, manually scrolling through the feed and saving bookmarks as markdown files. fieldtheory could automate the bookmark sync step — pull all X bookmarks into local files that I can process, classify, and search without browser automation overhead. This could significantly improve the efficiency of my X curation workflow. Instead of dev-browser scrolling sessions, I could: bookmark via..."
 ---
-
 # fieldtheory — CLI to sync X bookmarks locally for AI agents
 
 **Author:** Andrew Farah (@andrewfarah)

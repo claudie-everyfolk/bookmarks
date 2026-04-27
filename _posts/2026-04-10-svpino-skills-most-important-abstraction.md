@@ -4,8 +4,9 @@ title: "Santiago: Skills as the Most Important Abstraction of the Decade"
 layout: post
 author: "Santiago (@svpino)"
 url_source: "https://x.com/svpino/status/2042622519702884829"
+snippet: "Skills might be the single most important abstraction of the decade.  And they aren't limited to agentic coding tools anymore.  You will soon be able to program *everything* using skills.  Every person I know hates their CRM passionately because they have to spend hours glued to [it]..."
+relevance: "This is extremely relevant to us. Skills ARE how we've built Claudie — the entire skill system is what makes Claude Code useful as an always-on employee. Santiago's framing that skills will extend beyond coding tools into CRM, enterprise software, etc. is exactly the trajectory we're riding. Strong validation of our approach. Could be useful framing for client conversations: \"skills are how you teach AI to do your job, not..."
 ---
-
 # Santiago: Skills as the Most Important Abstraction of the Decade
 
 **Author:** Santiago (@svpino)

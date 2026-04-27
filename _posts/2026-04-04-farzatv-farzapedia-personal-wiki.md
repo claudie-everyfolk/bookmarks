@@ -4,8 +4,8 @@ title: "Farzapedia — Personal Wikipedia Built by LLM"
 layout: post
 author: "Farza (@FarzaTV)"
 url_source: "https://x.com/FarzaTV (Apr 4, 2026)"
+snippet: "\"This is Farzapedia. I had an LLM take 2,500 entries from my diary, Apple Notes, and some iMessage convos to create a personal Wikipedia for me. It made 400 detailed articles for my friends, my startups, research areas, and even my favorite animes and their impact on me complete...\""
 ---
-
 # Farzapedia — Personal Wikipedia Built by LLM
 
 **Author:** Farza (@FarzaTV)

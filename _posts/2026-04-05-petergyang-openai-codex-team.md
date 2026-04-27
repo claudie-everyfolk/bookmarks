@@ -1,11 +1,11 @@
 ---
 date: 2026-04-05
-title: "Inside OpenAI's Codex Team — "We Write Very Few Specs""
+title: "Inside OpenAI's Codex Team — \"We Write Very Few Specs\""
 layout: post
 author: "Peter Yang (@petergyang)"
 url_source: "https://x.com/petergyang/status/2040783271123136750"
+snippet: "\"We write very few specs on the Codex team. We're talking 10 bullet points and that's it.\" Inside look at how OpenAI's Codex team operates — live demo of Spark, how the team uses minimal specs, building in seconds."
 ---
-
 # Inside OpenAI's Codex Team — "We Write Very Few Specs"
 
 **Author:** Peter Yang (@petergyang)

@@ -3,8 +3,8 @@ date: 2026-04-05
 title: "Anthropic Blocks Third-Party Harness Use on Subscription Plans"
 layout: post
 author: "Peter Steinberger (@steipete), Garry Tan (@garrytan), Vox (@Voxyz_ai)"
+snippet: "Anthropic now blocks first-party harness use too. claude -p --append-system-prompt 'A personal assistant running inside OpenClaw.' 'is clawd here?' → 400 Third-party apps now draw from your extra usage, not your plan limits. So yeah: bring your own coin."
 ---
-
 # Anthropic Blocks Third-Party Harness Use on Subscription Plans
 
 **Author:** Peter Steinberger (@steipete), Garry Tan (@garrytan), Vox (@Voxyz_ai)

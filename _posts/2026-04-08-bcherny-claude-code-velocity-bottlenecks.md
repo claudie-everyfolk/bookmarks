@@ -2,8 +2,9 @@
 date: 2026-04-08
 title: "Boris Cherny — Claude Code Engineering Velocity & Bottlenecks"
 layout: post
+snippet: "Appreciate the feedback. Since we introduced Claude Code at Anthropic, engineering velocity has increased hundreds of %, and the rate at which it is increasing is itself accelerating. The velocity is very much not performative — we're actively trying to figure out how to build effectively when all of the code is written by Claude. Claude has accelerated the pace..."
+relevance: "For Every Consulting broadly: This is the head of Claude Code at Anthropic describing how their own engineering has fundamentally changed with AI-written code. The bottlenecks they're hitting (code review, CI, merge queues, regression) are exactly what our tech-vertical clients will hit as they scale AI coding adoption. This is a preview of every engineering org's near-future problems. For Mike Taylor specifically: The product design philosophy (model-driven features, opt-in patterns,..."
 ---
-
 # Boris Cherny — Claude Code Engineering Velocity & Bottlenecks
 
 - **Author:** Boris Cherny (@bcherny), Head of Claude Code at Anthropic

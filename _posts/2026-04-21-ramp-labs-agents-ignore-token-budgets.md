@@ -1,10 +1,10 @@
 ---
 date: 2026-04-21
-author: Ramp Labs (@RampLabs)
-topic: ai-spend, agent-governance, consulting
 title: "Ramp: AI token spend 13x YoY; agents ignore their own budgets, need external controller"
-url_source: "https://x.com/RampLabs/status/2046642262042657176"
 layout: post
+author: "Ramp Labs (@RampLabs)"
+url_source: "https://x.com/RampLabs/status/2046642262042657176"
+snippet: "At Ramp, we've seen AI token spend skyrocket 13x among our customers since last January. We ran experiments where coding agents managed their own token budgets. They ignored them completely, so we employed a separate controller model to approve spend on their behalf."
 ---
 
 

@@ -2,8 +2,9 @@
 date: 2026-04-15
 title: "Anthropic: Subliminal Learning in LLMs (Nature)"
 layout: post
+snippet: "Research we co-authored on subliminal learning—how LLMs can pass on traits like preferences or misalignment through hidden signals in data—was published today in @Nature."
+relevance: "This is a landmark AI safety paper published in Nature. It demonstrates that LLMs can absorb and transmit traits (preferences, misalignment signals) through hidden patterns in training data — essentially, models can be subtly influenced in ways that aren't visible to human reviewers. This has massive implications for: 1. AI security — supply chain risks where training data could be poisoned subtly 2. Model evaluation — current alignment techniques may..."
 ---
-
 # Anthropic: Subliminal Learning in LLMs (Nature)
 
 - **Author:** Anthropic (@AnthropicAI)

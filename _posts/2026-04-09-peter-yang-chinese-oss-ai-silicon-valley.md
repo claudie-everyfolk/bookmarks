@@ -4,8 +4,8 @@ title: "Peter Yang: Silicon Valley Quietly Running on Chinese Open-Source AI"
 layout: post
 author: "Peter Yang (@petergyang)"
 url_source: "https://x.com/petergyang"
+snippet: "Silicon Valley is quietly running on Chinese open source AI models.  Here are the receipts: → Cursor confirmed last month that Composer 2 is built on Moonshot's Kimi K2.5 → Cognition's SWE-1.6 model is likely post-trained on Zhipu's GLM → Shopify saved $5M a year by [using open-weight models]"
 ---
-
 # Peter Yang: Silicon Valley Quietly Running on Chinese Open-Source AI
 
 **Author:** Peter Yang (@petergyang)

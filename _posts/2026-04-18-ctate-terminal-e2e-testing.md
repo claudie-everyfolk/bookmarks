@@ -4,8 +4,9 @@ title: "Terminal Automation + E2E Testing with wterm + agent-browser"
 layout: post
 author: "Chris Tate (@ctatedev)"
 url_source: "https://x.com/ctatedev (3h ago)"
+snippet: "Terminal automation + e2e testing solved  Now as simple as snapshot, click, type:  – wterm renders terminal-in-html, every cell in the a11y tree – agent-browser automates pages via the a11y tree  Here's opencode in one browser driving Claude Code in another"
+relevance: "This is relevant to our agent infrastructure. wterm rendering terminals as HTML with full accessibility tree means you could automate terminal interactions the same way you automate web pages. Could be useful for testing our own automation pipelines or for monitoring Claudie's behavior."
 ---
-
 # Terminal Automation + E2E Testing with wterm + agent-browser
 
 **Author:** Chris Tate (@ctatedev)

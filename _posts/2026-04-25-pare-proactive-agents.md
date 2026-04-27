@@ -1,10 +1,10 @@
 ---
 date: 2026-04-25
-author: DAIR.AI (@dair_ai)
-topic: proactive-agents-eval
 title: "PARE — framework for evaluating proactive agents"
-url_source: "https://x.com/dair_ai/status/2048083882327916688"
 layout: post
+author: "DAIR.AI (@dair_ai)"
+url_source: "https://x.com/dair_ai/status/2048083882327916688"
+snippet: "Proactive agents act before you do. But how do you evaluate something that's supposed to anticipate needs you haven't expressed? This work introduces PARE, a framework that models applications as finite state machines [...]"
 ---
 
 

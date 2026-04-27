@@ -2,8 +2,9 @@
 date: 2026-04-18
 title: "Salesforce Going Headless: Agent-Native Pricing Disruption"
 layout: post
+snippet: "There's $1T up for grabs for agent-first startups and this window is WIDE open. Probably 10,000+ niches. 1. Every SaaS company follows salesforce and goes headless within 18 months 2. A new category of \"agent-native\" startups emerges that treat salesforce..."
+relevance: "Two threads converging on the same thesis: SaaS is shifting from per-seat (human) to per-action (agent) pricing. This is a structural shift in how enterprise software gets consumed and priced. Relevant to: - Every Consulting clients — Bloomberg, NYT, hedge funds all use per-seat SaaS. As agents consume these tools via API, the cost structure and value prop changes. This is something we should be discussing in discovery calls. -..."
 ---
-
 # Salesforce Going Headless: Agent-Native Pricing Disruption
 
 **Authors:** Greg Isenberg (@gregisenberg), J.B. (@VibeMarketer_)

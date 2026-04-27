@@ -4,8 +4,9 @@ title: "Weekly Skill Discovery Scan — Alex Lieberman"
 layout: post
 author: "Alex Lieberman (@businessbarista)"
 url_source: "https://x.com/businessbarista/status/2040173733168468177"
+snippet: "Stupid simple, but most powerful Claude skill I run.  Every Monday at 9am, Cowork scans my Linear, Notion, Slack, Gmail, and Cowork sessions to identify repeatable processes that should become skills.  It allows me to proactively become more AI-native without making it my full-time job."
+relevance: "This is a meta-automation pattern: using AI to find opportunities for more AI automation. Claudie already runs on a schedule and has access to Slack, Gmail, and session logs. We could build a similar weekly scan that reviews the team's interactions, identifies repeated manual processes, and proposes new skills or automations. This would make the team continuously more efficient without anyone having to think about it. ---"
 ---
-
 # Weekly Skill Discovery Scan — Alex Lieberman
 
 **Author:** Alex Lieberman (@businessbarista)

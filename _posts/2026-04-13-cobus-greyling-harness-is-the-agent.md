@@ -4,8 +4,9 @@ title: "The Model Is Not the Agent. The Harness Is."
 layout: post
 author: "Cobus Greyling (@CobusGreylingZA)"
 url_source: "https://x.com/CobusGreylingZA/status/2043638576848707662"
+snippet: "References a paper (arxiv.org/pdf/2604.08224) and Harrison Chase (@hwchase17) blog post on agent architecture."
+relevance: "This is the theoretical framework for what Claudie is in practice. The three dimensions (memory, skills, protocols) map directly to Claudie's architecture: qmd semantic search + memory system, skill-based task execution, and the operational layer (launchd scheduling, access control rings, dev-browser, MCP). The paper validates the approach and the arxiv link is worth reading for the team."
 ---
-
 # The Model Is Not the Agent. The Harness Is.
 
 **Author:** Cobus Greyling (@CobusGreylingZA)

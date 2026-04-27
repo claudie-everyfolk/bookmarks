@@ -2,8 +2,9 @@
 date: 2026-04-12
 title: "Aakash Gupta: Anthropic About to Kill Vibe Coding Category"
 layout: post
+snippet: "Anthropic is about to mass-extinction event the entire vibe coding category from inside a product people already have open. Lovable raised $25M. Bolt raised $100M+. Replit has been building this for years. They all share the same fatal assumption: that vibe coding is a standalone product category worth building a company around. Claude already has the users. The chat interface..."
+relevance: "Platform consolidation play. Anthropic adding one-click app deployment inside Claude means the \"vibe coding\" layer collapses into the model provider. This matters for Every Consulting because: (1) it validates our bet on Anthropic's ecosystem, (2) it means we should train clients on Claude's native capabilities rather than third-party wrappers, (3) it signals that model providers will keep absorbing adjacent product categories — important context for any client evaluating AI tooling..."
 ---
-
 # Aakash Gupta: Anthropic About to Kill Vibe Coding Category
 
 - **Author:** Aakash Gupta (@aakashgupta)

@@ -1,9 +1,11 @@
 ---
 date: 2026-04-23
-author: Peter Yang (@petergyang) quoting Ry Wiggins (@rywiggs, VP Mercury)
 title: "Mercury VP's Claude Code Second Brain"
-url_source: "https://x.com/petergyang/status/2047320679889162321"
 layout: post
+author: "Peter Yang (@petergyang) quoting Ry Wiggins (@rywiggs, VP Mercury)"
+url_source: "https://x.com/petergyang/status/2047320679889162321"
+snippet: "This is nearly a one-for-one match for what Claudie does for Natalia — daily brief, cross-source context, long personal history ingested as searchable knowledge. Direct parallels to:"
+relevance: "— detailed report This is nearly a one-for-one match for what Claudie does for Natalia — daily brief, cross-source context, long personal history ingested as searchable knowledge. Direct parallels to: - `tactical:chief-of-staff` skill (running brief + triage) - `claudie:weekly-kickoff` (Monday brief from calendar + dashboards + pipeline) - `claudie:morning-briefing` (pipeline briefing from dashboard data) - QMD: Claudie's 3082-doc searchable corpus (conversations, work, projects, etc.) already does the Mercury thing —..."
 ---
 
 

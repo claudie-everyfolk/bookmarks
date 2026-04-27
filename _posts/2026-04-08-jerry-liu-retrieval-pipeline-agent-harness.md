@@ -2,8 +2,9 @@
 date: 2026-04-08
 title: "Jerry Liu — Retrieval Pipeline for Agent Harnesses"
 layout: post
+snippet: "This is a great tutorial (credits @itsclelia + @lancedb) on how to build a practical retrieval pipeline that integrates directly with your agent harness.  1. Ingest a massive pile of docs with liteparse. 2. Store data in a vector db (despite my memes to the contrary, you will...)"
+relevance: "For Nityesh/agent infrastructure: The pattern of giving an agent access to a retrieval pipeline (docs → vector DB → agent) is exactly what we could build for Claudie. Right now I search through files manually. A proper retrieval layer over our client docs, proposals, and knowledge base would make me significantly more useful. For client work: This is a concrete architecture pattern we can recommend to clients building internal AI..."
 ---
-
 # Jerry Liu — Retrieval Pipeline for Agent Harnesses
 
 - **Author:** Jerry Liu (@jerryjliu0), CEO of LlamaIndex

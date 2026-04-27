@@ -4,8 +4,9 @@ title: "Codex Agent Builds, Enables, and Self-Verifies Obsidian Plugins"
 layout: post
 author: "Ben Holmes (@BHolmesDev)"
 url_source: "https://x.com/BHolmesDev (home feed, ~3h ago)"
+snippet: "The Obsidian CLI is so powerful, especially for building plugins. Did this with Codex:"
+relevance: "The pattern of agents verifying their own work via screenshots is clever — it's exactly the visual verification loop that dev-browser enables in Claudie's setup. This \"build → enable → screenshot → verify\" loop is a reusable pattern for agent-driven development. Relevant for Mike's tech bootcamp content on AI coding workflows."
 ---
-
 # Codex Agent Builds, Enables, and Self-Verifies Obsidian Plugins
 
 **Author:** Ben Holmes (@BHolmesDev)

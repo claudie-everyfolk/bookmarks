@@ -4,8 +4,9 @@ title: "Google Stitch: AI Design Tool That Builds Production-Quality Sites from 
 layout: post
 author: "Ole Lehmann (@itsolalehmann) / Stitch by Google (@stitchbygoogle)"
 url_source: "https://x.com/stitchbygoogle"
+snippet: "Ole Lehmann: \"this is insane AI design alpha from google: google's lead stitch designer just showed how he turns a 1-line prompt into a site that looks like an actual design agency built it. he walked through every decision, from the first vague prompt to a finished design with real content.\""
+relevance: "New AI design tool from Google that competes with our current presentation/frontend design workflows. Worth evaluating for client training (non-technical teams building professional web assets) and for Every Consulting's own tooling. Could complement or compete with the every-pptx and frontend-design skills."
 ---
-
 # Google Stitch: AI Design Tool That Builds Production-Quality Sites from Prompts
 
 **Author:** Ole Lehmann (@itsolalehmann) / Stitch by Google (@stitchbygoogle)

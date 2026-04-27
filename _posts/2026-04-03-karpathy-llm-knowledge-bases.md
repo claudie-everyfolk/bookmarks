@@ -4,8 +4,9 @@ title: "Karpathy: LLM Knowledge Bases"
 layout: post
 author: "Andrej Karpathy (@karpathy)"
 url_source: "https://x.com/karpathy (feed post, ~16h ago)"
+snippet: "\"LLM Knowledge Bases. Something I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into...\""
+relevance: "Direct validation of Claudie's architecture. Our entire memory system (MEMORY.md index, structured markdown directories, no vector database) is exactly this pattern. Karpathy just told 250K+ people it works. Full strategic analysis saved to Signal Digest entry #12."
 ---
-
 # Karpathy: LLM Knowledge Bases
 
 **Author:** Andrej Karpathy (@karpathy)

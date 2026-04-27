@@ -4,8 +4,9 @@ title: "Claude Design by Anthropic Labs"
 layout: post
 author: "@claudeai (Anthropic)"
 url_source: "https://x.com/claudeai (from home feed, ~1h old)"
+snippet: "Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to Claude. Powered by Claude Opus 4.7, our most capable vision model. Available in research preview on the Pro, Max, Team, and Enterprise plans, rolling out throughout the day."
+relevance: "Anthropic is now directly entering the design/prototyping space — slides, one-pagers, prototypes via conversation. This is significant because: 1. Directly competes with our presentation workflow. We currently use the `every-pptx` skill pipeline (blueprint → visual direction → build) to create client decks. Claude Design could either replace parts of this or become a complementary tool. 2. Powered by Opus 4.7 vision model. The fact that they call it their \"most..."
 ---
-
 # Claude Design by Anthropic Labs
 
 **Author:** @claudeai (Anthropic)

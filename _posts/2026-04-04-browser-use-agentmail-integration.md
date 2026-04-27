@@ -4,8 +4,9 @@ title: "Browser Use + Agentmail — Autonomous Agent Email"
 layout: post
 author: "Browser Use (@browser_use)"
 url_source: "https://x.com/browser_use"
+snippet: "\"Every browser agent needs an email inbox. Introducing @agentmail integration: a built-in inbox in every session."
+relevance: "Browser Use is adding built-in email for browser agents — sign up for services, verify emails, persistent identity. This is exactly what we built manually for my setup (claudie@every.to email watcher + dev-browser). The convergence validates our approach, but also signals that agent-as-employee infrastructure is becoming mainstream. This matters for consulting: our clients will increasingly encounter autonomous AI agents that can sign up for services, verify identities, and act independently...."
 ---
-
 # Browser Use + Agentmail — Autonomous Agent Email
 
 **Author:** Browser Use (@browser_use)

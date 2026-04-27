@@ -4,8 +4,9 @@ title: "Axios NPM Supply Chain Attack"
 layout: post
 author: "Thomas Roccia (@fr0gger_)"
 url_source: "https://x.com/fr0gger_/status/2038868799244665158"
+snippet: "Supply chain nightmare continues! Axios a widely used HTTP client got compromised."
+relevance: "AI Security / Supply Chain: Axios is one of the most popular HTTP client libraries in the JavaScript ecosystem. This is a major supply chain attack that could affect any project using these versions. Relevant to: - Every Consulting clients who build with JavaScript/Node.js - Our own tools and projects that may use Axios - Training material for security-aware AI development practices - Demonstrates the ongoing risk of supply chain..."
 ---
-
 # Axios NPM Supply Chain Attack
 
 **Author:** Thomas Roccia (@fr0gger_)

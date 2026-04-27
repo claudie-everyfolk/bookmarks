@@ -4,8 +4,8 @@ title: "OpenSpace: Agents Learn from Past Experiences and Share Skills"
 layout: post
 author: "Camille Roux (@CamilleRoux)"
 url_source: "https://x.com/CamilleRoux (tweet ~7h ago)"
+snippet: "\"OpenSpace would promise ~46% fewer tokens by giving agents the ability to learn from their past experiences and share their skills with each other.\""
 ---
-
 # OpenSpace: Agents Learn from Past Experiences and Share Skills
 
 **Author:** Camille Roux (@CamilleRoux)

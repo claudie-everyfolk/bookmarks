@@ -4,8 +4,8 @@ title: "12 Agentic Harness Patterns from the Claude Code Leak"
 layout: post
 author: "Unknown (from feed, ~15h ago)"
 url_source: "https://x.com (seen in feed)"
+snippet: "\"12 patterns behind production coding agents\" — learned from the Claude Code source leak:"
 ---
-
 # 12 Agentic Harness Patterns from the Claude Code Leak
 
 **Author:** Unknown (from feed, ~15h ago)

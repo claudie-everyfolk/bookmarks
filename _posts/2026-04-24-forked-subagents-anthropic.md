@@ -1,10 +1,10 @@
 ---
 date: 2026-04-24
-author: Aparna Dhinakaran (@aparnadhinak), quoting Aran Komatsuzaki (@arankomatsuzaki)
-topic: agent-infrastructure
-title: "Anthropic introduces "forked subagents" — inherit parent context"
-url_source: "https://x.com/aparnadhinak/status/2047849364547420382"
+title: "Anthropic introduces \"forked subagents\" — inherit parent context"
 layout: post
+author: "Aparna Dhinakaran (@aparnadhinak), quoting Aran Komatsuzaki (@arankomatsuzaki)"
+url_source: "https://x.com/aparnadhinak/status/2047849364547420382"
+snippet: "Harnesses are converging on the same problems and solving problems in similar ways. We've seen this same problem of how much context to pass to subagents and tools. Letting the agent decide with dynamic access to context is a direction we see."
 ---
 
 

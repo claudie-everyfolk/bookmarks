@@ -4,8 +4,9 @@ title: "Claude Code Context Window Management"
 layout: post
 author: "Aakash Gupta (@aakashgupta)"
 url_source: "https://x.com/aakashgupta/status/2043478788630303021"
+snippet: "Before you type a single message in Claude Code, 10-16% of your context window is already gone. System prompt ~2%, each MCP server ~8%+, custom agents ~4%."
+relevance: "Directly relevant to Claudie's architecture and Mike's Claude Code training curriculum. The CLI > API > MCP hierarchy is a practical teaching point for developer clients. Also relevant to our own setup — we use gws CLI over MCP for Google Workspace for exactly this reason."
 ---
-
 # Claude Code Context Window Management
 
 **Author:** Aakash Gupta (@aakashgupta)

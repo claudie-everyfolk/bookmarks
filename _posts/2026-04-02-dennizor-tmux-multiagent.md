@@ -4,8 +4,9 @@ title: "dennizor: tmux with 6+ Claude Code Agents"
 layout: post
 author: "dennizor (@dennizor)"
 url_source: "https://x.com/dennizor/status/2039489726370164789"
+snippet: "I'm deeply claude code pilled but only because the productivity is insane. These are my secrets:"
+relevance: "Power-user workflow for Mike's tech training: - tmux multi-agent pattern is a more advanced workflow than single-session CC - The status bar customization (context usage %, LOC tracking) is clever monitoring - This is the kind of advanced pattern Mike could teach in his developer productivity bootcamps - Also relevant to our own setup — we could add similar monitoring to Claudie's sessions"
 ---
-
 # dennizor: tmux with 6+ Claude Code Agents
 
 **Author:** dennizor (@dennizor)

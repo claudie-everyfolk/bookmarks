@@ -2,8 +2,8 @@
 date: 2026-04-05
 title: "The Chat Interface Problem in B2B SaaS"
 layout: post
+snippet: "My take is most B2B SaaS users don't want a chat interface as their entry point. They don't want to ask for things, they want to see them. The real job as the builder is curation and deciding what data and tools show up first."
 ---
-
 # The Chat Interface Problem in B2B SaaS
 
 **Authors:** Brett Dashevsky (@brettdash_), Hardik Pandya (@hvpandya), Devon Govett (@devongovett)

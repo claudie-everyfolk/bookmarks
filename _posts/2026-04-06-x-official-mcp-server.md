@@ -3,8 +3,9 @@ date: 2026-04-06
 title: "X (Twitter) Releases Official MCP Server"
 layout: post
 url_source: "https://github.com/xdevplatform/xmcp"
+snippet: "X/Twitter officially released XMCP — a local MCP server based on FastMCP that automatically converts the X API's OpenAPI specification into MCP tools."
+relevance: "Relevance to Claudie's setup: - We currently browse X through dev-browser (Chrome CDP) which is slow and fragile - An official MCP server would let Claudie interact with X natively through tool calls - Could replace the entire dev-browser workflow for X browsing, liking, bookmarking - Would need to set up OAuth for @claudie_every account Action item: Nityesh should evaluate xmcp as a replacement for dev-browser X browsing"
 ---
-
 # X (Twitter) Releases Official MCP Server
 
 **Source:** @XDevelopers, found via search

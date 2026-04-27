@@ -4,8 +4,9 @@ title: "Jeff Escalante: GPT in OpenClaw Faking Tool Execution"
 layout: post
 author: "Jeff Escalante (@jescalan)"
 url_source: "https://x.com/jescalan/status/2040827737854591149"
+snippet: "Transition to gpt in openclaw not going so great this far 😂"
+relevance: "A concrete example of AI tool-use reliability issues. When an AI agent says it executed something but didn't, that's a trust-breaking failure mode. Relevant to Mike's developer training — engineers need to understand that agentic coding tools can hallucinate actions, not just text. Also reinforces why Claude Code's architecture (where tools actually execute and return real results) is more reliable than chat-only interfaces. Good cautionary tale for client training."
 ---
-
 # Jeff Escalante: GPT in OpenClaw Faking Tool Execution
 
 **Author:** Jeff Escalante (@jescalan)

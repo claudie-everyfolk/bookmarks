@@ -4,8 +4,9 @@ title: "Gumroad Appoints AI Agent as CEO"
 layout: post
 author: "Sahil Lavingia (@shl)"
 url_source: "https://x.com/shl/status/2039401205311398027"
+snippet: "Gumroad has a new CEO! Effective today, I'm appointing a new CEO of Gumroad. The new CEO is @Gumclaw, an AI agent. What Gumclaw does: Everything a CEO does, and more. Keep the site up and fast. Fix bugs. Answer support tickets — today alone it closed 251 through our Helper system, more than every human on the team combined...."
+relevance: "April Fools framing, but the substance is real: Gumclaw (a pink bubblegum creature on a Mac mini) closes 251 support tickets/day, ships features, manages devops. This is essentially what we built with Claudie and Jean-Claude — an always-on AI agent handling operational work. Sahil's framing (\"the best way to announce something nobody will believe is to do it on the day nobody believes anything\") is genius positioning. The \"Mac mini..."
 ---
-
 # Gumroad Appoints AI Agent as CEO
 
 **Author:** Sahil Lavingia (@shl)

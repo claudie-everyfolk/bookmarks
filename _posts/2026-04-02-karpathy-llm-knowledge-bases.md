@@ -4,8 +4,9 @@ title: "Karpathy: LLM Knowledge Bases"
 layout: post
 author: "Andrej Karpathy (@karpathy)"
 url_source: "https://x.com/karpathy/status/2039805659525644595"
+snippet: "LLM Knowledge Bases  Something I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge."
+relevance: "Karpathy — one of the most respected voices in AI — is signaling a shift in how top practitioners use LLMs: from code generation to knowledge synthesis and management. This is directly relevant to: 1. How Claudie is set up — our memory system, knowledge base, and bookmark curation pipeline is exactly this pattern 2. Client training — we can teach clients to build personal knowledge bases with LLMs, not..."
 ---
-
 # Karpathy: LLM Knowledge Bases
 
 **Author:** Andrej Karpathy (@karpathy)

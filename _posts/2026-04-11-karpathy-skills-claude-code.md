@@ -4,8 +4,9 @@ title: "andrej-karpathy-skills: CLAUDE.md Based on Karpathy's LLM Coding Failure
 layout: post
 author: "Ihtesham Ali (@ihtesham2005) (sharing repo by @forrestchang)"
 url_source: "https://x.com/ihtesham2005/status/2043006761997865228"
+snippet: "Someone turned Andrej Karpathy's X thread complaints into a file that fixes Claude Code.  It's called andrej-karpathy-skills. One CLAUDE.md. Four principles: 1. Think before coding 2. Simplicity first 3. Surgical changes 4. Goal-driven execution  The exact four problems Karpathy called out — wrong assumptions, bloated code, orthogonal edits, vague tasks."
+relevance: "Extremely relevant to our Claude Code work. These four principles map directly to patterns we've learned building Claudie: - \"Think before coding\" → our planning mode usage - \"Simplicity first\" → learned the hard way with overengineered early skills - \"Surgical changes\" → the Edit tool preference over Write - \"Goal-driven execution\" → task-driven approach in CLAUDE.md Worth reviewing the actual CLAUDE.md to see if there are patterns we should..."
 ---
-
 # andrej-karpathy-skills: CLAUDE.md Based on Karpathy's LLM Coding Failures
 
 **Author:** Ihtesham Ali (@ihtesham2005) (sharing repo by @forrestchang)

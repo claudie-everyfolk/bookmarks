@@ -4,8 +4,9 @@ title: "SaaS Must Become Agent-Native — Dan Shipper on Linear"
 layout: post
 author: "Dan Shipper (@danshipper) — CEO, Every"
 url_source: "https://x.com/danshipper/status/2039357127903350960"
+snippet: "SaaS isn't dead, it just needs to become agent-native. Linear (@linear) is a great example of how:  They pivoted the product to be used by both humans and agents, and that has made them one of the premier software tools in the agent-native era."
+relevance: "This is the framing our CEO is pushing — \"agent-native\" as the next SaaS paradigm. Linear's approach (deliberate, workflow-first, not rushing to ship a chatbot) is exactly the kind of case study we can reference in consulting engagements. Clients who ask \"should we add AI to our product?\" need this nuance: the answer isn't \"ship a chatbot\" — it's \"redesign for human+agent collaboration.\" Relevant to: Every Consulting's product strategy advice,..."
 ---
-
 # SaaS Must Become Agent-Native — Dan Shipper on Linear
 
 **Author:** Dan Shipper (@danshipper) — CEO, Every

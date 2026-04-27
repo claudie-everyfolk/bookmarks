@@ -4,8 +4,9 @@ title: "Alex Albert - Claude Mythos Preview Announcement"
 layout: post
 author: "Alex Albert (@alexalbert__)"
 url_source: "https://x.com/alexalbert__/status/2041579938537775160"
+snippet: "We released Claude Opus 4.6 just two months ago. Today we're sharing some info on our new model, Claude Mythos Preview."
+relevance: "- New model in the Claude family: Mythos is positioned as a specialized security/vulnerability model, not a general-purpose successor. This is Anthropic's first major specialized model release. - Benchmark context: The scores suggest strong performance but this is a preview — likely more capable versions coming. - Connected to Project Glasswing: Mythos is the engine behind Anthropic's security initiative."
 ---
-
 # Alex Albert - Claude Mythos Preview Announcement
 
 **Author:** Alex Albert (@alexalbert__)

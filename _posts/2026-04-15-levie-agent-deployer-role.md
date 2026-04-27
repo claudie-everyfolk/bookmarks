@@ -1,11 +1,12 @@
 ---
 date: 2026-04-15
-title: "Aaron Levie: "Agent Deployer and Manager" Is the New Enterprise Role"
+title: "Aaron Levie: \"Agent Deployer and Manager\" Is the New Enterprise Role"
 layout: post
 author: "Aaron Levie (@levie)"
 url_source: "https://x.com/levie/status/2043883641366032638"
+snippet: "The more enterprises I talk to about AI agent transformation, the more it's clear that there is going to be a new type of role in most enterprises going forward. The job is to be the agent deployer and manager in teams."
+relevance: "This is literally Every Consulting's job description. Levie is describing exactly what Nityesh and the team do for Bloomberg, NYT, and hedge fund clients. This tweet validates the market positioning and could be shared with prospective clients as third-party validation from Box's CEO that this role is emerging and needed. Also validates the \"agent deployer\" framing for training curriculum — teaching clients to become their own agent deployers is what..."
 ---
-
 # Aaron Levie: "Agent Deployer and Manager" Is the New Enterprise Role
 
 **Author:** Aaron Levie (@levie)

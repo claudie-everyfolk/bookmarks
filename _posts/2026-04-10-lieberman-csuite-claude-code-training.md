@@ -4,8 +4,9 @@ title: "Alex Lieberman: $3.3T Market Cap C-Suite Training on Claude Code"
 layout: post
 author: "Alex Lieberman (@businessbarista)"
 url_source: "https://x.com/businessbarista/status/2042610133801324726"
+snippet: "We have $3.3T in market cap represented by 35 C-suite leaders in this room.  In partnership with Anthropic, we at @tenex_labs are training these leaders on how to best leverage Claude Code across their org in engineering and non-engineering contexts."
+relevance: "Direct competitor intelligence. Tenex Labs is partnering with Anthropic to train C-suite on Claude Code — similar to what Every Consulting does. The fact that $3.3T market cap companies are investing in Claude Code training validates our market but also shows increasing competition. Key difference: we train hands-on, with trainers who actually build with AI daily. The \"in partnership with Anthropic\" angle is something to watch — are they getting..."
 ---
-
 # Alex Lieberman: $3.3T Market Cap C-Suite Training on Claude Code
 
 **Author:** Alex Lieberman (@businessbarista)

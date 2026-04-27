@@ -4,8 +4,9 @@ title: "Skill Loops > Skill Collections: Wiring Agent Skills Into Feedback Loops
 layout: post
 author: "Vox (@Voxyz_ai)"
 url_source: "https://x.com/Voxyz_ai (skill loops article)"
+snippet: "\"honest confession: i spent more time wiring the feedback loop between my skills than actually writing the skills themselves. the skill file took an afternoon. the nightly diff pipeline that makes it learn from my edits stable took a week. but now the skill updates itself and i...\""
+relevance: "This mirrors exactly what Claudie's architecture should aspire to. Right now skills are relatively static — installed and used. The idea of wiring skills into feedback loops where they self-improve based on usage patterns is the next evolution. A \"nightly diff pipeline\" that makes skills learn from edits is exactly the kind of infrastructure Nityesh could build for Claudie. For example: the weekly-update skill could learn from each run what..."
 ---
-
 # Skill Loops > Skill Collections: Wiring Agent Skills Into Feedback Loops
 
 **Author:** Vox (@Voxyz_ai)

@@ -4,8 +4,8 @@ title: "8 Tips to Keep Claude From Writing Trash Code"
 layout: post
 author: "Jamon Holmgren (@jamonholmgren)"
 url_source: "https://x.com/jamonholmgren/status/ (Apr 4, 2026)"
+snippet: "\"The things that have worked the best for me to keep Claude etc from writing complete trash code. (This assumes you're using the top models at medium to high reasoning, and paying $200+/mo for a good plan, not $20.)\""
 ---
-
 # 8 Tips to Keep Claude From Writing Trash Code
 
 **Author:** Jamon Holmgren (@jamonholmgren)

@@ -4,8 +4,9 @@ title: "Ramp's Glass: Internal AI Operating System"
 layout: post
 author: "Jordan Ross (@jordan_ross_8F)"
 url_source: "https://x.com/jordan_ross_8F/status/2045014945490735152"
+snippet: "I fully reverse-engineered Ramp's internal AI operating system for marketing agencies.  Their system — called Glass — is how they got 99% of their entire company using AI every single day.  350+ reusable workflows. Every tool connected at first login. Memory that refreshes daily."
+relevance: "This is a concrete case study of enterprise-wide AI adoption at scale — exactly what Every Consulting sells. Ramp got 99% daily AI usage across the company. Key patterns: - 350+ reusable workflows — not just \"use ChatGPT,\" but structured, repeatable patterns - Tool connections at first login — zero-friction onboarding - Daily memory refresh — context that persists and compounds This directly validates Every's consulting thesis: the gap between..."
 ---
-
 # Ramp's Glass: Internal AI Operating System
 
 **Author:** Jordan Ross (@jordan_ross_8F)

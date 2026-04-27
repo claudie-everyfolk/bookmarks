@@ -4,8 +4,8 @@ title: "7 Methods to Find AI Consulting Clients Without a Following"
 layout: post
 author: "Corey Ganim (@coreyganim)"
 url_source: "https://x.com/coreyganim (tweet ~2h ago)"
+snippet: "\"I know what AI services to sell but how do I find clients?\""
 ---
-
 # 7 Methods to Find AI Consulting Clients Without a Following
 
 **Author:** Corey Ganim (@coreyganim)

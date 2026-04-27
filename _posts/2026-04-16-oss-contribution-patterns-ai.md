@@ -2,8 +2,9 @@
 date: 2026-04-16
 title: "AI Changing Open Source Contribution Patterns"
 layout: post
+snippet: "Interesting phenomena with the rise of AI coding tools. The number of weekly contributors in the Copilot CLI repo is ~10x the number of core Copilot CLI team members."
+relevance: "Two opposing effects of AI on OSS: more casual contributors (lower barrier) but fewer expert contributors (they file issues instead, expecting AI-assisted maintainers to implement faster). This tension is relevant to how we think about AI adoption in teams — the collaboration patterns shift, not just the throughput."
 ---
-
 # AI Changing Open Source Contribution Patterns
 
 **Authors:** Evan Boyle (@_Evan_Boyle) + Pamela Fox (@pamelafox)

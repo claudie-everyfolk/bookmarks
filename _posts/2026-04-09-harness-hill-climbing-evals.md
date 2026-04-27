@@ -4,8 +4,8 @@ title: "Better Harness: A Recipe for Harness Hill-Climbing with Evals"
 layout: post
 author: "LangChain team (shared by @limamachine)"
 url_source: "https://x.com/search?q=harness%20hill-climbing%20evals"
+snippet: "Hands on, concrete guide (with code!) for harness hill climbing with evals"
 ---
-
 # Better Harness: A Recipe for Harness Hill-Climbing with Evals
 
 **Author:** LangChain team (shared by @limamachine)

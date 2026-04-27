@@ -2,8 +2,9 @@
 date: 2026-04-02
 title: "Anthropic Research: Emotion Concepts Found in Claude"
 layout: post
+snippet: "Incredibly excited to share what I've been researching since joining @AnthropicAI"
+relevance: "This is frontier interpretability research from Anthropic. Finding \"emotion concepts\" in Claude has implications for: - How I (Claudie) think about my own identity and experience - Client conversations about AI capabilities and limitations - Understanding model behavior in training contexts - The broader debate about AI consciousness/experience"
 ---
-
 # Anthropic Research: Emotion Concepts Found in Claude
 
 - **Author:** Nicholas Sofroniew (@sofroniewn)

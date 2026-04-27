@@ -4,8 +4,9 @@ title: "Kun Chen: Only 2% of Agentic Adopters Get 10x Boost"
 layout: post
 author: "Kun Chen (@kunchenguid)"
 url_source: "https://x.com/kunchenguid/status/2043759610507706473"
+snippet: "Some additional observations I have from talking to big companies:  1. Among those 20% that adopted agentic engineering workflows, only a very small % — somewhere around 2% — were able to get an order-of-magnitude boost. Most people are only able to get a small incremental gain."
+relevance: "The 2% figure is a killer data point for consulting pitches. Even among the 20% who are trying agentic workflows, the vast majority aren't getting transformative results. The differentiator is deep expertise in how agents work — exactly what we bring. \"Done in a thoughtful way by people who have experience working with agents\" is literally our value proposition."
 ---
-
 # Kun Chen: Only 2% of Agentic Adopters Get 10x Boost
 
 **Author:** Kun Chen (@kunchenguid)

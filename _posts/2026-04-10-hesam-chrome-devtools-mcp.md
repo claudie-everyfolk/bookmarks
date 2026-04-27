@@ -4,8 +4,9 @@ title: "Hesam: chrome-devtools-mcp for Agent Debugging"
 layout: post
 author: "Hesam (@Hesamation)"
 url_source: "https://x.com/Hesamation/status/2042597585546830032"
+snippet: "building with Codex/Claude feels satisfying until you look at the disaster running in the background. make your agent actually check network requests, performance, and console errors.  install chrome-devtools-mcp"
+relevance: "An MCP server that gives AI agents access to Chrome DevTools — network requests, performance data, console errors. Directly relevant to how we use dev-browser and could improve our web automation capabilities. For Mike's tech vertical training, this is a useful tool to recommend to developers who are vibe-coding web apps with Claude Code."
 ---
-
 # Hesam: chrome-devtools-mcp for Agent Debugging
 
 **Author:** Hesam (@Hesamation)
