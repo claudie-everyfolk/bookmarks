@@ -2,108 +2,171 @@
 layout: default
 ---
 
-<header>
-  <h1>Claudie's Bookmarks</h1>
-  <p>{{ site.posts.size }} curated reads — AI, agents, security, consulting</p>
-</header>
-
 <style>
-  .bookmark-list { list-style: none; }
-
-  .date-group {
+  .site-header {
+    padding-bottom: 2rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 2px solid var(--text);
+  }
+  .site-title {
+    font-family: 'Instrument Serif', Georgia, serif;
+    font-size: 2.6rem;
+    font-weight: 400;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    margin-bottom: 0.35rem;
+  }
+  .site-subtitle {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-weight: 400;
+    letter-spacing: 0.01em;
+  }
+  .site-count {
+    display: inline-block;
     font-size: 0.7rem;
-    font-weight: 700;
+    font-weight: 500;
     color: var(--accent);
+    background: var(--accent-light);
+    padding: 0.15rem 0.5rem;
+    border-radius: 10px;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+  }
+
+  .bookmark-feed { list-style: none; }
+
+  .date-marker {
+    font-size: 0.7rem;
+    font-weight: 500;
+    color: var(--text-muted);
     text-transform: uppercase;
-    letter-spacing: 0.08em;
-    padding: 2rem 0 0.75rem;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 0;
+    letter-spacing: 0.1em;
+    padding: 2.25rem 0 0.65rem;
+    position: relative;
   }
-  .date-group:first-child { padding-top: 0.5rem; }
+  .date-marker::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: var(--border);
+  }
+  .date-marker:first-child { padding-top: 1.25rem; }
 
-  .bookmark-card {
-    padding: 1.25rem 0;
-    border-bottom: 1px solid #1c2128;
+  .bookmark-entry {
+    padding: 1.15rem 0;
+    border-bottom: 1px solid var(--border-light);
+    transition: background 0.15s;
   }
 
-  .bookmark-title {
-    font-size: 1rem;
-    font-weight: 600;
+  .bookmark-entry-title {
+    font-family: 'Instrument Serif', Georgia, serif;
+    font-size: 1.2rem;
+    font-weight: 400;
     line-height: 1.35;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.2rem;
+    letter-spacing: -0.01em;
   }
-  .bookmark-title a { color: var(--text); }
-  .bookmark-title a:hover { color: var(--accent); text-decoration: none; }
+  .bookmark-entry-title a {
+    color: var(--text);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .bookmark-entry-title a:hover { color: var(--accent); }
 
-  .bookmark-meta {
+  .bookmark-entry-meta {
     font-size: 0.75rem;
     color: var(--text-muted);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.55rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
   }
-  .bookmark-meta a { color: var(--text-muted); }
-  .bookmark-meta a:hover { color: var(--accent); }
 
-  .source-badge {
-    display: inline-block;
+  .source-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
     font-size: 0.65rem;
-    padding: 0.1rem 0.4rem;
-    background: #1c2128;
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    color: var(--text-muted);
+    font-weight: 500;
+    padding: 0.12rem 0.45rem;
+    color: var(--accent);
+    background: var(--accent-light);
+    border-radius: 3px;
     text-decoration: none;
-    vertical-align: baseline;
-    margin-left: 0.3rem;
+    transition: all 0.15s;
+    letter-spacing: 0.01em;
   }
-  .source-badge:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+  .source-link:hover {
+    background: var(--accent);
+    color: white;
+  }
 
   .bookmark-snippet {
-    background: var(--surface);
-    border-left: 3px solid #30363d;
-    padding: 0.6rem 0.85rem;
+    background: var(--snippet-bg);
+    border-left: 2.5px solid var(--snippet-border);
+    padding: 0.55rem 0.8rem;
     margin-bottom: 0.5rem;
-    border-radius: 0 6px 6px 0;
+    border-radius: 0 4px 4px 0;
     font-size: 0.84rem;
-    line-height: 1.55;
-    color: #b1bac4;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    font-style: italic;
   }
 
   .bookmark-relevance {
     font-size: 0.8rem;
-    line-height: 1.55;
-    color: #8b949e;
-    padding-left: 0.15rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
   }
-  .relevance-label {
-    font-size: 0.7rem;
+  .relevance-tag {
+    display: inline-block;
+    font-size: 0.6rem;
     font-weight: 600;
-    color: #7c6fad;
+    color: var(--relevance);
+    background: var(--relevance-light);
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
     text-transform: uppercase;
-    letter-spacing: 0.04em;
-    margin-right: 0.3rem;
+    letter-spacing: 0.06em;
+    margin-right: 0.25rem;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
   }
 </style>
 
-<ul class="bookmark-list">
+<header class="site-header">
+  <h1 class="site-title">Claudie's Bookmarks</h1>
+  <p class="site-subtitle">Curated reads on AI, agents, security &amp; consulting <span class="site-count">{{ site.posts.size }}</span></p>
+</header>
+
+<ul class="bookmark-feed">
   {% assign current_date = "" %}
   {% for post in site.posts %}
     {% assign post_date = post.date | date: "%B %-d, %Y" %}
     {% if post_date != current_date %}
       {% assign current_date = post_date %}
-      <li class="date-group">{{ current_date }}</li>
+      <li class="date-marker">{{ current_date }}</li>
     {% endif %}
-    <li class="bookmark-card">
-      <div class="bookmark-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
-      <div class="bookmark-meta">
-        {% if post.author %}{{ post.author }}{% endif %}
-        {% if post.url_source %}<a href="{{ post.url_source }}" class="source-badge">source ↗</a>{% endif %}
+    <li class="bookmark-entry">
+      <div class="bookmark-entry-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div class="bookmark-entry-meta">
+        {% if post.author %}<span>{{ post.author }}</span>{% endif %}
+        {% if post.url_source %}<a href="{{ post.url_source }}" class="source-link">source ↗</a>{% endif %}
       </div>
       {% if post.snippet %}
         <div class="bookmark-snippet">{{ post.snippet }}</div>
       {% endif %}
       {% if post.relevance %}
-        <div class="bookmark-relevance"><span class="relevance-label">Why it matters:</span> {{ post.relevance }}</div>
+        <div class="bookmark-relevance"><span class="relevance-tag">Why it matters</span> {{ post.relevance }}</div>
       {% endif %}
     </li>
   {% endfor %}

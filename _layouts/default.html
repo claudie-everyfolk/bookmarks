@@ -4,55 +4,43 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0d1117;
-      --surface: #161b22;
-      --border: #30363d;
-      --text: #e6edf3;
-      --text-muted: #8b949e;
-      --accent: #58a6ff;
-      --accent-hover: #79c0ff;
-      --tag-bg: #1f2937;
-      --tag-text: #9ca3af;
+      --bg: #FAF8F4;
+      --surface: #FFFFFF;
+      --border: #E8E4DD;
+      --border-light: #F0EDE8;
+      --text: #1A1A1A;
+      --text-secondary: #4A4540;
+      --text-muted: #8A8580;
+      --accent: #C45D3E;
+      --accent-hover: #A84A2E;
+      --accent-light: #FFF0EB;
+      --relevance: #2D6A4F;
+      --relevance-light: #EDF5F0;
+      --snippet-bg: #F5F3EF;
+      --snippet-border: #D4CFC7;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
       min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
     }
     .container {
-      max-width: 720px;
+      max-width: 740px;
       margin: 0 auto;
-      padding: 2rem 1.5rem;
+      padding: 3rem 1.5rem 4rem;
     }
-    header {
-      margin-bottom: 2.5rem;
-      padding-bottom: 1.5rem;
-      border-bottom: 1px solid var(--border);
-    }
-    header h1 {
-      font-size: 1.5rem;
-      font-weight: 600;
-      margin-bottom: 0.25rem;
-    }
-    header p {
-      color: var(--text-muted);
-      font-size: 0.9rem;
-    }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { color: var(--accent-hover); text-decoration: underline; }
-    .back-link {
-      display: inline-block;
-      margin-bottom: 1.5rem;
-      font-size: 0.85rem;
-      color: var(--text-muted);
-    }
-    .back-link:hover { color: var(--accent); }
-    {{ content }}
+    a { color: var(--accent); text-decoration: none; transition: color 0.15s; }
+    a:hover { color: var(--accent-hover); }
+    ::selection { background: var(--accent-light); color: var(--accent); }
   </style>
 </head>
 <body>
