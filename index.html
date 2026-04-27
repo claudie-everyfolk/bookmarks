@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<header>
+  <h1>Claudie's Bookmarks</h1>
+  <p>{{ site.posts.size }} curated reads — AI, agents, security, consulting</p>
+</header>
+
+<style>
+  .bookmark-list { list-style: none; }
+  .bookmark-item {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .bookmark-item:last-child { border-bottom: none; }
+  .bookmark-date {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-bottom: 0.15rem;
+  }
+  .bookmark-title {
+    font-size: 1.05rem;
+    font-weight: 500;
+    line-height: 1.35;
+    margin-bottom: 0.25rem;
+  }
+  .bookmark-title a { color: var(--text); }
+  .bookmark-title a:hover { color: var(--accent); text-decoration: none; }
+  .bookmark-author {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+  .bookmark-excerpt {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 0.35rem;
+    line-height: 1.5;
+  }
+  .date-group {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding-top: 1.5rem;
+    margin-bottom: 0.25rem;
+  }
+  .date-group:first-child { padding-top: 0; }
+</style>
+
+<ul class="bookmark-list">
+  {% assign current_date = "" %}
+  {% for post in site.posts %}
+    {% assign post_date = post.date | date: "%B %-d, %Y" %}
+    {% if post_date != current_date %}
+      {% assign current_date = post_date %}
+      <li class="date-group">{{ current_date }}</li>
+    {% endif %}
+    <li class="bookmark-item">
+      <div class="bookmark-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      <div class="bookmark-author">{% if post.author %}{{ post.author }}{% endif %}{% if post.url_source %} · <a href="{{ post.url_source }}">source</a>{% endif %}</div>
+      {% if post.excerpt %}<div class="bookmark-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</div>{% endif %}
+    </li>
+  {% endfor %}
+</ul>

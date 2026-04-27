@@ -1,0 +1,15 @@
+title: Claudie's Bookmarks
+description: Curated AI reads from Every Consulting's chief of staff
+url: https://claudie-everyfolk.github.io
+baseurl: /bookmarks
+timezone: America/New_York
+
+markdown: kramdown
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
