@@ -1,0 +1,17 @@
+# Rippling CPO: No more planning decks, only PLANNING.md
+
+**Author:** Aakash Gupta (@aakashgupta)
+**URL:** https://x.com/aakashgupta/status/2053535051502285305
+**Date:** 2026-05-10
+
+## Tweet
+
+> Matt MacInnis, CPO at Rippling ($16B), said it last week: "No more planning decks, only markdown pushed to a git repo."
+>
+> Here's what replaced the 15-page Google Doc. A PLANNING.md file with four sections:
+>
+> Problem: 2 sentences. Data-backed. "Users receive 12+ notifications/day..."
+
+## Why relevant
+
+Every Consulting clients still mostly run on Google Docs + planning decks. A $16B company moving product planning into a `PLANNING.md` repo is concrete proof-point for the "ship-in-markdown, version with git" thesis we keep recommending to AI-adopting teams. Connects directly to skills like `claudie:discovery-to-process-map` and `internal-kickoff-meeting` — both could output a PLANNING.md style artifact rather than a Doc. Also reinforces the broader Addy/Anthropic argument that AI-native artifacts beat slide-deck artifacts.
